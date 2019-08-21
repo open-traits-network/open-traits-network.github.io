@@ -1,0 +1,158 @@
+body
+{   background:#75867d;
+}
+
+
+#container
+{
+	margin: 0 auto;
+	width: 800px;
+	background:#FFF;
+	font-family: "Arial";
+	
+}
+
+#photo
+{
+	margin: 0 auto;
+	width: 800px;
+	background:#fff;
+
+}
+
+#picture
+{
+	margin: 0 auto;
+	padding:2px;
+
+}
+
+
+
+#header
+{
+	background:#fff;
+	padding: 15px;
+}
+
+#header h1 { margin: 0; }
+
+#navigation {
+	float: left;
+	width: 800px;
+	background:#333;
+	font-family: "Arial";
+	font-size:20px;
+	
+}
+
+#navigation ul {
+	
+	padding:0;
+     margin:0;
+     list-style: none;
+     background:#333;
+     height:30px;
+}
+#navigation ul li {
+	float: left;
+     list-style-type: none;
+	display: inline;
+}
+#navigation a:link, a:visited {
+     text-decoration: none;
+     color: #FFF;
+     font-weight:bold;
+}
+#navigation ul li a, ul li a:visited {
+     display:block;
+     color:#fff;
+     height:auto;
+     line-height:20px;
+     padding:10px;
+     text-align:center;
+}
+#navigation ul li a:hover {
+     display:block;
+     color:#333;
+     background:#dbeffc;
+     line-height:20px;
+     padding:10px;
+}
+#navigation ul li ul, ul li:hover ul li ul {
+     display: none;
+}
+#navigation ul li:hover ul {
+     display:block;
+     position:absolute; 
+     top:154px;
+     left:500;
+     height:auto;
+}
+#navigation ul li:hover ul li a {
+     display:block;
+     text-align:left; 
+     border-bottom:1px solid #FFF;
+}
+#navigation ul li:hover ul li:hover ul {
+     display:block;
+     position:absolute;
+     left:124px;
+     top:0;
+}
+
+#banner
+
+{
+	
+	float: left;
+	width: 800px;
+	background:#333;
+	
+}
+
+#content 
+{
+	clear: left;
+	padding: 20px;
+	font-family: "Arial";
+}
+
+#content a:visited
+{
+	color: #0C6;
+}
+	
+}
+
+#quotes
+{
+	clear: left;
+	padding: 10px;
+	background-color:#000;
+	color:#FFF;
+}
+
+#content h1
+{
+	color:#000;
+	font-size: 220%;
+	margin: 0 0 .5em;
+	font-family: "Arial";
+}
+
+#content h2
+{
+	color:#000;
+	font-size: 160%;
+	margin: 0 0 .5em;
+	font-family: "Arial";
+}
+
+#footer
+{
+	background:#ccc;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+}
