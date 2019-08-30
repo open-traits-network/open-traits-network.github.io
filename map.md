@@ -21,7 +21,11 @@ var otnMembers = [
         "properties": {
             "name": "{{ member.name }}",
             "popupContent": "\
+              {% if member.image %}\
 	    	<img src='{{ member.image }}'>\
+              {% elsif member.github %}\
+                <img src='https://github.com/{{ member.github }}.png?size=128'>\
+              {% endif %}\
 		<a href='{{ member.homepage }}'>{{ member.name }}</a>,\
 		{{ member.affiliation }}\
 		<br><br><em>{{ member.info }}</em>\
