@@ -45,9 +45,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
  ## Instructions for Registry Curators
 
 ### Add Member
- TODO: https://github.com/open-traits-network/open-traits-network.github.io/issues/3
 
-Members can be added by creating a file in [`_members/`](_members/) with content like this:
+Members can be added by creating a file named ```<firstname>-<lastname>.md``` in [`_members/`](_members/) with content like this:
 
 ```yml
 ---
