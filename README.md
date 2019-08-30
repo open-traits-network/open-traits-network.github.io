@@ -47,6 +47,31 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ### Add Member
  TODO: https://github.com/open-traits-network/open-traits-network.github.io/issues/3
 
+Members can be added by creating a file in [`_members/`](_members/) with content like this:
+
+```yml
+---
+id: <firstname-lastname>
+name: <name>
+email: <email address>
+homepage: <homepage url>
+lat: <latitude of primary institution>
+long: <longitude of primary institution>
+image: <path to image file in repo>
+affiliation: <primary affiliation>
+info: <short info>
+github: <github user name>
+---
+
+<longer info>
+```
+
+Replace the `<placeholders>` with actual values.
+The fields `id` and `name` are required, all other fields are optional.
+Setting `lat` and `long` will add the member to the [map](https://opentraits.org/map).
+The other fields are used to enrich the popup when the member is select on the map and for the individual member pages.
+The image should be stored in [`assets/img/map`](assets/img/map), if `image` is not available but `github` is set the profile picture will be used on the map.
+
 ### Add Dataset
  TODO: https://github.com/open-traits-network/open-traits-network.github.io/issues/4
 
