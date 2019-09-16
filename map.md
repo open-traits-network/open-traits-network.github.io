@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Map
 ---
 
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
