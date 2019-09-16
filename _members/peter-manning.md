@@ -1,4 +1,5 @@
 ---
+layout: member
 id: peter-manning
 name: Peter Manning
 lat: 50.115512

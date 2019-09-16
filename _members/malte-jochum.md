@@ -1,4 +1,5 @@
 ---
+layout: member
 id: malte-jochum
 name: Malte Jochum
 lat: 46.953535

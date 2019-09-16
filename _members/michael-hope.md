@@ -1,4 +1,5 @@
 ---
+layout: member
 id: michael-hope
 name: Michael Hope
 lat: -35.306385

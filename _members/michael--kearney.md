@@ -1,4 +1,5 @@
 ---
+layout: member
 id: michael--kearney
 name: Michael  Kearney
 lat: -37.911242

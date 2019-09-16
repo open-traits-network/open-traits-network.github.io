@@ -1,4 +1,5 @@
 ---
+layout: member
 id: steven-l-chown
 name: Steven L Chown
 lat: -37.911242

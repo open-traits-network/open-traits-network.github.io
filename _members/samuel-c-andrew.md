@@ -1,4 +1,5 @@
 ---
+layout: member
 id: samuel-c-andrew
 name: Samuel C Andrew
 lat: -35.306385

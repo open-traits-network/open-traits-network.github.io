@@ -1,4 +1,5 @@
 ---
+layout: member
 id: james-aaron-hogan
 name: James Aaron Hogan
 lat: 25.716559

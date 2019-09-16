@@ -1,4 +1,5 @@
 ---
+layout: member
 id: meghan-balk
 name: Meghan Balk
 lat: 32.237699

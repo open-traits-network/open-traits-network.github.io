@@ -1,4 +1,5 @@
 ---
+layout: member
 id: ian-j-wright
 name: Ian J Wright
 lat: -33.77403

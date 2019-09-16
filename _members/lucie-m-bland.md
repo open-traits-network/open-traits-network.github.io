@@ -1,4 +1,5 @@
 ---
+layout: member
 id: lucie-m-bland
 name: Lucie M Bland
 lat: -37.846766
