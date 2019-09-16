@@ -27,7 +27,7 @@ var otnMembers = [
               {% elsif member.github %}\
                 <img src='https://github.com/{{ member.github }}.png?size=128'>\
               {% endif %}\
-		<a href='{{ member.homepage }}'>{{ member.name }}</a>,\
+		<a href='{{ member.id }}'>{{ member.name }}</a>,\
 		{{ member.affiliation }}\
 		<br><br><em>{{ member.info }}</em>\
 		"
