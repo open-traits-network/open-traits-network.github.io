@@ -1,4 +1,5 @@
 ---
+layout: member
 id: brittany-r-cavazos
 name: Brittany R Cavazos
 lat: 29.718628

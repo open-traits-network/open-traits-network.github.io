@@ -1,4 +1,5 @@
 ---
+layout: member
 id: florian-d-schneider
 name: Florian D Schneider
 lat: 

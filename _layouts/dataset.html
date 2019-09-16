@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Dataset: {{ page.name | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    
+    <p>Timestamp: {{ page.Timestamp }}</p>
+    <p>datasetDOI_URL: {{ page.datasetDOI_URL }}</p>
+    <p>contactName: {{ page.contactName }}</p>
+    <p>contactEmail: <a href="mailto:{{ page.contactEmail }}">{{ page.contactEmail }}</a></p>
+    <p>license: {{ page.license }}</p>
+    <p>traitList: {{ page.traitList }}</p>
+    <p>higherGeography: {{ page.higherGeography }}</p>
+    <p>decimalLatitude: {{ page.decimalLatitude }}</p>
+    <p>decimalLongitude: {{ page.decimalLongitude }}</p>
+    <p>taxon: {{ page.taxon }}</p>
+    <p>eventDate: {{ page.eventDate }}</p>
+    <p>paperDOIcitation: {{ page.paperDOIcitation }}</p>
+    <p>description: {{ page.description }}</p>
+    <p>taxaList: {{ page.taxaList }}</p>
+    <p>usefulClasses: {{ page.usefulClasses }}</p>
+    <p>dataStandard: {{ page.dataStandard }}</p>
+    <p>standardizationScripts: {{ page.standardizationScripts }}</p>
+    <!-- {{ content }} -->
+
+  </div>
+
+</article>

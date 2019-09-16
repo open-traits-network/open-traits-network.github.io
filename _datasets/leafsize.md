@@ -1,4 +1,5 @@
 ---
+layout: dataset
 id: leafsize
 name: Leaf size traits
 contact:

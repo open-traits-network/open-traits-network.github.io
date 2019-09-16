@@ -1,4 +1,5 @@
 ---
+layout: member
 id: hamish-holewa
 name: Hamish Holewa
 lat: -35.306385

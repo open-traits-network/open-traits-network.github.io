@@ -1,4 +1,5 @@
 ---
+layout: member
 id: daniel-s-falster
 name: Daniel S Falster
 lat: -33.917304

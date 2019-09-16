@@ -1,4 +1,5 @@
 ---
+layout: member
 id: daniel-s-park
 name: Daniel S Park
 lat: 42.378889

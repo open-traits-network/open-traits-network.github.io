@@ -1,4 +1,5 @@
 ---
+layout: member
 id: brian-j-enquist
 name: Brian J Enquist
 lat: 32.228922

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: colleen-m-iversen
 name: Colleen M Iversen
 lat: 35.931132

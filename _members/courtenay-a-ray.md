@@ -1,4 +1,5 @@
 ---
+layout: member
 id: courtenay-a-ray
 name: Courtenay A Ray
 lat: 33.419872

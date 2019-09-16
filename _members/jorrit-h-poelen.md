@@ -1,4 +1,5 @@
 ---
+layout: member
 id: jorrit-h-poelen
 name: Jorrit H Poelen
 lat: 37.810485

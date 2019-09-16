@@ -1,4 +1,5 @@
 ---
+layout: member
 id: aud-h-halbritter
 name: Aud H Halbritter
 lat: 60.387753
