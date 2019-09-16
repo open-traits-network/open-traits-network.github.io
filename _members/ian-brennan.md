@@ -1,4 +1,5 @@
 ---
+layout: member
 id: ian-brennan
 name: Ian Brennan
 lat: -35.276772

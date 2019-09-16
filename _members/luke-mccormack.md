@@ -1,4 +1,5 @@
 ---
+layout: member
 id: luke-mccormack
 name: Luke McCormack
 lat: 41.816207

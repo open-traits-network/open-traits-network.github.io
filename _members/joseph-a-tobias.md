@@ -1,4 +1,5 @@
 ---
+layout: member
 id: joseph-a-tobias
 name: Joseph A Tobias
 lat: 51.408839

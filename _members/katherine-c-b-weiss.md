@@ -1,4 +1,5 @@
 ---
+layout: member
 id: katherine-c-b-weiss
 name: Katherine C B Weiss
 lat: 33.419872

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: belen-fadrique
 name: Belen Fadrique
 lat: 25.722136

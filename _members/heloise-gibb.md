@@ -1,4 +1,5 @@
 ---
+layout: member
 id: heloise-gibb
 name: Heloise Gibb
 lat: -37.720726

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: ben-sparrow
 name: Ben Sparrow
 lat: -34.919088

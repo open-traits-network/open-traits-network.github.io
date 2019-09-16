@@ -1,4 +1,5 @@
 ---
+layout: member
 id: cyrille-violle
 name: Cyrille Violle
 lat: 43.63894

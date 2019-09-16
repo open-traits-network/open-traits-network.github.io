@@ -1,4 +1,5 @@
 ---
+layout: member
 id: silvia--pineda-munoz
 name: Silvia  Pineda-Munoz
 lat: 33.778346

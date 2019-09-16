@@ -1,4 +1,5 @@
 ---
+layout: member
 id: roberto-salguero-gomez
 name: Roberto Salguero-G&oacute;mez
 lat: 51.757194

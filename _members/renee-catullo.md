@@ -1,4 +1,5 @@
 ---
+layout: member
 id: renee-catullo
 name: Renee Catullo
 lat: -35.276772

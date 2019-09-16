@@ -1,4 +1,5 @@
 ---
+layout: member
 id: william-d-pearse
 name: William D Pearse
 lat: 41.742112

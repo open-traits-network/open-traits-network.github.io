@@ -1,4 +1,5 @@
 ---
+layout: member
 id: caterina-penone
 name: Caterina Penone
 lat: 46.953535

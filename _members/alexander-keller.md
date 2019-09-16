@@ -1,4 +1,5 @@
 ---
+layout: member
 id: alexander-keller
 name: Alexander Keller
 lat: 49.7849283

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: xiao-feng
 name: Xiao Feng
 lat: 32.228913

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: herve-sauquet
 name: Herv&eacute; Sauquet
 lat: -33.866453

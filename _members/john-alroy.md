@@ -1,4 +1,5 @@
 ---
+layout: member
 id: john-alroy
 name: John Alroy
 lat: -33.77403

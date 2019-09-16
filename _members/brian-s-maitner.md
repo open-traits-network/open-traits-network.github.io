@@ -1,4 +1,5 @@
 ---
+layout: member
 id: brian-s-maitner
 name: Brian S Maitner
 email: bmaitner@gmail.com

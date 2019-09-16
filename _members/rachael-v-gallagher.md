@@ -1,4 +1,5 @@
 ---
+layout: member
 id: rachael-v-gallagher
 name: Rachael V Gallagher
 email: rachael.gallagher@mq.edu.au

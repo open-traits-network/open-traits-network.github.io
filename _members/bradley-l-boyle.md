@@ -1,4 +1,5 @@
 ---
+layout: member
 id: bradley-l-boyle
 name: Bradley L Boyle
 lat: 32.228913

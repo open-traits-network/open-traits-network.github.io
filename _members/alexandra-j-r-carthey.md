@@ -1,4 +1,5 @@
 ---
+layout: member
 id: alexandra-j-r-carthey
 name: Alexandra J R Carthey
 lat: -33.77403

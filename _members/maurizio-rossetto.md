@@ -1,4 +1,5 @@
 ---
+layout: member
 id: maurizio-rossetto
 name: Maurizio Rossetto
 lat: -33.866453

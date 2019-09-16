@@ -1,4 +1,5 @@
 ---
+layout: member
 id: mark-westoby
 name: Mark Westoby
 lat: -33.77403

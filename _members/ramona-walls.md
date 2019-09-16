@@ -1,4 +1,5 @@
 ---
+layout: member
 id: ramona-walls
 name: Ramona Walls
 lat: 32.231846

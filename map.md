@@ -26,7 +26,7 @@ var otnMembers = [
               {% elsif member.github %}\
                 <img src='https://github.com/{{ member.github }}.png?size=128'>\
               {% endif %}\
-		<a href='{{ member.homepage }}'>{{ member.name }}</a>,\
+		<a href='{{ member.id }}'>{{ member.name }}</a>,\
 		{{ member.affiliation }}\
 		<br><br><em>{{ member.info }}</em>\
 		"
@@ -66,4 +66,3 @@ map.addLayer(featureGroup);
 <br/>
 <br/>
 Map made with [http://leafletjs.com](http://leafletjs.com), Clustering via [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster). Inspired by [deRSE map](https://www.de-rse.org/en/map.html).
-

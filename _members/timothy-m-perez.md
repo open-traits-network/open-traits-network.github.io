@@ -1,4 +1,5 @@
 ---
+layout: member
 id: timothy-m-perez
 name: Timothy M Perez
 lat: 25.722175

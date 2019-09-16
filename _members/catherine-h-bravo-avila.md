@@ -1,4 +1,5 @@
 ---
+layout: member
 id: catherine-h-bravo-avila
 name: Catherine H Bravo-Avila
 lat: 25.722175

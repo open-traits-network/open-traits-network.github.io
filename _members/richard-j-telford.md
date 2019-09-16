@@ -1,4 +1,5 @@
 ---
+layout: member
 id: richard-j-telford
 name: Richard J Telford
 lat: 60.387753

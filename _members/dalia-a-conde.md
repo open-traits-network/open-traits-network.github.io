@@ -1,4 +1,5 @@
 ---
+layout: member
 id: dalia-a-conde
 name: Dalia A Conde
 lat: 44.859184

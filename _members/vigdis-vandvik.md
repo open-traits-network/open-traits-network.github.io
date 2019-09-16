@@ -1,4 +1,5 @@
 ---
+layout: member
 id: vigdis-vandvik
 name: Vigdis Vandvik
 lat: 60.387996

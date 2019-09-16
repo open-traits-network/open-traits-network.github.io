@@ -1,4 +1,5 @@
 ---
+layout: member
 id: sean-t-michaletz
 name: Sean T Michaletz
 lat: 49.26332

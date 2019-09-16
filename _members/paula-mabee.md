@@ -1,4 +1,5 @@
 ---
+layout: member
 id: paula-mabee
 name: Paula Mabee
 lat: 42.788218

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: jennnifer-hammock
 name: Jennnifer Hammock
 lat: 38.891266

@@ -1,4 +1,5 @@
 ---
+layout: member
 id: marko-j-spasojevic
 name: Marko J Spasojevic
 lat: 33.972281
