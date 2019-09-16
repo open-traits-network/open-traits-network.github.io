@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Map
 ---
 
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
@@ -66,4 +67,3 @@ map.addLayer(featureGroup);
 <br/>
 <br/>
 Map made with [http://leafletjs.com](http://leafletjs.com), Clustering via [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster). Inspired by [deRSE map](https://www.de-rse.org/en/map.html).
-
