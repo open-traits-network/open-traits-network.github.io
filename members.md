@@ -8,7 +8,7 @@ title: Members
 
 Add yourself to the OpenTraits initiative [here](https://github.com/open-traits-network/open-traits-network.github.io/blob/master/_members).
 
-<div id="map-container" style="height:300px;"></div>
+<div id="map-container" style="height:250px;width:300px;"></div>
 
 <script type="text/javascript" src="js/leaflet.js"></script>
 <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
@@ -47,7 +47,7 @@ function onEachFeature(feature, layer) {
     }
 }
 
-var map = L.map('map-container').setView([0,0], 1);
+var map = L.map('map-container').setView([0,0], 0);
 
 L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
