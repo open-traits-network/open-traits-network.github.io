@@ -8,10 +8,16 @@ layout: default
   </header>
 
   <div class="post-content">
-    <p>{{ page.affiliation }}</p>
-    <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
-    <p>[{{ page.lat }}, {{ page.long }}]</p>
-    <br>
+    <table>
+      <tr><td><img src="/images/map/{{ page.title }}.jpg" width="150" /></td>
+        <td>
+          <p>{{ page.affiliation }}</p>
+          <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+          <p></p>
+          <p>[{{ page.lat }}, {{ page.long }}]</p>
+        </td>
+      </tr>
+    </table>    
     <em>{{ content }}</em>
   </div>
 
