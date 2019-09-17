@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
