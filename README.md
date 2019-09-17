@@ -69,7 +69,7 @@ Replace the `<placeholders>` with actual values.
 The fields `id` and `name` are required, all other fields are optional.
 Setting `lat` and `long` will add the member to the [map](https://opentraits.org/map).
 The other fields are used to enrich the popup when the member is select on the map and for the individual member pages.
-The image should be stored in [`images/member`](images/member) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/member/joshua-s-madin.jpg`](images/member/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on the map.
+The image should be stored in [`images/members`](images/members) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/members/joshua-s-madin.jpg`](images/members/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on the map.
 
 ### Add Dataset
  TODO: https://github.com/open-traits-network/open-traits-network.github.io/issues/4
