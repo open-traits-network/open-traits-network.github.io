@@ -7,6 +7,7 @@ var otnMembers = [
             "name": "{{ member.name }}",
             "popupContent": "\
               {% assign static_image_expected = member.id | prepend: '/images' | append: '.jpg' %}\
+	      {% assign static_image_found = null %}\
               {% for static_file in site.static_files %}\
                  {% if static_file.path contains static_image_expected %}\
                     {% assign static_image_found = static_file.path %}\
