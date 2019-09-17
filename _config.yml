@@ -26,8 +26,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   integrating trait data across all organisms. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opentraits.org" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+
+minima:
+  social_links:
+    twitter: open_traits
+    github: open-traits-network
 
 # Build settings
 theme: minima
