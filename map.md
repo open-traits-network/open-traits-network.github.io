@@ -13,32 +13,7 @@ Are you part of the OpenTraits Initiative? Then add yourself and show who we are
 <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
 <script type="text/javascript">
 
-var otnMembers = [
-{% for member in site.members %}
-  {% if member.lat and member.long %}
-    {
-        "type": "Feature",
-        "properties": {
-            "name": "{{ member.name }}",
-            "popupContent": "\
-              {% if member.image %}\
-	    	<img src='{{ member.image }}'>\
-              {% elsif member.github %}\
-                <img src='https://github.com/{{ member.github }}.png?size=128'>\
-              {% endif %}\
-		<a href='{{ member.id }}'>{{ member.name }}</a>,\
-		{{ member.affiliation }}\
-		<br><br><em>{{ member.info }}</em>\
-		"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [{{ member.long }}, {{ member.lat }}]
-        }
-    },
-  {% endif %}
-{% endfor %}
-];
+{% include members.js %}
 
 function onEachFeature(feature, layer) {
     if (feature.properties && feature.properties.popupContent) {
