@@ -9,8 +9,8 @@ contactEmail: herve.sauquet@rbgsyd.nsw.gov.au
 license: CC BY 4.0
 traitList: Sex | Ovary_position | Number_of_perianth_parts | Fusion_of_perianth | Symmetry_of_perianth | Perianth_phyllotaxy | Number_of_perianth_whorls | Perianth_merism | Perianth_differentiation | Number_of_fertile_stamens | Filament | Anther_orientation | Anther_attachment | Anther_dehiscence | Androecium_structural_phyllotaxy | Number_of_androecium_structural_whorls | Androecium_structural_merism | Gynoecium_phyllotaxy | Number_of_structural_carpels | Fusion_of_ovaries | Number_of_ovules_per_functional_carpel
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Angiospermae
 eventDate: 
 paperDOIcitation: 10.1038/ncomms16047

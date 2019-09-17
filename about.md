@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 The Open Traits Network (OTN) was formed to address the challenge of synthesising trait data across all organisms. We follow a decentralised, but connected, network structure where knowledge is aggregated up from taxon-specific research groups to larger synthesis nodes. This network model preserves the knowledge of experts about the relevant traits for specific organisms and how these should be interpreted and allow for synthesis solutions to emerge that preserve this knowledge when data is harmonised. We adhere to the principles of Open Science - a movement towards making all aspects of the scientific process transparent and accessible to a wide audience. Despite the recognised importance of species traits to ecological and evolutionary science, some common research practices limit our capacity to easily synthesise trait data, including: 

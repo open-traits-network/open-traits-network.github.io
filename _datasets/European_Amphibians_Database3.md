@@ -9,8 +9,8 @@ contactEmail:
 license: CC-0
 traitList: Body_weight | Male_body_length | Female_body_length | Body_length | Foot length | Tibia length | Hind limb length | Metamorphosis size | Number of eggs | Survival rates in adults | Sexual maturity | Movement ability
 higherGeography: Europe
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Amphibia
 eventDate: 
 paperDOIcitation: https://doi.org/10.3897/BDJ.2.e4123

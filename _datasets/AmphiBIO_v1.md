@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 4.0
 traitList: Habitat | Diet | Circadian_activity_rhythm | Seasonality | Body_weight | Age_at_mature_min_y | Age_at_mature_max_y | Body_length | Size_at_mature_min_mm | Size_at_mature_max_mm | Longevity_min_y | Longevity_max_y | Litter_size_min_n | Litter_size_max_n | Reproductive_output_y | Offspring_size_min_mm | Offspring_size_min_mm | Breeding strategy
 higherGeography: Africa | Asia | Europe | North America | Oceania | South America
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Amphibia
 eventDate: 
 paperDOIcitation: 10.1038/sdata.2017.123

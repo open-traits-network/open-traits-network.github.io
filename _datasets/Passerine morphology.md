@@ -9,8 +9,8 @@ contactEmail:
 license: CC0
 traitList: Body_length | Wing_length | Tail_length | Tarsus_length | Toe_length | Bill_length | Bill_width | Bill_depth | Biogeographic_region
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Passerine
 eventDate: 
 paperDOIcitation:  https://doi.org/10.1002/ecy.1783
