@@ -8,7 +8,7 @@ title: Members
 
 Add yourself to the OpenTraits initiative [here](https://github.com/open-traits-network/open-traits-network.github.io/blob/master/_members).
 
-<div id="map-container" style="height:250px;width:300px;"></div>
+<div id="map-container" style="height:350px;width:550px;"></div>
 
 <script type="text/javascript" src="js/leaflet.js"></script>
 <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
@@ -17,24 +17,24 @@ Add yourself to the OpenTraits initiative [here](https://github.com/open-traits-
 {% include members.js %}
 
 function onEachFeature(feature, layer) {
-    if (feature.properties && feature.properties.popupContent) {
-        layer.bindPopup(feature.properties.popupContent);
-    }
+  if (feature.properties && feature.properties.popupContent) {
+    layer.bindPopup(feature.properties.popupContent);
+  }
 }
 
-var map = L.map('map-container').setView([0,0], 0);
+var map = L.map('map-container').setView([0,0], 1);
 
 L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+  attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 var featureGroup = L.markerClusterGroup();
 featureGroup.addLayer(
 	L.geoJSON(otnMembers, {
-                      	onEachFeature: onEachFeature
-                      }
-	  )
-  );
+      onEachFeature: onEachFeature
+    }
+  )
+);
 
 map.addLayer(featureGroup);
 </script>
