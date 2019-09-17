@@ -6,7 +6,7 @@ email: Ankenbrand_M@ukw.de
 homepage: markus.ankenbrand.me
 lat: 49.809667
 long: 9.958606
-image: /images/map/MarkusAnkenbrand.png
+image: /images/member/markus-j-ankenbrand.jpg
 affiliation: University Hospital W&uuml;rzburg
 info: PostDoc in the Comprehensive Heart Failure Center. Developer of <a href='//fennec.molecular.eco'>FENNEC</a>. Member of the <a href='//www.idiv.de/en/sdevtrait.html'>sDevTrait</a> working group.
 github: iimog
