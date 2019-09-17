@@ -9,8 +9,8 @@ contactEmail: bmaitner@gmail.com
 license: CC BY-NC-ND
 traitList: 53 plant traits
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Embryophyta
 eventDate: 
 paperDOIcitation: https://doi.org/10.1111/2041-210X.12861

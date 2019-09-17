@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 4.0
 traitList: Body_size | Dispersal_ability | Feeding_guild | Feeding_mode | Feeding_specialization | Feeding_tissue | Feeding_plant_part | Endophagous_lifestyle | Stratum_use | 
 higherGeography: Germany
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Arthropod
 eventDate: 2008 | 2009 | 2010 | 2011 | 2012
 paperDOIcitation: 10.1038/sdata.2015.13

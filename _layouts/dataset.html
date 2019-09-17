@@ -9,23 +9,23 @@ layout: default
 
   <div class="post-content">
     
-    <p>Timestamp: {{ page.Timestamp }}</p>
-    <p>datasetDOI_URL: {{ page.datasetDOI_URL }}</p>
-    <p>contactName: {{ page.contactName }}</p>
-    <p>contactEmail: <a href="mailto:{{ page.contactEmail }}">{{ page.contactEmail }}</a></p>
-    <p>license: {{ page.license }}</p>
-    <p>traitList: {{ page.traitList }}</p>
-    <p>higherGeography: {{ page.higherGeography }}</p>
-    <p>decimalLatitude: {{ page.decimalLatitude }}</p>
-    <p>decimalLongitude: {{ page.decimalLongitude }}</p>
-    <p>taxon: {{ page.taxon }}</p>
-    <p>eventDate: {{ page.eventDate }}</p>
-    <p>paperDOIcitation: {{ page.paperDOIcitation }}</p>
-    <p>description: {{ page.description }}</p>
-    <p>taxaList: {{ page.taxaList }}</p>
-    <p>usefulClasses: {{ page.usefulClasses }}</p>
-    <p>dataStandard: {{ page.dataStandard }}</p>
-    <p>standardizationScripts: {{ page.standardizationScripts }}</p>
+    <!-- <p><code>Timestamp</code>: {{ page.Timestamp }}</p> -->
+    <p><code>datasetDOI_URL</code>: <a href="{{ page.datasetDOI_URL }}">{{ page.datasetDOI_URL }}</a></p>
+    <p><code>contactName</code>: {{ page.contactName }}</p>
+    <p><code>contactEmail</code>: <a href="mailto:{{ page.contactEmail }}">{{ page.contactEmail }}</a></p>
+    <p><code>license</code>: {{ page.license }}</p>
+    <p><code>traitList</code>: {{ page.traitList }}</p>
+    <p><code>higherGeography</code>: {{ page.higherGeography }}</p>
+    <p><code>decimalLatitude</code>: {{ page.decimalLatitude }}</p>
+    <p><code>decimalLongitude</code>: {{ page.decimalLongitude }}</p>
+    <p><code>taxon</code>: {{ page.taxon }}</p>
+    <p><code>eventDate</code>: {{ page.eventDate }}</p>
+    <p><code>paperDOIcitation</code>: <a href="{{ page.paperDOIcitation }}">{{ page.paperDOIcitation }}</a></p>
+    <p><code>description</code>: {{ page.description }}</p>
+    <p><code>taxaList</code>: {{ page.taxaList }}</p>
+    <p><code>usefulClasses</code>: {{ page.usefulClasses }}</p>
+    <p><code>dataStandard</code>: {{ page.dataStandard }}</p>
+    <p><code>standardizationScripts</code>: <a href="{{ page.standardizationScripts }}">{{ page.standardizationScripts }}</a></p>
     <!-- {{ content }} -->
 
   </div>

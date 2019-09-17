@@ -9,8 +9,8 @@ contactEmail: jamesaaronhogan@gmail.com
 license: CC by 4.0
 traitList: Leaf Area | LeafPermiter | LeafWidth | LeafHeight | LeafCircularity | LeafAspectRatio | LeafRoundness | LeafMass | SLA | LeafThickness | RootMass | RootLength | SpecificRootLength | RootProjArea | RootArea | SpecifcRootArea | RootAvgDiam | RootLenPerVol | RootVolume | RootTD | NRootTips  | SRTipAbund   NForks  | NCrossings
 higherGeography: Asia | China | Hainan Island | Jianfengling Forest Reserve 
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Plantae | Angiosperms
 eventDate: May - June 2017
 paperDOIcitation:  https://doi.org/10.1101/611640

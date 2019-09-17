@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 4.0
 traitList: M_mass | M_mass_N | F_mass | F_mass_N | Unsexed_mass | Unsexed_mass_N | M_wing | M_wing_N | F_wing | F_wing_N | Unsexed_wing | Unsexed_wing_N | M_tarsus | M_tarsus_N | F_tarsus | F_tarsus_N | Unsexed_tarsus | Unsexed_tarsus_N | M_bill | M_bill_N | F_bill | F_bill_N | Unsexed_bill | Unsexed_bill_N | M_tail  | M_tail_N | F_tail | F_tail_N | Unsexed_tail  | Unsexed_tail_N | Clutch_size | Egg_mass | Mating_System | Display | Resource
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Aves
 eventDate: 
 paperDOIcitation: http://www.esapubs.org/archive/ecol/E088/096/default.htm

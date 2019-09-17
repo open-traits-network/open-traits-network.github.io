@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 3.0
 traitList: Female maturity | Male maturity | Gestation/Incubation | Weaning | Litter/Clutch size | Litters/Clutches per year| Inter-litter/Interbirth interval | Birth weight | Weaning weight | Adult weight | Growth rate | Maximum longevity | IMR | MRDT  | Metabolic rate | Body mass | Temperature
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Animalia
 eventDate: 
 paperDOIcitation: 10.1093/nar/gkx1042

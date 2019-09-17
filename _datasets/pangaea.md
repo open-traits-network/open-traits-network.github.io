@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 3.0
 traitList: Body_size | Feeding_mode | Clearance_rates | Ingestion_rates | Spawning_strategy | Egg_size | Clutch_size | Fecundity | Myelination | Hibernation | Resting_eggs | Respiration_rates | Growth_rates | Development_duration
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: copepods
 eventDate: 
 paperDOIcitation: https://doi.org/10.5194/essd-9-99-2017, 2017

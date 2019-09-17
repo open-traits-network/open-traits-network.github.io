@@ -9,8 +9,8 @@ contactEmail:
 license: CC BY 4.0
 traitList: Diet | Foraging_stratum | Nocturnal | Body_mass
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Aves | Mammalia
 eventDate: 
 paperDOIcitation: 10.1890/13-1917.1

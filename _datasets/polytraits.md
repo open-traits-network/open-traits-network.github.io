@@ -9,8 +9,8 @@ contactEmail:
 license: Creative Commons Attribution 3.0
 traitList: broad range, ~60 traits
 higherGeography: Global
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Polychaeta
 eventDate: 
 paperDOIcitation: doi:10.3897/BDJ.2.e1024

@@ -9,8 +9,8 @@ contactEmail: potapov.msu@gmail.com
 license: http://creativecommons.org/licenses/by-nc/4.0/
 traitList: Multiple morphological and ecological traits 
 higherGeography: Global | Sumatra | Ecuador | Canada | Europe
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Animalia | Arthropoda | Arachnida | Insecta | Myriapoda | Araneae | Collembola | Oribatida | Mesostigmata | Formicidae
 eventDate: 
 paperDOIcitation: 10.3897/biss.3.37146

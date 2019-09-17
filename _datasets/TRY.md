@@ -9,8 +9,8 @@ contactEmail: jkattge@bgc-jena.mpg.de
 license: CC BY 
 traitList: 2091 plant traits, standardized according to http://top-thesaurus.org
 higherGeography: Global | Africa | Antarctica | Asia | Europe | North America | Oceania | South America
-decimalLatitude: NA
-decimalLongitude: NA
+decimalLatitude: 
+decimalLongitude: 
 taxon: Tracheophyta
 eventDate: about 1900 to current
 paperDOIcitation: 10.1111/j.1365-2486.2011.02451.x

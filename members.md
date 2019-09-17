@@ -70,4 +70,4 @@ map.addLayer(featureGroup);
   - [{{ member.name }}]({{ member.id }})
 {% endfor %}
 
-<a href="https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_members">source profiles</a>
+[<a href="https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_members">source profiles</a>]
