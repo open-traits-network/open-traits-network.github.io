@@ -7,7 +7,7 @@ To create a new member files, first copy the text in the code formatted box belo
 - `name:` enter your name with spaces (e.g., Joshua S Madin)
 - `affiliation:` enter your affiliations (e.g., University of Hawaii)
 - `email:` (optional) enter your email address
-- `lat:` if you want to appear on the map, enter the `lat` and `long` of your institution in decimal degrees.
+- `lat:` if you want to appear on the map, enter the `lat` and `long` of your institution in decimal degrees
 - `long:` see above
 
 Copy this:
