@@ -7,4 +7,4 @@ long: -93.226928
 affiliation: Species360 Conservation Science Alliance, Bloomington, Minnesota, USA
 ---
 
-Auto generated from OTN manuscript author list
+

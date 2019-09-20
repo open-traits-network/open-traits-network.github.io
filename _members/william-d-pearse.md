@@ -7,4 +7,4 @@ long: -111.807467
 affiliation: Ecology Center and Department of Biology, Utah State University, Utah, USA
 ---
 
-Auto generated from OTN manuscript author list
+

@@ -11,4 +11,4 @@ info: Interests include community ecology, macroecology, biogeography, community
 github: bmaitner
 ---
 
-Auto generated from OTN manuscript author list
+
