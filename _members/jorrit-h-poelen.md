@@ -1,7 +1,7 @@
 ---
 layout: member
 id: jorrit-h-poelen
-name: Jorrit H Poelen
+name: Jorrit H. Poelen
 lat: 37.810485
 long: -122.255
 affiliation: Independent Open Source/Data Developer, Oakland, California
