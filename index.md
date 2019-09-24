@@ -22,7 +22,7 @@ The OTN seeks to undertake five key activities as a starting point for the synth
 To join the Open Traits Network create a [membership file](https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_members) and offer your expertise and knowledge in the pursuit of a harmonised and curated trait dataset across all organisms.
 
 <div id="banner">
-<script language="JavaScript" src="pictures.js"></script>
+<script language="JavaScript" src="js/pictures.js"></script>
 <script language="JavaScript">
 <!-- Hide this script from old browsers --
 document.write('<IMG SRC="' + image + '">')
