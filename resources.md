@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: resources
+title: Resources
 ---
 
 ## Manifestos
