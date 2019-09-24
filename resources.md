@@ -29,12 +29,18 @@ title: Resources
 * [traitdataform package](https://CRAN.R-project.org/package=traitdataform)
  
 ## Trait collection protocols and handbooks
-* [Terrestrial Invertebrates](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018)
-* [Plants](https://www.publish.csiro.au/bt/pdf/BT12225)
-* [Plants](https://www.sciencedirect.com/science/article/pii/S1433831918301434)
 * [Ants](http://globalants.org/static/trait-descriptions.pdf)
+* [Biocrusts](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.12974)
+* [Macrofungi](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13239)* [Plants](https://www.publish.csiro.au/bt/pdf/BT12225)
+* [Plants](https://www.sciencedirect.com/science/article/pii/S1433831918301434)
+* [Plants](https://www.sciencedirect.com/science/article/pii/S1433831918301434?via%3Dihub)
+* [plants](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13237)
+* [Terrestrial Invertebrates](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018)
 
-## Curricula and Lesson Plans
+
+## Teaching cirricula, lesson plans and useful papers
+* [Free courses from FOSTER Open Scinece](https://www.fosteropenscience.eu/courses)
+* [Digital open science — Teaching digital tools for reproducible and transparent research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006022)
 
 ## Other Networks
 
