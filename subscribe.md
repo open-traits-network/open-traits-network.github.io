@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Subscribe
 ---
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
