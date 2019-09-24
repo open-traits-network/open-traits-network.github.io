@@ -38,9 +38,14 @@ title: Resources
 
 ## Other Networks
 
-OBIS
-GBIF
-iDigBio
-DataONE
-Biodiversity Heritage Library
-COS
+Ocean Biogeographic Information System (OBIS) - https://obis.org - "OBIS is a global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development"
+
+Global Biodiversity Information Facility (GBIF) - https://gbif.org - "Free and open access to biodiversity data"
+
+Integrated Biodiversity Biocollections (iDigBio) - https://idigbio.org - "iDigBio is the national resource for digitized information about vouchered natural history collections [...]"
+
+Data Observation Network Earth (DataONE) - https://dataone.org - "DataONE is a community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data. "
+Biodiversity Heritage Library (BHL) - https://www.biodiversitylibrary.org - "Inspiring discovery through free access to biodiversity knowledge."
+
+Center for Open Science (COS) - https://cos.io/ - "increase the openness, integrity, and reproducibility of scientific research."
+
