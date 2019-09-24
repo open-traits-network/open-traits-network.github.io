@@ -20,9 +20,9 @@ title: Resources
 ## Programming
 
 * [rOpenSci](ropensci.org)
-* [Data Carpentry](https://datacarpentry.org)/
+* [Data Carpentry](https://datacarpentry.org/)
 * [MAD Traits: Make A Database of traits](https://github.com/willpearse/MADtraits)
-* [FENNEC: Functional Exploration of Natural Networks and Ecological Communities] https://fennec.readthedocs.io/en/latest/user.html#
+* [FENNEC: Functional Exploration of Natural Networks and Ecological Communities](https://fennec.readthedocs.io/en/latest/user.html#)
 * [Guide to reproducible code in ecology and evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 * [A guide to data management in ecology and evolutionh](https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf)
 * [Best practice examples for data publication](https://terminologies.gfbio.org/terms/ets/pages/bestpractice.html)
