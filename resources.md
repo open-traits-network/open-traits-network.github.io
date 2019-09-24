@@ -27,6 +27,7 @@ title: Resources
 * [A guide to data management in ecology and evolutionh](https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf)
 * [Best practice examples for data publication](https://terminologies.gfbio.org/terms/ets/pages/bestpractice.html)
 * [traitdataform package](https://CRAN.R-project.org/package=traitdataform)
+* [OpenMinTeD: text mining](http://openminted.eu/about/overview/)
  
 ## Trait collection protocols and handbooks
 * [Ants](http://globalants.org/static/trait-descriptions.pdf)
