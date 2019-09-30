@@ -42,8 +42,10 @@ map.addLayer(featureGroup);
 
 <br/>
 
-{% for member in site.members %}
-  - [{{ member.name }}]({{ member.id }})
-{% endfor %}
+|name|affiliation|
+|---|---|
+{%- for member in site.members %}
+|[{{ member.name }}]({{ member.id }}) | {{ member.affiliation | strip_newlines }} |
+{%- endfor %}
 
 [<a href="https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_members">source profiles</a>]
