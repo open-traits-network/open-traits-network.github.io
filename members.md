@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Members
+id: members
 ---
 
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
