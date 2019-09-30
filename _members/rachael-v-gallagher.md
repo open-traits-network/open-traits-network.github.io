@@ -10,4 +10,9 @@ affiliation: Department of Biological Sciences, Macquarie University, Sydney, NS
 github: rachaelgallagher
 ---
 
-This is a barebone example of a OTN member metadata and page. See https://github.com/open-traits-network/open-traits-network.github.io/issues/3 .
+Rachael is a plant ecologist based in Sydney Australia. 
+
+## Collaboration statement
+I enjoy working on applied problems in plant conservation using spatial analyses and traits. My primary (soon to be) open trait dataset is AusTraits - a curated dataset on the traits of Australian plants. This resource was created with harmonisation pipeline created by my collaborator Daniel Falster.
+
+I can offer expertise in workflows for cleaning occurrence data and combining with trait data. I am also happy to help connect people together around traits by running working groups, hosting visitors in my lab, organising symposia at conferences and maintaining our Open Traits website. 
