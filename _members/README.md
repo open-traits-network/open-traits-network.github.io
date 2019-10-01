@@ -25,3 +25,5 @@ lat:
 long: 
 ---
 ```
+Please also add any details about yourself including your taxa of interest, your open datasets and provide a brief Collaboration Statement that details your expertise, achievements and interests in trait science. You can do this by adding text below the second --- 
+See http://opentraits.org/members/jorrit-h-poelen or http://opentraits.org/members/rachael-v-gallagher for some examples. 
