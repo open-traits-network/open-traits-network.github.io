@@ -34,10 +34,9 @@ id: resources
 * [Ants](http://globalants.org/static/trait-descriptions.pdf)
 * [Biocrusts](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.12974)
 * [Macrofungi](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13239)
-* [Plants](https://www.publish.csiro.au/bt/pdf/BT12225)
-* [Plants](https://www.sciencedirect.com/science/article/pii/S1433831918301434)
-* [Plants](https://www.sciencedirect.com/science/article/pii/S1433831918301434?via%3Dihub)
-* [plants](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13237)
+* [Plant functional traits](https://www.publish.csiro.au/bt/pdf/BT12225)
+* [Modularity plant traits](https://www.sciencedirect.com/science/article/pii/S1433831918301434)
+* [Herbaceous traits with spectroscopy](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13237)
 * [Terrestrial Invertebrates](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018)
 
 
