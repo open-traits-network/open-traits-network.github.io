@@ -13,7 +13,7 @@ decimalLongitude:
 taxon: Most
 eventDate: 
 paperDOIcitation: https://doi.org/10.1016/j.ecoinf.2014.08.005
-description: Global Biotic Interactions (GloBI) provides open access to existing species interaction data (e.g., predator-prey, pollinator-plant, pathogen-host, parasite-host) by combining existing open datasets using open source software.
+description: A global index of existing species interaction data records (e.g., predator-prey, pollinator-plant, pathogen-host, parasite-host).
 taxaList: 
 usefulClasses: Aggregated data from published datasets and data platforms.
 dataStandard: DwCA | RDF | other
