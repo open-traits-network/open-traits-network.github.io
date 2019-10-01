@@ -1,7 +1,7 @@
 ---
 layout: dataset
 id: globi
-name: globi
+name: GloBI
 datasetDOI_URL: https://globalbioticinteractions.org
 contactName: Jorrit H. Poelen 
 contactEmail: info@globalbioticinteractions.org
