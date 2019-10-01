@@ -33,10 +33,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Repo Organization
 
  * [_datasets/](_datasets/)   `<-- source for trait dataset metadata (yml) and markdown for display`
-    * [_datasets/leafsize.md](_datasets/leafsize.md)  `<-- one file for each datasets with yaml for metadata and markdown for display`
+    * [_datasets/chinaroots.md](_datasets/chinaroots.md)  `<-- one file for each datasets with yaml for metadata and markdown for display`
     * ...
  * [_members/](_members/)  `<-- source for open traits network members`
-    * [_members/rachael-gallangher.md](_members/rachael-gallangher.md)  `<-- metadata (yml) and markdown for display. EDIT THIS`
+    * [_members/rachael-v-gallagher.md](_members/rachael-v-gallagher.md)  `<-- metadata (yml) and markdown for display. EDIT THIS`
     * ...
  * [_posts/](_posts) `<-- Blog posts/news`
  * [_layouts/](_layouts) `<-- Jekyll layouts`
