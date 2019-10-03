@@ -1,6 +1,6 @@
 ---
-name: "questions, comments and suggestions"
-about: "Used to ask questions, make comment and provide suggestions to Open Trait Network."
+name: "Questions, Comments and Suggestions"
+about: "Ask a question, make a comment or provide a suggestions to the Open Trait Network."
 ---
 
 This is a template
