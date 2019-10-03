@@ -13,7 +13,6 @@ Please fill out the template below and click "submit" to request a trait dataset
 layout: dataset
 id: try
 name: TRY
-Timestamp: 8/28/2019 10:33:07
 datasetDOI_URL: https://www.try-db.org
 contactName: Jens Kattge
 contactEmail: jkattge@bgc-jena.mpg.de
