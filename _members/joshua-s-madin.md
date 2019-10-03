@@ -9,7 +9,7 @@ long: -157.788013
 affiliation: Hawaii Institute of Marine Biology, University of Hawaii at Manoa, Hawaii, USA
 ---
 
-### My main interests are quantitative ecology, biophysics and informatics. My big academic challenges at the moment are:
+My main interests are quantitative ecology, biophysics and informatics. My big academic challenges at the moment are:
 
 - Coupling reef geometry and biodiversity
 - Coral demography, morphological traits and life history trade-offs
