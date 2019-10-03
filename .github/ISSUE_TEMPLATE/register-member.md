@@ -6,7 +6,7 @@ title: "I'd like to join the Open Traits Network"
 assignees: "opentraits/editors"
 ---
 
-Please update the template below and click "Submit" to let us know you'd like to become a member of the Open Trait Network. Please allow for some time to review your request.
+Please update the template below and click "Submit" to let us know you'd like to become a member of the Open Trait Network. Please allow for some time for @open-trait-network/editors to review your request.
 
 ```
 ---

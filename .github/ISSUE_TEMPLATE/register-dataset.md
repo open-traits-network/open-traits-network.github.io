@@ -6,7 +6,7 @@ title: "Please add [name] to the OTN dataset registry"
 assignees: "opentraits/editors"
 ---
 
-Please fill out the template below and click "submit" to request a trait dataset to the Open Trait Network. Please allow for some time as we review your submission.
+Please fill out the template below and click "submit" to request a trait dataset to the Open Trait Network. Please allow for some time for @open-trait-network/editors to review your submission.
 
 ```
 ---
