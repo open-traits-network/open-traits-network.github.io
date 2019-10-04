@@ -1,7 +1,7 @@
 ---
 name: Register New Trait Dataset
 about: Submit a new trait dataset to Open Trait Network registry for review.
-labels: "Dataset Review" 
+labels: "dataset review" 
 title: "Please add [name] to the OTN dataset registry"
 assignees: "opentraits/editors"
 ---
