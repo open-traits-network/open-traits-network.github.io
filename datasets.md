@@ -6,6 +6,7 @@ id: datasets
 
 Add datasets to the OpenTraits initiative [here](contact).
 
+{% include editorial_status.html %}
 
 |name|contact|description|traits|taxa|
 |---|---|---|---|---|
