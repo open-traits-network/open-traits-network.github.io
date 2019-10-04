@@ -1,7 +1,7 @@
 ---
 name: Register New Member
 about: Submit a request for new member to be added to Open Trait Network.
-labels: "New Member"
+labels: "new member"
 title: "I'd like to join the Open Traits Network"
 assignees: "opentraits/editors"
 ---
