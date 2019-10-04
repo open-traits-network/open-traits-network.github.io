@@ -1,12 +1,12 @@
 ---
 name: Register New Member
-about: Submit a request for new member to be added to Open Trait Network.
+about: Submit a request for new member to be added to Open Traits Network.
 labels: "new member"
 title: "I'd like to join the Open Traits Network"
 assignees: "open-traits-network/editors"
 ---
 
-Please update the template below and click "Submit" to let us know you'd like to become a member of the Open Trait Network. Please allow for some time for @open-traits-network/editors to review your request.
+Please update the template below and click "Submit" to let us know you'd like to become a member of the Open Traits Network. Please allow for some time for @open-traits-network/editors to review your request.
 
 ```
 ---
