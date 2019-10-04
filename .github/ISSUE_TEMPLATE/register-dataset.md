@@ -1,12 +1,12 @@
 ---
 name: Register New Trait Dataset
-about: Submit a new trait dataset to Open Trait Network registry for review.
+about: Submit a new trait dataset to Open Traits Network registry for review.
 labels: "dataset review" 
 title: "Please add [name] to the OTN dataset registry"
 assignees: "open-traits-network/editors"
 ---
 
-Please fill out the template below and click "submit" to request a trait dataset to the Open Trait Network. Please allow for some time for @open-traits-network/editors to review your submission.
+Please fill out the template below and click "submit" to request a trait dataset to the Open Traits Network. Please allow for some time for @open-traits-network/editors to review your submission.
 
 ```
 ---
