@@ -40,7 +40,7 @@ id: resources
 * [Terrestrial Invertebrates](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018)
 
 
-## Teaching cirricula, lesson plans and useful papers
+## Teaching curricula, lesson plans and useful papers
 * [Free courses from FOSTER Open Scinece](https://www.fosteropenscience.eu/courses)
 * [Digital open science — Teaching digital tools for reproducible and transparent research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006022)
 
