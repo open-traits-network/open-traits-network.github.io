@@ -5,10 +5,10 @@ The Open Traits Network maintains a trait dataset registry. This page aims to in
 
 # Dataset Registration Process
 
-The member registration process is as follows:
+The dataset registration process is as follows:
 
 1. contributor opens a "register dataset" github issue via https://github.com/open-traits-network/open-traits-network.github.io/issues/new/choose
-2. contributor fills out the member registration form provided in the dataset registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-dataset.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-dataset.md) 
+2. contributor fills out the dataset registration form provided in the dataset registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-dataset.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-dataset.md) 
 3. contributor submits the issue
 4. OTN editor reviews the registration request, asking for information if needed via issue.
 5. on approval, OTN editor creates a new dataset file 
