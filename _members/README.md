@@ -8,7 +8,7 @@ The Open Traits Network maintains a member registry. This page aims to informati
 The member registration process is as follows:
 
 1. prospective member opens a "register member" github issue via https://github.com/open-traits-network/open-traits-network.github.io/issues/new/choose
-2. prospective member fills out the member registration form provided in the member registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/member-registration.md](../../tree/master/../.github/ISSUE_TEMPLATES/member-registration.md) 
+2. prospective member fills out the member registration form provided in the member registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-member.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-member.md) 
 3. prospective member submits the issue
 4. OTN editor reviews the registration request, asking for information if needed via issue.
 5. on approval, OTN editor creates a new member file 
