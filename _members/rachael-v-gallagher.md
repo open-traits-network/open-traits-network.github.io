@@ -3,6 +3,7 @@ layout: member
 id: rachael-v-gallagher
 name: Rachael V Gallagher
 email: rachael.gallagher@mq.edu.au
+role: editor
 homepage: http://example.org
 lat: -33.77403
 long: 151.115978

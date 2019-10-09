@@ -3,6 +3,7 @@ layout: member
 id: joshua-s-madin
 name: Joshua S Madin
 email: jmadin@hawaii.edu
+role: editor
 website: https://jmadinlab.github.io
 lat: 21.43248
 long: -157.788013

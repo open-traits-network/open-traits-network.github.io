@@ -3,6 +3,7 @@ layout: member
 id: brian-s-maitner
 name: Brian S Maitner
 email: bmaitner@gmail.com
+role: editor
 homepage: https://www.researchgate.net/profile/Brian_Maitner
 lat: 32.228858
 long: -110.955406
