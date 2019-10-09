@@ -7,7 +7,7 @@ id: members
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
 <link rel="stylesheet" type="text/css" href="css/MarkerCluster.Default.css">
 
-Add yourself to the OpenTraits initiative [here](https://github.com/open-traits-network/open-traits-network.github.io/blob/master/_members#creating-a-member-file). 
+Would you like to become a member? Please introduce yourself [here](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network). 
 
 {% include editorial_status.html %}
 
