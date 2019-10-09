@@ -30,3 +30,5 @@ I can offer expertise in workflows for cleaning occurrence data and combining wi
 
 
 ```
+
+Editors @open-traits-network/editors: please see https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_members#readme for information on registration process.
