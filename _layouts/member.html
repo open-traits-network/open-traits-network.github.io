@@ -16,19 +16,31 @@ layout: default
           <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
           <p><a href="{{ page.website }}">{{ page.website }}</a></p>
           <p></p>
-          <p>[{{ page.lat }}, {{ page.long }}]</p>
+	  <div id="member-map-container" style="height:350px;width:550px;"></div>
         </td>
       </tr>
     </table>    
     {{ content }}
   </div>
 
+  <link rel="stylesheet" type="text/css" href="../css/leaflet.css">
+  <script type="text/javascript" src="../js/leaflet.js"></script>
+  <script type="text/javascript" src="../js/leaflet.markercluster.js"></script>
   <script type="text/javascript">
     {% include members.js %}
     document.addEventListener("DOMContentLoaded", function(event) {
       element = document.getElementById("profileImage");
       element.src = memberImageSrc["{{page.id}}"];
     });
+    var map = L.map('member-map-container').setView([0,0], 1);
+
+    L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+  {% if page.lat and page.long %}
+    var marker = L.marker([{{page.lat}}, {{page.long}}], { title: "{{page.affiliation}}" }).addTo(map);
+  {% endif %}
   </script>
 
 </article>
