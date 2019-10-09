@@ -4,7 +4,7 @@ title: Datasets
 id: datasets
 ---
 
-Add datasets to the OpenTraits initiative [here](contact).
+Add datasets to the Open Traits registry [here](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=dataset+review&template=register-dataset.md&title=Please+add+%5Bname%5D+to+the+OTN+dataset+registry).
 
 {% include editorial_status.html %}
 
