@@ -1,7 +1,12 @@
+[`process`](#member-registry-process) / [`creating member file`](#creating-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
+
+
+# Member Registration Process
+
 The member registration process is as follows:
 
 1. prospective member opens a "register member" github issue via https://github.com/open-traits-network/open-traits-network.github.io/issues/new/choose
-2. prospective member fills out the member registration form provided in the member [registration issue template](../.github/ISSUE_TEMPLATES/member-registration.md) 
+2. prospective member fills out the member registration form provided in the member registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/member-registration.md](../../tree/master/../.github/ISSUE_TEMPLATES/member-registration.md) 
 3. prospective member submits the issue
 4. OTN editor reviews the registration request, asking for information if needed via issue.
 5. on approval, OTN editor creates a new member file 
@@ -41,6 +46,6 @@ long:
 Please also build a small profile of yourself for other OTN members to get to know you a little. This may include your taxa of interest, descriptions of your open datasets and a brief collaboration statement that details your expertise, achievements and interests in trait science. You can do this by adding text below the second --- 
 See http://opentraits.org/members/jorrit-h-poelen or http://opentraits.org/members/rachael-v-gallagher for some examples. 
 
-# Image
-The image should be stored in [`images/members`](images/members) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/members/joshua-s-madin.jpg`](images/members/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on profile pages on on the member map.
+# Photo
+The photo image should be stored in [`images/members`](images/members) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/members/joshua-s-madin.jpg`](images/members/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on profile pages on on the member map.
 
