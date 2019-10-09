@@ -1,6 +1,6 @@
 ---
 layout: dataset
-id: AmphiBIO_v1
+id: amphi-bio
 name: AmphiBIO
 Timestamp: 8/22/2019 15:03:02
 datasetDOI_URL: https://doi.org/10.6084/m9.figshare.4644424

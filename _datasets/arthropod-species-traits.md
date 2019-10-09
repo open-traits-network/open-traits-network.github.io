@@ -1,6 +1,6 @@
 ---
 layout: dataset
-id: ArthropodSpeciesTraits
+id: arthropod-species-traits
 name: Arthropod Species Traits
 Timestamp: 8/26/2019 16:25:08
 datasetDOI_URL: https://doi.org/10.5061/dryad.53ds2

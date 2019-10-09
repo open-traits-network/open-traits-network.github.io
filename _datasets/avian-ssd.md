@@ -1,6 +1,6 @@
 ---
 layout: dataset
-id: avian_ssd
+id: avian-ssd
 name: Avian body sizes in relation to fecundity, mating system, display behavior, and resource sharing
 Timestamp: 8/29/2019 17:36:16
 datasetDOI_URL: http://www.esapubs.org/archive/ecol/E088/096/default.htm
