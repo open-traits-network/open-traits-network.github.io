@@ -33,4 +33,4 @@ standardizationScripts: https://www.try-db.org/TryWeb/Database.php
 ```
 
 
-
+Editors @open-traits-network/editors: please see https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_datasets#readme for information on registration process.
