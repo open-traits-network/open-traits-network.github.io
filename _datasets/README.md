@@ -3,7 +3,7 @@ The Open Traits Network maintains a trait dataset registry. This page aims to in
 [`process`](#dataset-registration-process) / [`creating dataset file`](#creating-a-dataset-file)
 
 
-# Member Registration Process
+# Dataset Registration Process
 
 The member registration process is as follows:
 
