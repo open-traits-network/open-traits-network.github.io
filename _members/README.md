@@ -1,4 +1,6 @@
-[`process`](#member-registry-process) / [`creating member file`](#creating-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
+The Open Traits Network maintains a member registry. This page aims to information to help OTN members and editors to do so.
+
+[`process`](#member-registration-process) / [`creating member file`](#creating-a-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
 
 
 # Member Registration Process
