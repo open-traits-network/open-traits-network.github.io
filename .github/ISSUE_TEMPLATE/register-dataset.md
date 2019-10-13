@@ -29,6 +29,7 @@ taxaList: 279,875 plant taxa, standardized mainly based on The Plant List
 usefulClasses: Mostly in-situ measurements on plant individuals
 dataStandard: Standardization of traits according to http://top-thesaurus.org/; standardization of taxonomy mainly based on http://www.theplantlist.org/
 standardizationScripts: https://www.try-db.org/TryWeb/Database.php
+webpage: https://www.try-db.org
 ---
 ```
 
