@@ -1,12 +1,12 @@
 ---
 layout: dataset
-id: TDens
+id: t-dens
 name: TetraDENSITY
 datasetDOI_URL: https://figshare.com/articles/TetraDENSITY_Population_Density_dataset/5371633
 contactName: Luca Santini
 contactEmail: luca.santini.eco@gmail.com
 license: CC BY
-traitList: >18,000 georeferenced and dated population density estimates in terrestrial vertebrates
+traitList: ">18,000 georeferenced and dated population density estimates in terrestrial vertebrates"
 decimalLatitude: Yes
 decimalLongitude: Yes
 taxon: Tetrapodes (Amphibians, Reptiles, Birds, Mammals)
