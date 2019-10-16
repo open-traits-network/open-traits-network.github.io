@@ -10,4 +10,4 @@ affiliation: Department of Ecology and Evolutionary Biology, University of Arizo
 github: smduranm
 ---
 
- https://sandramduran.wordpress.com/ 
+[website](https://sandramduran.wordpress.com/) 
