@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima";
+
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(1000px - (30px * 2)); max-width: calc(1000px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+
+@media screen and (max-width: 1000px) { .wrapper { max-width: -webkit-calc(1000px - (30px)); max-width: calc(1000px - (30px)); padding-right: 15px; padding-left: 15px; } }
