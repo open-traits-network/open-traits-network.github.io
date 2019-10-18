@@ -5,7 +5,7 @@ name: Paula Mabee
 email: pmabee@usd.edu
 homepage: https://www.usd.edu/faculty-and-staff/Paula-Mabee
 lat: 42.7794
-long: 96.9292
+long: -96.9292
 affiliation: Department of Biology, University of South Dakota, Vermillion, SD 57069, USA 
 github: pmabee
 ---
