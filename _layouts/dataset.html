@@ -11,7 +11,12 @@ layout: default
   <div class="post-content">
     
     <!-- <p><code>Timestamp</code>: {{ page.Timestamp }}</p> -->
+    <p><code>description</code>: {{ page.description }}</p>
+    <p><code>webpage</code>: <a href="{{ page.webpage }}">{{ page.webpage }}</a></p>
+    <p><code>paperDOIcitation</code>: <a href="{{ page.paperDOIcitation }}">{{ page.paperDOIcitation }}</a></p>
     <p><code>datasetDOI_URL</code>: <a href="{{ page.datasetDOI_URL }}">{{ page.datasetDOI_URL }}</a></p>
+    <p><code>dataStandard</code>: {{ page.dataStandard }}</p>
+    <p><code>standardizationScripts</code>: <a href="{{ page.standardizationScripts }}">{{ page.standardizationScripts }}</a></p>
     <p><code>contactName</code>: {{ page.contactName }}</p>
     <p><code>contactEmail</code>: <a href="mailto:{{ page.contactEmail }}">{{ page.contactEmail }}</a></p>
     <p><code>license</code>: {{ page.license }}</p>
@@ -21,12 +26,8 @@ layout: default
     <p><code>decimalLongitude</code>: {{ page.decimalLongitude }}</p>
     <p><code>taxon</code>: {{ page.taxon }}</p>
     <p><code>eventDate</code>: {{ page.eventDate }}</p>
-    <p><code>paperDOIcitation</code>: <a href="{{ page.paperDOIcitation }}">{{ page.paperDOIcitation }}</a></p>
-    <p><code>description</code>: {{ page.description }}</p>
     <p><code>taxaList</code>: {{ page.taxaList }}</p>
     <p><code>usefulClasses</code>: {{ page.usefulClasses }}</p>
-    <p><code>dataStandard</code>: {{ page.dataStandard }}</p>
-    <p><code>standardizationScripts</code>: <a href="{{ page.standardizationScripts }}">{{ page.standardizationScripts }}</a></p>
     <!-- {{ content }} -->
 
   </div>
