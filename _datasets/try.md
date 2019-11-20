@@ -1,23 +1,23 @@
 ---
 layout: dataset
 id: try
-name: TRY
+name: TRY - Global Plant Trait Database
 Timestamp: 8/28/2019 10:33:07
 datasetDOI_URL: https://www.try-db.org
-contactName: Jens Kattge
+contactName: Jens Kattge / Gerhard Boenisch / Sandra Díaz / Sandra Lavorel / Colin Prentice / Paul Leadley / Christian Wirth / the TRY Network
 contactEmail: jkattge@bgc-jena.mpg.de
 license: CC BY 
-traitList: 2091 plant traits, standardized according to http://top-thesaurus.org
+traitList: 2091 plant traits
 higherGeography: Global | Africa | Antarctica | Asia | Europe | North America | Oceania | South America
-decimalLatitude: 
-decimalLongitude: 
+decimalLatitude: -66 to 85
+decimalLongitude: -178 to 180
 taxon: Tracheophyta
 eventDate: about 1900 to current
 paperDOIcitation: 10.1111/j.1365-2486.2011.02451.x
-description: A database of databases for vascular plant traits, terrestrial and fresh-water.
-taxaList: 279,875 plant taxa, standardized mainly based on The Plant List
+description: The TRY database is a growing compilation of vascular plant traits (also mosses and lichens) including published (>10,000 original publications) and unpublished data. TRY started in 2007. As of today, there are 12 mio trait records.  
+taxaList: 280,000 plant taxa
 usefulClasses: Mostly in-situ measurements on plant individuals
-dataStandard: Standardization of traits according to http://top-thesaurus.org/; standardization of taxonomy mainly based on http://www.theplantlist.org/
+dataStandard: Standardization of traits according to http://top-thesaurus.org/; standardization of taxonomy based on http://www.theplantlist.org/
 standardizationScripts: https://www.try-db.org/TryWeb/Database.php
 ---
 
