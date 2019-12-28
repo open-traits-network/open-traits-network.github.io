@@ -20,7 +20,7 @@ The OTN seeks to undertake five key activities as a starting point for the synth
 4. Creating a *trait core* to facilitate synthesis and standardisation  
 5. Facilitating consistent approaches to measuring traits within major groups  
   
-To join the Open Traits Network [introduce yourself](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network) and offer your expertise and knowledge in the pursuit of a harmonised and curated trait dataset across all organisms.
+[Introduce yourself](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network) to join the Open Traits Network and offer your expertise and knowledge in the pursuit of a harmonised and curated trait dataset across all organisms.
 
 <div id="banner">
 <script language="JavaScript" src="js/pictures.js"></script>
