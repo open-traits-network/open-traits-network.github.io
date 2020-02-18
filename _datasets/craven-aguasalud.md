@@ -9,7 +9,7 @@ license: CC BY 4.0
 traitList: 17 leaf traits, standardized according to http://top-thesaurus.org
 higherGeography: Central America
 decimalLatitude: 9.216667
-decimalLongitude:-79.783333
+decimalLongitude: -79.783333
 taxon: Tracheophyta
 eventDate: 2010
 paperDOIcitation: https://doi.org/10.1111/jvs.12632
