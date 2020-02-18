@@ -1,6 +1,6 @@
 ---
 layout: dataset
-id: craven_aguasalud
+id: craven-aguasalud
 name: Panama_SecondFor_LeafTraits
 datasetDOI_URL: https://doi.org/10.6084/m9.figshare.1402253
 contactName: Dylan Craven
