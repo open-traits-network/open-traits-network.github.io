@@ -18,5 +18,4 @@ taxaList: 55 plant taxa, standardized using The Plant List
 usefulClasses: In-situ measurements on plant individuals, averaged across species
 dataStandard: Standardization of traits according to http://top-thesaurus.org/; standardization of taxonomy mainly based on http://www.theplantlist.org/
 standardizationScripts: 
-webpage: 
 ---
