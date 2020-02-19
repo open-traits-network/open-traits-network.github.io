@@ -7,7 +7,7 @@ id: members
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
 <link rel="stylesheet" type="text/css" href="css/MarkerCluster.Default.css">
 
-Would you like to become a member? Please introduce yourself [here](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network). 
+Would you like to become a member? Watch [Aud Halbritter](http://opentraits.org/members/aud-h-halbritter)'s [how-to-join video](https://youtu.be/bgVd-OHdZH4) and introduce yourself [here](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network). 
 
 {% include editorial_status.html %}
 
