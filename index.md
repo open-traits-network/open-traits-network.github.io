@@ -3,7 +3,7 @@ layout: page
 id: index
 ---
   
-The Open Traits Network (OTN) is a global, decentralised community of researchers and institutions who welcomes anyone working towards standardising and integrating trait data across all organisms. We are guided by the principles of Open Science, particularly Open Methods, Open Source and Open Data. We believe that five key principles built upon Open Science ideals could be transformative for trait science:
+The Open Traits Network (OTN) is a global, decentralised [community of researchers](/members) and institutions who welcomes anyone working towards standardising and integrating trait data across all organisms. We are guided by the principles of Open Science, particularly Open Methods, Open Source and Open Data. We believe that five key principles built upon Open Science ideals could be transformative for trait science:
 
 - Openly sharing data, methods, protocols, code, and workflows;
 - Appropriately citing original data collectors, and providing scholarly credit;
@@ -20,7 +20,7 @@ The OTN seeks to undertake five key activities as a starting point for the synth
 4. Creating a *trait core* to facilitate synthesis and standardisation  
 5. Facilitating consistent approaches to measuring traits within major groups  
   
-[Introduce yourself](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network) to join the Open Traits Network and offer your expertise and knowledge in the pursuit of a harmonised and curated trait dataset across all organisms.
+Please visit our [member pages](/members) to see a list of our current members. This page also has instructions on how you can join the Open Traits Network and offer your expertise and knowledge in the pursuit of a harmonised and curated trait dataset across all organisms.
 
 <div id="banner">
 <script language="JavaScript" src="js/pictures.js"></script>
