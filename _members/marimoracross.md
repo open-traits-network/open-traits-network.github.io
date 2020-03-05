@@ -5,10 +5,8 @@ name: María Mora Cross
 email: mariamoracross@gmail.com
 homepage: http://crbio.cr
 lat: 9.972377 
-long:-84.132958
-
-affiliation: Costa Rica Institute of Technology (ITCR), Computer Engineering School 
-National Biodiversity Institute of Costa Rica (INBio)
+long: -84.132958
+affiliation: Costa Rica Institute of Technology (ITCR), Computer Engineering School, National Biodiversity Institute of Costa Rica (INBio)
 github: marimoracross
 ---
 
