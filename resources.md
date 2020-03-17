@@ -58,3 +58,4 @@ id: resources
 
 [Center for Open Science (COS)](https://cos.io/) - "increase the openness, integrity, and reproducibility of scientific research."
 
+[The (Re)usable Data Project](http://reusabledata.org/) - "[...] we hope to engage the larger community in an open and fruitful discussion on issues concerning the use and reuse of scientific data, including the balance of openness and how to make ends meet in an increasingly competitive environment [...]"
