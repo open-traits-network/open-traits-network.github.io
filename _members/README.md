@@ -11,9 +11,10 @@ The member registration process is as follows:
 2. prospective member fills out the member registration form provided in the member registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-member.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-member.md) 
 3. prospective member submits the issue
 4. OTN editor reviews the registration request, asking for information if needed via issue.
-5. on approval, OTN editor creates a new member file 
-6. OTN editor notifies new member via issue comment. 
-7. OTN editor closes issue
+5. on approval, OTN editor creates a new member file, and commits/pushes the changes to the OTN registry repository.
+6. OTN editor verifies that the new addition is available via https://opentraits.org
+7. OTN editor notifies new member via issue comment and includes a link to the newly added OTN member profile.
+8. OTN editor closes issue
 
 If you'd like to improve the registration process, please open an issue and make suggestions. 
 
