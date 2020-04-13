@@ -10,11 +10,12 @@ The dataset registration process is as follows:
 1. contributor opens a "register dataset" github issue via https://github.com/open-traits-network/open-traits-network.github.io/issues/new/choose
 2. contributor fills out the dataset registration form provided in the dataset registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-dataset.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-dataset.md) 
 3. contributor submits the issue
-4. OTN editor reviews the registration request, asking for information if needed via issue.
-5. on approval, OTN editor creates a new dataset file and commits/pushes the changes to the OTN registry repository.
-6. OTN editors verifies that the new addition is accessible via https://opentraits.org .
-6. OTN editor notifies contributor via issue comment and includes a OTN link to the new addition.
-7. OTN editor closes issue
+4. OTN editor [self-assigns](https://help.github.com/en/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users) the issue to indicate to others the they are working on it.
+5. OTN editor reviews the registration request, asking for information if needed via issue.
+6. on approval, OTN editor creates a new dataset file and commits/pushes the changes to the OTN registry repository.
+7. OTN editors verifies that the new addition is accessible via https://opentraits.org .
+8. OTN editor notifies contributor via issue comment and includes a OTN link to the new addition.
+9. OTN editor closes issue
 
 If you'd like to improve the registration process, please open an issue and make suggestions. 
 
