@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Polychaeta
 eventDate: 
-paperDOIcitation: doi:10.3897/BDJ.2.e1024
+paperDOIcitation: www.doi.org/10.3897/BDJ.2.e1024
 description: A database on biological traits of polychaetes
 taxaList: 
 usefulClasses: adult|larval
