@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Angiospermae
 eventDate: 
-paperDOIcitation: 10.1038/ncomms16047
+paperDOIcitation: https://doi.org/10.1038/ncomms16047
 description: Dataset of angiosperm floral traits (mostly structural), extracted from the PROTEUS database and built for the eFLOWER project; for more information on PROTEUS and eFLOWER, see www.eflower.org
 taxaList: 792 angiosperm species
 usefulClasses: literatureData
