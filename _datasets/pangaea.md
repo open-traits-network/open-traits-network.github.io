@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: copepods
 eventDate: 
-paperDOIcitation: https://doi.org/10.5194/essd-9-99-2017, 2017
+paperDOIcitation: https://doi.org/10.5194/essd-9-99-2017
 description: A trait database for marine copepods
 taxaList: 
 usefulClasses: literatureData, expertKnowledge
