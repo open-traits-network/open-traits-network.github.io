@@ -13,7 +13,7 @@ decimalLatitude: -42.7
 decimalLongitude: -171.8
 taxon: Formicidae (ants)
 eventDate: 1949-2014
-paperDOIcitation: Parr, C. L., Dunn, R. R., Sanders, N. J., Weiser, M. D., Photakis, M., Bishop, T. R., ... & Gibb, H. (2017). GlobalAnts, a new database on the geography of ant traits (Hymenoptera, Formicidae). Insect Conservation and Diversity, 10(1), 5-20.
+paperDOIcitation:  https://doi.org/10.1111/icad.12211
 description: Part of a database that also includes assemblage and abundance data for ants
 taxaList: Formicidae - should discuss how you want this as we have localised morphospecies in a lot of datasets
 usefulClasses: worker ants
