@@ -14,7 +14,7 @@ decimalLongitude:
 taxon: Beetles | Coleoptera | Cerambycidae
 eventDate: 
 paperDOIcitation: 10.1111/acv.12099
-description: We compiled information on species’ traits for all residentSwedish longhorn beetles (Coleoptera: Cerambycidae) frompublished sources.
+description: "We compiled information on species’ traits for all resident Swedish longhorn beetles (Coleoptera: Cerambycidae) frompublished sources."
 taxaList: 
 usefulClasses: IUCN red list
 dataStandard: none
