@@ -8,6 +8,8 @@ Add datasets to the Open Traits registry [here](https://github.com/open-traits-n
 
 {% include editorial_status.html %}
 
+[datasets.json](/datasets.json)
+
 |name|contact|description|traits|taxa|
 |---|---|---|---|---|
 {%- for dataset in site.datasets %}
