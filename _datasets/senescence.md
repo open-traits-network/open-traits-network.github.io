@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Animalia
 eventDate: 
-paperDOIcitation: 10.1093/nar/gkx1042
+paperDOIcitation: https://doi.org/10.1093/nar/gkx1042
 description: AnAge Database of Animal Ageing and Longevity
 taxaList: 
 usefulClasses: literatureData, observationalData
