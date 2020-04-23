@@ -1,0 +1,17 @@
+---
+---
+{
+  "title": {{ site.title | jsonify }},
+  "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/datasets.json",
+  "datasets": [
+    {% for dataset in site.datasets %}
+    {
+      "id": "{{ dataset.id }}",
+      "url": "{{ dataset.id | prepend: site.baseurl | prepend: site.url }}",
+      "title": {{ dataset.name | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
