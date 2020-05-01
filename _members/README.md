@@ -21,12 +21,12 @@ If you'd like to improve the registration process, please open an issue and make
 
 # Creating a member file
 
-To create a new member file, first copy the text in the code formatted box below or re-use the template via an issue provided through the member registration process, including the three dashes at the top and bottom of the text. Next, go to the top of the page and click `Create new file` which is located on the top right, second menu down. Paste the copied text into the large textbox and fill in the information as per the instructions below. Leave a space after the colon on each line. Enter the same `id` in the small textfield at the top (the web link), which is your name with dashed instead of spaces (e.g., joshua-s-madin).
+To create a new member file, first copy the text in the code formatted box below or re-use the template via an issue provided through the member registration process, including the three dashes at the top and bottom of the text. Next, go to the top of the page and click `Create new file` which is located on the top right, second menu down. Paste the copied text into the large textbox and fill in the information as per the instructions below. Leave a space after the colon on each line. Enter the same `id` in the small textfield at the top (the web link), which is your name with dashed instead of spaces (e.g. joshua-s-madin). Add `.md` as the extension to the new member file (e.g. joshua-s-madin.md). 
 
 - `layout:` leave this as member
-- `id:` enter your name with dashed instead of spaces (e.g., joshua-s-madin)
-- `name:` enter your name with spaces (e.g., Joshua S Madin)
-- `affiliation:` enter your affiliations (e.g., University of Hawaii)
+- `id:` enter your name with dashed instead of spaces (e.g. joshua-s-madin)
+- `name:` enter your name with spaces (e.g. Joshua S Madin)
+- `affiliation:` enter your affiliations (e.g. University of Hawaii)
 - `email:` (optional) enter your email address
 - `website:` (optional) enter full web address (i.e., include https://)
 - `lat:` if you want to appear on the map, enter the `lat` and `long` of your institution in decimal degrees
