@@ -6,7 +6,7 @@ email: wfarfan@gmail.com
 homepage: 
 lat: 38.648849
 long: -90.311276
-affiliation: Living Earth Collaborative, Washington University in Saint Louis | Center for Conservation and Sustainable Development, Missouri Botanical Garden 
+affiliation: Living Earth Collaborative, Washington University in Saint Louis and Center for Conservation and Sustainable Development, Missouri Botanical Garden 
 github: wfarfan
 ---
 
