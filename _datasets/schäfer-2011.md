@@ -1,6 +1,6 @@
 ---
 layout: dataset
-id: schäfer-2011
+id: schafer-2011
 name: Schäfer_2011
 Timestamp: 9/17/2019 6:04:17
 datasetDOI_URL: https://ars.els-cdn.com/content/image/1-s2.0-S0048969711001124-mmc1.pdf
