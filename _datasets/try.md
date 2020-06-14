@@ -13,7 +13,7 @@ decimalLatitude: -66 to 85
 decimalLongitude: -178 to 180
 taxon: Tracheophyta
 eventDate: about 1900 to current
-paperDOIcitation: 10.1111/j.1365-2486.2011.02451.x
+paperDOIcitation: https://www.doi.org/10.1111/j.1365-2486.2011.02451.x
 description: The TRY database is a growing compilation of vascular plant traits (also mosses and lichens) including published (>10,000 original publications) and unpublished data. TRY started in 2007. As of today, there are 12 mio trait records.  
 taxaList: 280,000 plant taxa
 usefulClasses: Mostly in-situ measurements on plant individuals
