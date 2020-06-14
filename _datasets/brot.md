@@ -12,7 +12,7 @@ decimalLatitude:
 decimalLongitude:
 taxon: Tracheophyta
 eventDate: 
-paperDOIcitation: 10.1038/sdata.2018.135
+paperDOIcitation: https://www.doi.org/10.1038/sdata.2018.135
 description:  A functional trait database for Mediterranean Basin plants
 taxaList: 2457 taxa
 usefulClasses: compilation from references and field data
