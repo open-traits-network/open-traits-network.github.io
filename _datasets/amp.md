@@ -12,7 +12,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Animalia
 eventDate: about 1900 to current
-paperDOIcitation: 10.1371/journal.pcbi.1006100
+paperDOIcitation: https://www.doi.org/10.1371/journal.pcbi.1006100
 description: A database of metabolic traits and associated parameter estimates for the Dynamic Energy Budget theory.
 taxaList: 2026 animal taxa
 usefulClasses: Mostly data relating to lengths and weights, development and reproduction rates (life history data) and mass exchanges (e.g. respiration rates, food consumption, etc.).
