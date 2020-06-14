@@ -12,7 +12,7 @@ decimalLatitude:
 decimalLongitude:
 taxon: Plantae
 eventDate: about 1910 to current
-paperDOIcitation: 10.1111/gcbb.12420
+paperDOIcitation: https://www.doi.org/10.1111/gcbb.12420
 description: A database of plant traits and ecosystem services. Designed to support meta-analysis and crop and ecosystem modeling.
 taxaList: 279,875 plant taxa, standardized mainly based on The Plant List
 usefulClasses: Mostly in-situ measurements on plant individuals, communities, and ecosystems
