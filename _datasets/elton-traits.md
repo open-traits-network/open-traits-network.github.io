@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Aves | Mammalia
 eventDate: 
-paperDOIcitation: 10.1890/13-1917.1
+paperDOIcitation: https://www.doi.org/10.1890/13-1917.1
 description: EltonTraits 1.0, Species-level foraging attributes of the world's birds and mammals
 taxaList: 
 usefulClasses: literatureData
