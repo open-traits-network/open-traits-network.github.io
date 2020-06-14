@@ -12,7 +12,7 @@ decimalLatitude:
 decimalLongitude:
 taxon: Fish
 eventDate: about 1980 to current
-paperDOIcitation: 10.1594/PANGAEA.900866
+paperDOIcitation: https://www.doi.org/10.1594/PANGAEA.900866
 description: A trait collection of marine fish species from North Atlantic and Northeast Pacific continental shelf seas.
 taxaList: 6216 fish taxa, standardized based on World Register of Marine Species
 usefulClasses: mostly species-, genus- and family level traits
