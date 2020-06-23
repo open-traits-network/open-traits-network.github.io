@@ -14,7 +14,7 @@ taxon: Plantae
 eventDate: about 1910 to current
 paperDOIcitation: https://www.doi.org/10.1111/gcbb.12420
 description: A database of plant traits and ecosystem services. Designed to support meta-analysis and crop and ecosystem modeling.
-taxaList: 279,875 plant taxa, standardized mainly based on The Plant List
+taxaList: 1312 distinct genera, 3032 distinct species, and 470 taxa resolved below plant species (mostly cultivars), standardized mainly based on USDA Plants database
 usefulClasses: Mostly in-situ measurements on plant individuals, communities, and ecosystems
 dataStandard: Standardization of taxonomy using usda.plants.gov; no standardization of traits vocabulary
 standardizationScripts: None
