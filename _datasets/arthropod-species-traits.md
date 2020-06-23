@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Arthropod
 eventDate: 2008 | 2009 | 2010 | 2011 | 2012
-paperDOIcitation: 10.1038/sdata.2015.13
+paperDOIcitation: https://www.doi.org/10.1038/sdata.2015.13
 description: A summary of eight traits of Coleoptera, Hemiptera, Orthoptera and Araneae, occurring in grasslands in Germany
 taxaList: Coleoptera | Hemiptera | Orthoptera | Araneae
 usefulClasses: adult, sweep-netting

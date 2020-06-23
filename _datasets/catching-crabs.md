@@ -13,7 +13,7 @@ decimalLatitude: 52.95
 decimalLongitude: 0.85
 taxon: Carcinus maenas
 eventDate: 2007-08
-paperDOIcitation: arXiv:1404.0290
+paperDOIcitation: https://arxiv.org/abs/1404.0290v1
 description: 
 taxaList: Carcinus maenas
 usefulClasses: carapace

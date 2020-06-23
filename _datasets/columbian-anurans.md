@@ -12,7 +12,7 @@ decimalLatitude:
 decimalLongitude:
 taxon: Amphibia
 eventDate: about 1940 to 2017
-paperDOIcitation: . 10.1002/ecy.2685
+paperDOIcitation: https://www.doi.org/10.1002/ecy.2685
 description: A database of traits for amphibians from Colombia.
 taxaList: 293 species / 14 families 
 usefulClasses: Mostly museum measurements on amphibian individuals

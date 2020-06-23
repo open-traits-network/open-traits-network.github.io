@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Amphibia
 eventDate: 
-paperDOIcitation: 10.1038/sdata.2017.123
+paperDOIcitation: https://www.doi.org/10.1038/sdata.2017.123
 description: Global database for amphibian ecological traits (collection of data from literature)
 taxaList: 
 usefulClasses: literatureData

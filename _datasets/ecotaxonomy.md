@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude: 
 taxon: Animalia | Arthropoda | Arachnida | Insecta | Myriapoda | Araneae | Collembola | Oribatida | Mesostigmata | Formicidae
 eventDate: 
-paperDOIcitation: 10.3897/biss.3.37146
+paperDOIcitation: https://www.doi.org/10.3897/biss.3.37146
 description: Ecotaxonomy (ecotaxonomy.org), is an open web platform, that allows traits, taxa, individuals and samples to be linked within research projects. Any morphological or ecological traits can be customized inside the system and attached either to taxa, individuals, or environmental samples. The system is flexible to include any group of organisms. The taxonomic system of Ecotaxonomy is based on the Global Biodiversity Information Facility (gbif.org), but may be complemented by morphospecies, pictures, literature and other parameters. As public output, the system provides interactive identification keys and web catalogs of traits and taxa.
 taxaList: Multiple groups of organisms (focused on Arthropoda)
 usefulClasses: morphology, inferred traits, ecological traits, taxonomic traits, individual traits
