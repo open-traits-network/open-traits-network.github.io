@@ -1,7 +1,7 @@
 ---
 layout: dataset
-id: beuker-2019
-name: A trait collection of marine fish species from North Atlantic and Northeast Pacific continental shelf seas
+id: beukhof-2019
+name: Beukhof_2019
 datasetDOI_URL: https://doi.pangaea.de/10.1594/PANGAEA.900866
 contactName: Esther Beukhof | Aurore Maureaud
 contactEmail: esther.beukhof@wur.nl | auma@aqua.dtu.dk
