@@ -1,7 +1,7 @@
 ---
 layout: dataset
-id: avian-ssd
-name: Avian body sizes in relation to fecundity, mating system, display behavior, and resource sharing
+id: lislevand-2007
+name: Lislevand_2007
 Timestamp: 8/29/2019 17:36:16
 datasetDOI_URL: http://www.esapubs.org/archive/ecol/E088/096/default.htm
 contactName: Terje Lislevand
