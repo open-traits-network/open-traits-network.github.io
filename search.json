@@ -10,6 +10,7 @@
       "higherGeography" : "{{ post.higherGeography }}",
       "taxon" : "{{ post.taxon }}",
       "taxaList" : "{{ post.taxaList }}",
+      "traitList" : "{{ post.traitList | split: '\|' | escape }}",
       "higherGeography" : "{{ post.higherGeography }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "date"     : "{{ post.date }}"
