@@ -1,0 +1,19 @@
+---
+---
+[
+  {% for post in site.datasets %}
+    {
+
+      "title"    : "{{ post.name | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "description" : "{{ post.description }}",
+      "higherGeography" : "{{ post.higherGeography }}",
+      "taxon" : "{{ post.taxon }}",
+      "taxaList" : "{{ post.taxaList }}",
+      "higherGeography" : "{{ post.higherGeography }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ post.date }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
