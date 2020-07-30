@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Search
+id: search
 ---
-# Search
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
