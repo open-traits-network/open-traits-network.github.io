@@ -10,7 +10,7 @@ traitList: predator-prey | plant-pollinator | pathogen-host | parasite-host | sy
 higherGeography: Global
 decimalLatitude: 
 decimalLongitude: 
-taxon: Most
+taxon: Animalia | Plantae | Fungi | Bacteria | Archaea | Protozoa | Chromista
 eventDate: 
 paperDOIcitation: https://doi.org/10.1016/j.ecoinf.2014.08.005
 description: A global index of existing species interaction data records (e.g., predator-prey, pollinator-plant, pathogen-host, parasite-host).
