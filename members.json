@@ -1,0 +1,20 @@
+---
+---
+{
+  "title": {{ site.title | jsonify }},
+  "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/members.json",
+  "members": [
+    {% for member in site.members %}
+    {
+      "id": "{{ member.id }}",
+      "url": "{{ member.id | prepend: site.baseurl | prepend: site.url }}",
+      "name": {{ member.name }},
+      "affiliation": {{ member.affilation }},
+      "latitude": {{ member.lat }},
+      "longitude": {{ member.long }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
