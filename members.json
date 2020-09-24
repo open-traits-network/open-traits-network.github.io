@@ -11,7 +11,7 @@
       "id": "{{ member.id }}",
       "url": "{{ member.id | prepend: site.baseurl | prepend: site.url }}",
       "name": {{ member.name | jsonify }},
-      "affiliation": {{ member.affilation | jsonify }},
+      "affiliation": {{ member.affiliation | jsonify }},
       "latitude": {{ member.lat }},
       "longitude": {{ member.long }}
       }{% unless forloop.last %},{% endunless %}
