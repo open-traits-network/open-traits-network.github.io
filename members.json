@@ -8,12 +8,18 @@
   "members": [
     {% for member in site.members %}
     {
-      "id": "{{ member.id }}",
       "url": "{{ member.id | prepend: site.baseurl | prepend: site.url }}",
       "name": {{ member.name | jsonify }},
+      {%- if member.affiliation -%}
       "affiliation": {{ member.affiliation | jsonify }},
+      {% endif %}
+      {%- if member.lat -%}
       "latitude": {{ member.lat }},
-      "longitude": {{ member.long }}
+      {% endif %}
+      {%- if member.long -%}
+      "longitude": {{ member.long }},
+      {% endif %}
+      "id": "{{ member.id }}"
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
