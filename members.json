@@ -10,8 +10,8 @@
     {
       "id": "{{ member.id }}",
       "url": "{{ member.id | prepend: site.baseurl | prepend: site.url }}",
-      "name": {{ member.name }},
-      "affiliation": {{ member.affilation }},
+      "name": {{ member.name | jsonify }},
+      "affiliation": {{ member.affilation | jsonify }},
       "latitude": {{ member.lat }},
       "longitude": {{ member.long }}
       }{% unless forloop.last %},{% endunless %}
