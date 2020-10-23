@@ -3,17 +3,17 @@ layout: dataset
 id: chinaroots
 name: ChinaRoots, Sapling leaf and root traits from 6.6 km Jianfengling transect
 Timestamp: 9/4/2019 6:01:22
-datasetDOI_URL: https://doi.org/10.6084/m9.figshare.7996328.v2
+datasetDOI_URL: https://doi.org/10.6084/m9.figshare.7996328.v4 
 contactName: J. Aaron Hogan
 contactEmail: jamesaaronhogan@gmail.com
 license: CC by 4.0
 traitList: Leaf Area | LeafPermiter | LeafWidth | LeafHeight | LeafCircularity | LeafAspectRatio | LeafRoundness | LeafMass | SLA | LeafThickness | RootMass | RootLength | SpecificRootLength | RootProjArea | RootArea | SpecifcRootArea | RootAvgDiam | RootLenPerVol | RootVolume | RootTD | NRootTips  | SRTipAbund   NForks  | NCrossings
 higherGeography: Asia | China | Hainan Island | Jianfengling Forest Reserve 
-decimalLatitude: 
-decimalLongitude: 
+decimalLatitude: 18.36666667
+decimalLongitude: 18.60000000
 taxon: Plantae | Angiosperms
 eventDate: May - June 2017
-paperDOIcitation:  https://doi.org/10.1101/611640
+paperDOIcitation:  https://doi.org/10.1007/s13595-020-00977-7
 description: 
 taxaList: 
 usefulClasses: plant root and leaf traits, tropical trees
