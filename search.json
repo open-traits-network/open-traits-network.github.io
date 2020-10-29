@@ -6,6 +6,7 @@
 
       "title"    : "{{ post.name | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "contactName" : "{{ post.contactName }}",
       "description" : "{{ post.description }}",
       "higherGeography" : "{{ post.higherGeography }}",
       "taxon" : "{{ post.taxon }}",
