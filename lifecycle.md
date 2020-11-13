@@ -15,7 +15,7 @@ From the point of view of a researcher, the life cycle commonly consist of the f
 
  c.  copy/version gathered datasets and terms, 
 
- d. [transform datasets into a format suitable for synthesis (aka data handling)](#data-handling), 
+ d. [transform datasets into a format suitable for synthesis (aka data handling)](#post-processing-and-data-management), 
  
  e. select/filter data of interest, explore data/fix bugs, 
  
