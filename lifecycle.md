@@ -3,8 +3,6 @@ layout: page
 title: Lifecycle
 id: lifecycle
 ---
-[provide feedback](https://github.com/open-traits-network/open-traits-network.github.io/issues)
-
 This page describes a typical trait data life cycle
 
 This trait data life cycle may show some differences with respect to the more general 'data life cycle' (see below) often referred to in data management contexts.
