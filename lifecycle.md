@@ -9,13 +9,13 @@ This trait data life cycle may show some differences with respect to the more ge
 
 From the point of view of a researcher, the life cycle commonly consist of the following phases: 
 
- a. formulate [research question](#research-question), 
+ a. formulate [research question](#research-questions), 
 
- b. [gather/re-use/generate datasets and standardised terms](#gather_data), 
+ b. [gather/re-use/generate datasets and standardised terms](#gather-data), 
 
  c.  copy/version gathered datasets and terms, 
 
- d. [transform datasets into a format suitable for synthesis (aka data handling)](#data_handling), 
+ d. [transform datasets into a format suitable for synthesis (aka data handling)](#data-handling), 
  
  e. select/filter data of interest, explore data/fix bugs, 
  
