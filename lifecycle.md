@@ -3,7 +3,9 @@ layout: page
 title: Lifecycle
 id: lifecycle
 ---
-This page describes a typical trait data life cycle
+This page describes a typical trait data life cycle and was initially written during by sDiv working group sDevTrait participants during a 5 day virtual meeting hosted by the German Centre for Integrative Biodiversity Research (iDiv) in period 2020-10-26 to 2020-10-30 . 
+
+This page is very much a work in progress and contributions are welcome. Please use the edit or feedback buttons to suggest edit or share thoughts.
 
 This trait data life cycle may show some differences with respect to the more general 'data life cycle' (see below) often referred to in data management contexts.
 
