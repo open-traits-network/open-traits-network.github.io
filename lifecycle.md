@@ -358,3 +358,27 @@ After publishing data, visibility can be increased by registering the dataset in
 
 In case the dataset is not a static it makes sense to have regular releases with unambiguous version numbers.
 If it is open for submissions by others and covers a trait or taxonomic group that does not fit with any established database, developing a new one can be an option.
+
+# Contributions to this document
+This is a list of people who contributed to this document. Feel free to add your own name here when making a contribution.
+
+ - Alexander Keller
+ - Amanda Gallinat
+ - Aniko Toth
+ - Brian Maitner
+ - C .J. van der Kooi
+ - Caterina Penone
+ - Daniel Falster
+ - Florian Schneider
+ - Helge Bruelheide
+ - Jen Hammock
+ - Jens Kattge
+ - Jorrit Poelen
+ - Josh Madin
+ - Markus Ankenbrand
+ - Rachael Gallagher
+ - Renske Onstein
+ - Sara Leonhardt
+ - Stefanie Dekeyzer
+ - Susanne Butschkau
+ - Will Pearse
