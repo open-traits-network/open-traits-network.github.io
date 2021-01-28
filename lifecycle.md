@@ -57,8 +57,9 @@ What makes a good trait-based question?
 - Trait-based questions link organismal performance to environment.
 
 - In essence, good trait-based question, much like macroecological/macroevolution, because they incorporate  elements of biogeography, phylogeny, intraspecific variation, etc. 
-- 
-- to investigate questions relevant to environmental response, community interactions, invasion, and conservation...
+- To investigate the general classification and coordination of traits across taxonomic groups and ecological realms
+- To predict performance (which otherwise would take collecting long-term data) based on a few visits to the field.
+- To investigate questions relevant to environmental response, community interactions, invasion, and conservation...
 - Link performance to environment
 - Allow mechanistic links between organism and processes
 - Trait-based questions shoudl considered two or more dimensions: many species, many traits, evolution time, large space / biogeography. In this way they tend to be macroecological
@@ -105,7 +106,7 @@ This provides the context of the measurement or observation and helps future use
         - Terrestrial Invertebrates
             - https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018
   - repetitive measures
-  - individual marking/capturing
+  - individual mark-capturie-recapture
 
 ## Mobilizing trait data
 
@@ -170,6 +171,7 @@ The time saved in data collection will be spent on data cleaning and harmonizati
 - [Data Retriever](https://retriever.readthedocs.io/en/latest/)
 - [rOpenSci `traits` package](https://docs.ropensci.org/traits/)
 - [FENNEC](https://fennec.molecular.eco)
+- [rCOMPADRE] (https://github.com/jonesor/Rcompadre)
     
  
  
@@ -382,3 +384,4 @@ This is a list of people who contributed to this document. Feel free to add your
  - Stefanie Dekeyzer
  - Susanne Butschkau
  - Will Pearse
+ - Roberto Salguero-Gomez
