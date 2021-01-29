@@ -93,7 +93,7 @@ Trait data are essential to answer research questions and test theories. Trait d
 > [name=Caterina Penone] Not sure how/where to include this: "Increasing the scope of the research, Generalization"
 
 ## Measuring data
-Data generation through own measurements can be perfored on observations of life specimens in nature, sampled and preserved specimens, or collection and herbaria specimens. For this purpose, and to allow comparison of data across datasets, following established data standards and protocols is very important. Measurement protocols can be developed along the own research question, but ideally should follow collection standards of subdisciplines which provide instructions on how to obtain the primary data while ruling out sources of measurement error, e.g. by repeated measuring. Sampling protocolls may also define auxilliary data or metadata that should be assessed as covariates of the measurement procedure. 
+Data generation through own measurements can be perfored on observations of life specimens in nature, sampled and preserved specimens, or collection and herbaria specimens. For this purpose, and to allow comparison of data across datasets, following established data standards and protocols is very important. Measurement protocols can be developed along the own research question, but ideally should follow collection standards of subdisciplines which provide instructions on how to obtain the primary data while ruling out sources of measurement error, e.g. by repeated measuring. Sampling protocols may also define auxilliary data or metadata that should be assessed as covariates of the measurement procedure. 
 This provides the context of the measurement or observation and helps future users to better understand and reproduce the methods.  Deciding which data to collect often involves considerations of not only which traits are more useful, but also which traits are commonly collected and the time and expense involved in collecting or processing the data.
 
 - develop measurement protocol along the research question
@@ -197,7 +197,7 @@ This would be the minimal information for a trait record
   - context (e.g. natural habitat)
   - measurement details (e.g. following standards, devices used...)
 
-- further meta-data help (but nobody will measure meta-data not relecvant for the research question or relevant for re-use of the data...)
+- further meta-data help (but nobody will measure meta-data not relevant for the research question or relevant for re-use of the data...)
 - provenance
   - DOI/URI
   - unstructured citation information
@@ -210,13 +210,14 @@ This would be the minimal information for a trait record
 
 After gathering the data from existing or new sources, they are usually transformed and aggregated into a comparable format suitable for answering a specific research question. Specific research questions produce narrow datasets as a result, whereas broad research questions produce more general datasets [*Caterina: not sure I agree here, the size of the dataset is independent of the specificity of the research question, it would be more the geographical and taxonomic scopes that would determine the "extent" of the dataset.*]. This data integration process of integrating gathered datasets can be automated, semi-automated or manual. When post-processed, data can also be aggregated at different levels (e.g. individuals, species) and this should be defined. Post-processing also includes several steps of error checking and quality control. As for data re-use, documentation and open code are extremely important for transpareny and reproducibility purposes.
 
-### Post processing
+### Post processing 
+>> [*Margot Neyret: if the idea here is to give step-by-step guidelines, maybe reorder?* 1. Harmonization 2. Error handling 3. Duplicates 4. Filtering 5. Standardisation. 6-7. Outliers + Combining 8. Transformation 9. keep references.]
 
 - Harmonization (e.g. from multiple data sources)
   - semantic harmonization 
   - taxonomy
       - (Plant) Taxonomic Name Resolution Service (https://github.com/EnquistLab/RTNRS)
-      - taxize R package https://cran.r-project.org/web/packages/taxize
+      - taxize R package https://cran.r-project.org/web/packages/taxize 
       - LifeWatch Belgium e-Lab https://lifewatch.be/data-services
   - covariate hamonization
       - Geographic Name Resolution Service (https://github.com/EnquistLab/RGNRS)
@@ -224,17 +225,19 @@ After gathering the data from existing or new sources, they are usually transfor
 - Duplicate handling
     - duplicate detection by evaluation of the trait value, biogeographic origin and time/date
 - Outliers
-    - z-score evaluation
+    - z-score evaluation 
+    >> [*Margot Neyret: if data is aggregated from multiple sources, e.g. while cleaning TRY data, "outlier datasets" might need to be identified first - for instance if protocol or environmental specificities haven't been reported and lead to systematic bias compared to other datasets*] 
 - Transformation
     - logarithm
     - categories in p/a of category levels
 - Standardization
     - by range
-    - by standard deviation (or 2 standard deviations if to be combined with 0/1 data)
+    - by standard deviation (or 2 standard deviations if to be combined with 0/1 data) 
 - Filtering
     - Non-native observations
     - Cultivated observations
-- Combining trait values (repeated measures, by higher taxonomic group)
+- Combining trait values (repeated measures, by higher taxonomic group) 
+>> [*Margot Neyret: combining all data by taxonomic group v. combining by dataset, then by group. + if multiple successive steps of aggregation are necessary, issue of properly measuring the uncertainty of the final values*]
 - Maintaining references to credit data providers (including primary and intermediate databases (there might be multiple layers))
 
 ### Data management
@@ -334,7 +337,7 @@ Ideal tools for downstream analyses allow, likewise to the previous sections, re
 - [Pagels lambda](http://www.nature.com/articles/44766)
 - [Blomberg's K](http://dx.doi.org/10.1111/j.0014-3820.2003.tb00285.x)
 - Phylogenetically regressed ANOVA: [aov.phylo](https://cran.r-project.org/web/packages/geiger/index.html) or [phylANOVA](https://cran.r-project.org/web/packages/phytools/index.html)
-- Reviews on phylogentic comparative analysis 
+- Reviews on phylogenetic comparative analysis 
     - [Freckleton et al. 2002 American Naturalist: Phylogenetic Analysis and Comparative Data: A Test and Review of Evidence](https://www.journals.uchicago.edu/doi/full/10.1086/343873)    
     - [Uyeda et al. 2018 Systematic Biology: Rethinking phylogenetic comparative methods](https://academic.oup.com/sysbio/article/67/6/1091/4985805)
 
@@ -385,3 +388,4 @@ This is a list of people who contributed to this document. Feel free to add your
  - Susanne Butschkau
  - Will Pearse
  - Roberto Salguero-Gomez
+ - Margot Neyret
