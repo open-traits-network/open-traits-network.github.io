@@ -62,7 +62,7 @@ What makes a good trait-based question?
 - To investigate questions relevant to environmental response, community interactions, invasion, and conservation...
 - Link performance to environment
 - Allow mechanistic links between organism and processes
-- Trait-based questions shoudl considered two or more dimensions: many species, many traits, evolution time, large space / biogeography. In this way they tend to be macroecological
+- Trait-based questions should consider two or more dimensions: many species, many traits, evolution time, large space / biogeography. In this way they tend to be macroecological
 - Trait datasets can span different ideas with the same data
 - Revisit your dataset with new hypotheses
 - Comparable across domains - same question applied to many taxa ("on top of taxa")
@@ -85,6 +85,7 @@ Example of research questions include:
 - Temporal change in trait values
 - Traits reflecting optimality principles
 - Predictability
+- Traits as ecometric tools
 ...
 
 # Gather Data
@@ -208,7 +209,7 @@ This would be the minimal information for a trait record
 
 # Post-Processing and data management  
 
-After gathering the data from existing or new sources, they are usually transformed and aggregated into a comparable format suitable for answering a specific research question. Specific research questions produce narrow datasets as a result, whereas broad research questions produce more general datasets [*Caterina: not sure I agree here, the size of the dataset is independent of the specificity of the research question, it would be more the geographical and taxonomic scopes that would determine the "extent" of the dataset.*]. This data integration process of integrating gathered datasets can be automated, semi-automated or manual. When post-processed, data can also be aggregated at different levels (e.g. individuals, species) and this should be defined. Post-processing also includes several steps of error checking and quality control. As for data re-use, documentation and open code are extremely important for transpareny and reproducibility purposes.
+After gathering the data from existing or new sources, they are usually transformed and aggregated into a comparable format suitable for answering a specific research question. Specific research questions produce narrow datasets as a result, whereas broad research questions produce more general datasets [*Caterina: not sure I agree here, the size of the dataset is independent of the specificity of the research question, it would be more the geographical and taxonomic scopes that would determine the "extent" of the dataset.*].[*Silvia: I agree with Caterina.*] This data integration process of integrating gathered datasets can be automated, semi-automated or manual. When post-processed, data can also be aggregated at different levels (e.g. individuals, species) and this should be defined. Post-processing also includes several steps of error checking and quality control. As for data re-use, documentation and open code are extremely important for transparency and reproducibility purposes.
 
 ### Post processing 
 >> [*Margot Neyret: if the idea here is to give step-by-step guidelines, maybe reorder?* 1. Harmonization 2. Error handling 3. Duplicates 4. Filtering 5. Standardisation. 6-7. Outliers + Combining 8. Transformation 9. keep references.]
@@ -389,3 +390,4 @@ This is a list of people who contributed to this document. Feel free to add your
  - Will Pearse
  - Roberto Salguero-Gomez
  - Margot Neyret
+ - Silvia Pineda-Munoz
