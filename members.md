@@ -44,6 +44,8 @@ map.addLayer(featureGroup);
 
 <br/>
 
+[members.json](/members.json)
+
 |name|affiliation|
 |---|---|
 {%- for member in site.members %}
