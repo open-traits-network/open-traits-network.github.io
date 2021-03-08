@@ -6,7 +6,7 @@ email: annethessen@gmail.com
 homepage: 
 lat: 
 long: 
-affiliation: Environmental and Molecuar Toxicology, Oregon State University, Corvallis, OR, USA 
+affiliation: Environmental and Molecular Toxicology, Oregon State University, Corvallis, OR, USA 
 github: diatomsRcool
 ---
 
