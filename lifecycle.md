@@ -1,4 +1,4 @@
----
+ol---
 layout: page
 title: Lifecycle
 id: lifecycle
@@ -98,6 +98,7 @@ Data generation through own measurements can be perfored on observations of life
 This provides the context of the measurement or observation and helps future users to better understand and reproduce the methods.  Deciding which data to collect often involves considerations of not only which traits are more useful, but also which traits are commonly collected and the time and expense involved in collecting or processing the data.
 
 - develop measurement protocol along the research question
+    - register protocol in protocols.io or have reference for protocol
 - collection standards for subdisciplines
     - Botany
         - https://www.publish.csiro.au/BT/BT02124
@@ -106,6 +107,10 @@ This provides the context of the measurement or observation and helps future use
     - Zoology
         - Terrestrial Invertebrates
             - https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12776%4010.1111/%28ISSN%291365-2435.SICB_2018
+        - Terrestrial Vertebrates
+            - Von den Driesch 1976 "A Guide to the Measurement of Animal Bones from Archaeological Sites". Peabody Press.
+            - Hall 1962. "Collecting and Preparing Study Specimens of Vertebrates". University of Kansas Miscellaneous Publication No. 30.
+            - https://www.mapress.com/j/zt/article/view/zootaxa.4072.4.6 
   - repetitive measures
   - individual mark-capturie-recapture
 
@@ -122,6 +127,7 @@ Another form of data mobilization is the extraction of structured trait data fro
         - Field Guides
         - Museum Specimens
         - Taxonomic descriptions
+        - Hidden fields in data repositories (e.g., GBIF)
 - Minimum information required (ETS?): original data source /citation
 
 
@@ -186,7 +192,7 @@ This would be the minimal information for a trait record
   - unit
   - source
 
-### Meta data
+### Essential meta data
 - identify the meta data relevant for the research question
 - covariates and meta-data
 - minimum information
@@ -203,13 +209,14 @@ This would be the minimal information for a trait record
   - DOI/URI
   - unstructured citation information
   - content-based unique identifier
+- persistent, unique identifier
 
 
 
 
 # Post-Processing and data management  
 
-After gathering the data from existing or new sources, they are usually transformed and aggregated into a comparable format suitable for answering a specific research question. Specific research questions produce narrow datasets as a result, whereas broad research questions produce more general datasets [*Caterina: not sure I agree here, the size of the dataset is independent of the specificity of the research question, it would be more the geographical and taxonomic scopes that would determine the "extent" of the dataset.*].[*Silvia: I agree with Caterina.*] This data integration process of integrating gathered datasets can be automated, semi-automated or manual. When post-processed, data can also be aggregated at different levels (e.g. individuals, species) and this should be defined. Post-processing also includes several steps of error checking and quality control. As for data re-use, documentation and open code are extremely important for transparency and reproducibility purposes.
+After gathering the data from existing or new sources, they are usually transformed and aggregated into a comparable format suitable for answering a specific research question. Specific research questions produce narrow datasets as a result, whereas broad research questions produce more general datasets [*Caterina: not sure I agree here, the size of the dataset is independent of the specificity of the research question, it would be more the geographical and taxonomic scopes that would determine the "extent" of the dataset.*].[*Silvia & Meghan: I agree with Caterina.*] This data integration process of integrating gathered datasets can be automated, semi-automated or manual. When post-processed, data can also be aggregated at different levels (e.g. individuals, species) and this should be defined. Post-processing also includes several steps of error checking and quality control. As for data re-use, documentation and open code are extremely important for transparency and reproducibility purposes.
 
 ### Post processing 
 >> [*Margot Neyret: if the idea here is to give step-by-step guidelines, maybe reorder?* 1. Harmonization 2. Error handling 3. Duplicates 4. Filtering 5. Standardisation. 6-7. Outliers + Combining 8. Transformation 9. keep references.]
@@ -273,17 +280,33 @@ After gathering the data from existing or new sources, they are usually transfor
   - https://www.itis.gov/
   - http://datazone.birdlife.org/species/taxonomy
   - https://lifewatch.be/en/taxonomic-information (aggregates several taxonomic registers)
+  - https://www.departments.bucknell.edu/biology/resources/msw3/
+  - https://paleobiodb.org/#/
 - Relations
-  - http://www.obofoundry.org/ontology/ro.html
+  - https://dwc.tdwg.org/terms/#dwc:measurementDeterminedBy
 - Geography
   - https://marineregions.org/
   - https://www.geonames.org/
   - https://www.wikidata.org/
-- Ontologies
+- Time
+  - https://www.tdwg.org/community/esp/chrono/
+
+### Ontologies
+- http://www.ontobee.org/
+- https://bioportal.bioontology.org/
+- Traits
+  - https://bioportal.bioontology.org/ontologies/OBA/?p=classes&conceptid=root
+  - https://github.com/futres/fovt
   - https://github.com/EcologicalSemantics/ecocore (this looks very specific to bacteria? plankton? possibly build on this, because brings together all relevant other onologies for this group)
+ - Anatomy
+  - https://bioportal.bioontology.org/ontologies/UBERON
+- Environment
+  - https://sites.google.com/site/environmentontology/Browse-EnvO?authuser=0
+- Relationships
+  - http://www.obofoundry.org/ontology/bco.html
   - http://www.obofoundry.org/
-  - http://www.ontobee.org/
-  - https://bioportal.bioontology.org/
+
+
 
 # Downstream analysis of trait data 
 >> I think the data analysis comes first after measurement, before everything else
@@ -319,7 +342,7 @@ Ideal tools for downstream analyses allow, likewise to the previous sections, re
         - Protein : Lipid 
         - Wing length : body length
         - Thorax mass : body mass 
-        - 
+        
     - **Ordinations** can serve in cases where the effect of a magnitude of traits together can be important to predict a dependant variable. The variation of multi-variate trait space is reduced to few ordination coordinate axed which can be used for correlations as a proxy for agglomerated traits. 
 - Functional clusters
     - Given [hierarchical ontologies](#Controlled-vocabularies), traits can be clustered to higher level groups to facilitate exploration and serve as an overview. Keep in mind that a single trait can appear several times in different clusters, if the ontology allows such. Examples are:
@@ -391,3 +414,4 @@ This is a list of people who contributed to this document. Feel free to add your
  - Roberto Salguero-Gomez
  - Margot Neyret
  - Silvia Pineda-Munoz
+ - Meghan Balk
