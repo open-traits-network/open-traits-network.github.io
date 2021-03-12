@@ -163,6 +163,7 @@ The time saved in data collection will be spent on data cleaning and harmonizati
 - Publication supplements
 - Data papers
 - Text mining
+- [FuTRES] (https://futres.org/)
 
 
 ### Data-gathering tools
@@ -173,7 +174,6 @@ The time saved in data collection will be spent on data cleaning and harmonizati
 - [rOpenSci `traits` package](https://docs.ropensci.org/traits/)
 - [FENNEC](https://fennec.molecular.eco)
 - [rCOMPADRE] (https://github.com/jonesor/Rcompadre)
-    
  
  
 ## Minimal data requirements and Metadata
