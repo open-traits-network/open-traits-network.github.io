@@ -355,6 +355,7 @@ Ideal tools for downstream analyses allow, likewise to the previous sections, re
    - [Functional dispersion](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/08-2244.1)
    - [Eco-phylogenetic structure](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12252)
    - [Fourth Corner/RQL Analyses](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/08-0349.1)
+   - [Hypervolumes and niches](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.03187)
    - 
 ## Macro-evolutionary analysis
 - [Phylogenetic niche conservatism](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1420-9101.2010.02144.x)
