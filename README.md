@@ -4,7 +4,7 @@
 
 This is the registry and website for the Open Traits Network.
 
-It uses GitHub pages and can be visible here: https://open-traits-network.github.io/
+It uses GitHub pages and can be visited at: https://open-traits-network.github.io/
 
 We map https://opentraits.org to this address.
 
