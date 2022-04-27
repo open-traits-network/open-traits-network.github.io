@@ -26,4 +26,4 @@ Helps to continously integrate over 100 openly accessible species interaction da
 Willing to index any openly available species interaction datasets in any format, open to help re-use interaction data in research and education projects, provide advice on pragmatic data integration workflows.
 
 ## contact info
-jhpoelen at xs4all dot nl or Open Traits discussion forum 
+Visit https://jhpoelen.nl or engage in Open Traits discussion forum 
