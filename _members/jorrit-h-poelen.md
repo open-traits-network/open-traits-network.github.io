@@ -4,8 +4,8 @@ id: jorrit-h-poelen
 name: Jorrit H. Poelen
 role: editor
 email: jhpoelen@jhpoelen.nl
-lat: 45.394
-long: -93.542
+lat: 44.971080 
+long: -93.267570
 affiliation: Independent Open Source/Open Data Developer, Minneapolis, Minnesota
 github: jhpoelen
 ---
