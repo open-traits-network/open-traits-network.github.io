@@ -3,10 +3,10 @@ layout: member
 id: jorrit-h-poelen
 name: Jorrit H. Poelen
 role: editor
-email: jhpoelen@xs4all.nl
-lat: 37.810485
-long: -122.255
-affiliation: Independent Open Source/Open Data Developer, Oakland, California
+email: jhpoelen@jhpoelen.nl
+lat: 46.020
+long: -94.198
+affiliation: Independent Open Source/Open Data Developer, Minneapolis, Minnesota
 github: jhpoelen
 ---
 
