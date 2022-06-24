@@ -4,6 +4,8 @@ id: jorrit-h-poelen
 name: Jorrit H. Poelen
 role: editor
 email: jhpoelen@jhpoelen.nl
+orcid: https://orcid.org/0000-0003-3138-4118
+wikidata: https://www.wikidata.org/wiki/Q58206618
 lat: 44.97997
 long: -93.26384
 affiliation: Independent Open Source/Open Data Developer, Minneapolis, Minnesota
