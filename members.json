@@ -17,6 +17,12 @@
       {%- if member.long -%}
       "longitude": {{ member.long }},
       {%- endif -%} 
+      {%- if member.orcid -%}
+      "orcid": {{ member.orcid }},
+      {%- endif -%} 
+      {%- if member.wikidata -%}
+      "wikidata": {{ member.wikidata }},
+      {%- endif -%} 
       "id": "{{ member.id }}" }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
