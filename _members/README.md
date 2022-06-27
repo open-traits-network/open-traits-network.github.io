@@ -51,5 +51,5 @@ Please also build a small profile of yourself for other OTN members to get to kn
 See http://opentraits.org/members/jorrit-h-poelen or http://opentraits.org/members/rachael-v-gallagher for some examples. 
 
 # Photo
-The photo image should be stored in [`images/members`](images/members) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/members/joshua-s-madin.jpg`](images/members/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on profile pages on on the member map.
+The photo image should be stored in [`images/members`](images/members) in ```jpg``` format using your member.id as a filename (e.g., picture for member with id ```joshua-s-madin``` has image [`images/members/joshua-s-madin.jpg`](images/members/joshua-s-madin.jpg)), if `image` is not available but `github` is set the profile picture will be used on profile pages on the member map.
 
