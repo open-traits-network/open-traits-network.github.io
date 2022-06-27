@@ -12,7 +12,7 @@ layout: default
     <table>
       <tr><td><img src="" width="200px" id="profileImage" /></td>
         <td>
-          <p>{{ page.affiliation }}</p>
+          <p>{{ page.affiliation | strip_newlines }}</p>
           <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
           <p><a href="{{ page.orcid }}">{{ page.orcid }}</a></p>
           <p><a href="{{ page.wikidata }}">{{ page.wikidata }}</a></p>
