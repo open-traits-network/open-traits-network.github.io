@@ -8,14 +8,16 @@ website: https://publications.cnr.it/authors/stefano.mammola
 lat: 45.92
 long: 8.55
 github: StefanoMammola
+orcid: https://orcid.org/0000-0002-4471-9055
+wikidata: https://www.wikidata.org/wiki/Q57053403
 
 ---
 
 
 
-orcid: https://orcid.org/0000-0002-4471-9055
 
-wikidata: https://www.wikidata.org/wiki/Q57053403
+
+
 
 
 Stefano is an ecologist based in Verbania, Italy. He is fascinated by cave ecosystems and spiders. 
