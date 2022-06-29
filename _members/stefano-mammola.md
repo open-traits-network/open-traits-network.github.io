@@ -2,15 +2,19 @@
 layout: member
 id: stefano-mammola
 name: Stefano Mammola
+affiliation: Water Research Institute, National Research Council, Verbania Pallanza, Italy
 email: stefano.mammola@cnr.it
-homepage: https://publications.cnr.it/authors/stefano.mammola
+website: https://publications.cnr.it/authors/stefano.mammola
 lat: 45.92
 long: 8.55
-affiliation: Water Research Institute, National Research Council, Verbania Pallanza, Italy
-github: StefanoMammola
-orcid: https://orcid.org/0000-0002-4471-9055
-wikidata: https://www.wikidata.org/wiki/Q57053403
 ---
+
+github: StefanoMammola
+
+orcid: https://orcid.org/0000-0002-4471-9055
+
+wikidata: https://www.wikidata.org/wiki/Q57053403
+
 
 Stefano is an ecologist based in Verbania, Italy. He is fascinated by cave ecosystems and spiders. 
 
