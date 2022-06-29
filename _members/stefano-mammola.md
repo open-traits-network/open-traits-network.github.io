@@ -7,9 +7,11 @@ email: stefano.mammola@cnr.it
 website: https://publications.cnr.it/authors/stefano.mammola
 lat: 45.92
 long: 8.55
+github: StefanoMammola
+
 ---
 
-github: StefanoMammola
+
 
 orcid: https://orcid.org/0000-0002-4471-9055
 
