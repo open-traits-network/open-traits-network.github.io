@@ -3,8 +3,8 @@ layout: member
 id: daniel-owusu-kwakye
 name: Daniel Owusu Kwakye
 email: danielow@post.bgu.ac.il
-lat: -34
-long: 30
+lat: 30
+long: -34
 affiliation: French Associate of Agriculture and Biotechnology of Drylands, Ben-Gurion University of the Negev,Israel.
 github: Danielowusukwakye
 
