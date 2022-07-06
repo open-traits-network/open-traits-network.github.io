@@ -2,7 +2,7 @@
 layout: member
 id: alana-chin
 name: Alana RO Chin
-email:alanaroseo@gmail.com
+email: alanaroseo@gmail.com
 homepage: none
 lat: 47.3764
 long: 8.5476
