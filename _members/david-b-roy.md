@@ -4,7 +4,7 @@ id: david-b-roy
 name: David B Roy
 email: dbr@ceh.ac.uk
 homepage: https://www.ceh.ac.uk/staff/david-roy
-lat: -51.60255 
+lat: 51.60255 
 long: -1.110972
 affiliation: Biological Records Centre, UK Centre for Ecology & Hydrology 
 github: https://github.com/DavidRoy
