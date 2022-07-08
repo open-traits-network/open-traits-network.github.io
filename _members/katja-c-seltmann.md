@@ -9,7 +9,7 @@ long: -119.854645
 affiliation: Cheadle Center for Biodiversity and Ecological Restoration, University of California - Santa Barbara
 github: seltmann
 orcid: https://orcid.org/0000-0001-5354-6048
-wikidata: 
+wikidata: https://www.wikidata.org/wiki/Q6069153
 ---
 
 Katja is an insect biologist working in Santa Barbara California.
