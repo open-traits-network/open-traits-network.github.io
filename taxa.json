@@ -1,0 +1,18 @@
+---
+---
+{
+  "title": {{ site.title | jsonify }},
+  "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/taxa.json",
+  "taxa": [
+    {% for entry in site.data.taxon-to-author %}
+    {
+      "taxonId": "{{ entry.taxonId }}",
+      "taxonName": "{{ entry.taxonName | jsonify }}",
+      "authorId": "{{ entry.person }}",
+      "authorName": "{{ entry.personLabel | jsonify }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
