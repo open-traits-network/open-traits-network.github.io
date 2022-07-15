@@ -11,8 +11,8 @@ Your methods not listed? Please [open an issue](https://github.com/open-traits-n
 
 |method|OTN Member|related publications|
 |---|---|---|
-{%- for entry in site.data.methods-to-authors %}
-  | [{{ entry.methodLabel }}]({{ entry.method }}) | {{ entry.personLabel }} | [{{ entry.person }}]( {{ entry.relatedPublication }}) |
+{%- for entry in site.data.method-to-author %}
+  | [{{ entry.methodLabel }}]({{ entry.method }}) | [{{ entry.personLabel }}](entry.person }}) | [{{ entry.relatedPublication }}]( [{{ entry.workLabel }}]({{ entry.work }}) |
 {%- endfor %}
 
 Your method-member relation not listed? Please [open an issue](https://github.com/open-traits-network/open-traits-network.github.io/issues/open) and let us know who you are and which paper you'd like to be listed. 
