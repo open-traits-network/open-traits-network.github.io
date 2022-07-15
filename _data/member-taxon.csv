@@ -1,5 +1,0 @@
-memberId,memberName,providedTaxonName,resolvedTaxonId,resolvedTaxonName,comment
-https://opentraits.org/members/brian-s-maitner,Brian S Maitner,plants,,,
-https://opentraits.org/members/brian-s-maitner,Brian S Maitner,vertebrates,WD:123,Vertebrata,
-https://opentraits.org/members/brian-s-maitner,Brian S Maitner,Anura,[ADD ID],[ADD NAME],ambiguous name found: please link your taxon name to a specific taxonomic identifier
-https://opentraits.org/members/brian-s-maitner,Brian S Maitner,Anura,http://www.gbif.org/species/2301718,Pisanianura,"the mollusk, not the frog"
