@@ -12,7 +12,7 @@ Your publication not listed? Please [open an issue](https://github.com/open-trai
 |taxon|OTN Member|related publications|
 |---|---|---|
 {%- for entry in site.data.taxa-to-authors %}
-  | {{ entry.taxonName }} | {{ entry.people }} | [{{ entry.scholiaURL }}]( {{ entry.scholiaURL }}) |
+  | [{{ entry.taxonName }}]({{ entry.taxonId }}) | {{ entry.people }} | [{{ entry.scholiaURL }}]( {{ entry.scholiaURL }}) |
 {%- endfor %}
 
 Your taxon-member relation not listed? Please [open an issue](https://github.com/open-traits-network/open-traits-network.github.io/issues/open) and let us know who you are and which paper you'd like to be listed. 
