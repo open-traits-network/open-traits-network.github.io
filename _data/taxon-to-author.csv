@@ -24,8 +24,8 @@ http://www.wikidata.org/entity/Q13853909,Anopheles arabiensis,http://www.wikidat
 http://www.wikidata.org/entity/Q13853899,Anopheles funestus,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
 http://www.wikidata.org/entity/Q53636,Anura,http://www.wikidata.org/entity/Q27720517,Renee A. Catullo
 http://www.wikidata.org/entity/Q53636,Anura,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
-http://www.wikidata.org/entity/Q30034,Apis mellifera,http://www.wikidata.org/entity/Q29076435,Markus Ankenbrand
 http://www.wikidata.org/entity/Q30034,Apis mellifera,http://www.wikidata.org/entity/Q21517397,Alexander Keller
+http://www.wikidata.org/entity/Q30034,Apis mellifera,http://www.wikidata.org/entity/Q29076435,Markus Ankenbrand
 http://www.wikidata.org/entity/Q30034,Apis mellifera,http://www.wikidata.org/entity/Q43148086,Ignasi Bartomeus
 http://www.wikidata.org/entity/Q30034,Apis mellifera,http://www.wikidata.org/entity/Q50669412,Samuel C. Andrew
 http://www.wikidata.org/entity/Q161829,Aptenodytes forsteri,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
@@ -117,6 +117,7 @@ http://www.wikidata.org/entity/Q19088,Eukaryota,http://www.wikidata.org/entity/Q
 http://www.wikidata.org/entity/Q16752956,Eupolybothrus cavernicolus,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q13626320,Eurosta solidaginis,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q899672,Fallopia japonica,http://www.wikidata.org/entity/Q63240627,Ramona L Walls
+http://www.wikidata.org/entity/Q159702,Festuca rubra,http://www.wikidata.org/entity/Q42561055,Vigdis Vandvik
 http://www.wikidata.org/entity/Q10497530,Folsomia candida,http://www.wikidata.org/entity/Q39186568,Jacintha Ellers
 http://www.wikidata.org/entity/Q1236258,Formica aquilonia,http://www.wikidata.org/entity/Q53913686,Heloise Gibb
 http://www.wikidata.org/entity/Q7386,Formicidae,http://www.wikidata.org/entity/Q53913686,Heloise Gibb
@@ -133,15 +134,15 @@ http://www.wikidata.org/entity/Q28946208,Hibolithes jaculoides,http://www.wikida
 http://www.wikidata.org/entity/Q2578911,Hippocampus erectus,http://www.wikidata.org/entity/Q22103562,Nuno Simões
 http://www.wikidata.org/entity/Q2857920,Histopona palaeolithica,http://www.wikidata.org/entity/Q57053403,Stefano Mammola
 http://www.wikidata.org/entity/Q839281,Hydrophilidae,http://www.wikidata.org/entity/Q28859986,Jennifer C. Girón
-http://www.wikidata.org/entity/Q22651,Hymenoptera,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q22651,Hymenoptera,http://www.wikidata.org/entity/Q6069153,Katja Seltmann
+http://www.wikidata.org/entity/Q22651,Hymenoptera,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q22651,Hymenoptera,http://www.wikidata.org/entity/Q21517397,Alexander Keller
 http://www.wikidata.org/entity/Q22651,Hymenoptera,http://www.wikidata.org/entity/Q53913686,Heloise Gibb
 http://www.wikidata.org/entity/Q2246059,Hyperolius marmoratus,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
 http://www.wikidata.org/entity/Q1270845,Hypocnemis cantator,http://www.wikidata.org/entity/Q56441617,Joseph A Tobias
 http://www.wikidata.org/entity/Q1942674,Hypsiboas albopunctatus,http://www.wikidata.org/entity/Q59691546,Diogo Borges Provete
-http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q6069153,Katja Seltmann
+http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q39186568,Jacintha Ellers
 http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q42561055,Vigdis Vandvik
 http://www.wikidata.org/entity/Q1390,Insecta,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
@@ -162,6 +163,7 @@ http://www.wikidata.org/entity/Q28319,Lepidoptera,http://www.wikidata.org/entity
 http://www.wikidata.org/entity/Q14582020,Leptopilina clavipes,http://www.wikidata.org/entity/Q39186568,Jacintha Ellers
 http://www.wikidata.org/entity/Q645538,Linepithema humile,http://www.wikidata.org/entity/Q42666979,Steven L. Chown
 http://www.wikidata.org/entity/Q10589,Linyphiidae,http://www.wikidata.org/entity/Q57053403,Stefano Mammola
+http://www.wikidata.org/entity/Q3002564,Litopenaeus vannamei,http://www.wikidata.org/entity/Q22103562,Nuno Simões
 http://www.wikidata.org/entity/Q1980890,Lubomirskia bakialensis,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
 http://www.wikidata.org/entity/Q2925555,Lumbricidae,http://www.wikidata.org/entity/Q56335788,Dylan J. Craven
 http://www.wikidata.org/entity/Q2925555,Lumbricidae,http://www.wikidata.org/entity/Q57010307,Malte Jochum
@@ -206,8 +208,8 @@ http://www.wikidata.org/entity/Q157408,Plantago lanceolata,http://www.wikidata.o
 http://www.wikidata.org/entity/Q827142,Polyodon spathula,http://www.wikidata.org/entity/Q47297444,Paula M. Mabee
 http://www.wikidata.org/entity/Q188906,Polyplacophora,http://www.wikidata.org/entity/Q22103562,Nuno Simões
 http://www.wikidata.org/entity/Q21171,Porcellio scaber,http://www.wikidata.org/entity/Q39186568,Jacintha Ellers
-http://www.wikidata.org/entity/Q18960,Porifera,http://www.wikidata.org/entity/Q28368079,Melissa Haendel
 http://www.wikidata.org/entity/Q18960,Porifera,http://www.wikidata.org/entity/Q22103562,Nuno Simões
+http://www.wikidata.org/entity/Q18960,Porifera,http://www.wikidata.org/entity/Q28368079,Melissa Haendel
 http://www.wikidata.org/entity/Q18960,Porifera,http://www.wikidata.org/entity/Q91995549,Sandra M Durán
 http://www.wikidata.org/entity/Q544137,Posidonia oceanica,http://www.wikidata.org/entity/Q94518382,Stefania L. Klayn
 http://www.wikidata.org/entity/Q934442,Primolius couloni,http://www.wikidata.org/entity/Q56441617,Joseph A Tobias
@@ -250,6 +252,7 @@ http://www.wikidata.org/entity/Q166898,Suidae,http://www.wikidata.org/entity/Q61
 http://www.wikidata.org/entity/Q774716,Sylvilagus floridanus,http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan
 http://www.wikidata.org/entity/Q404566,Sylvilagus transitionalis,http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan
 http://www.wikidata.org/entity/Q160042,Syncerus caffer,http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan
+http://www.wikidata.org/entity/Q339483,Syrmaticus reevesii,http://www.wikidata.org/entity/Q58210191,Xiao Feng
 http://www.wikidata.org/entity/Q217905,Syrphidae,http://www.wikidata.org/entity/Q43148086,Ignasi Bartomeus
 http://www.wikidata.org/entity/Q14589090,Teleopsis dalmanni,http://www.wikidata.org/entity/Q56441617,Joseph A Tobias
 http://www.wikidata.org/entity/Q204861,Teleostei,http://www.wikidata.org/entity/Q47297444,Paula M. Mabee
@@ -267,8 +270,8 @@ http://www.wikidata.org/entity/Q33609,Ursus maritimus,http://www.wikidata.org/en
 http://www.wikidata.org/entity/Q924941,Varanus varius,http://www.wikidata.org/entity/Q46983883,Michael Ray Kearney
 http://www.wikidata.org/entity/Q25241,Vertebrata,http://www.wikidata.org/entity/Q56441617,Joseph A Tobias
 http://www.wikidata.org/entity/Q160821,Vibrio cholerae,http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan
-http://www.wikidata.org/entity/Q30046,Vitis vinifera,http://www.wikidata.org/entity/Q26714687,Maurizio Rossetto
 http://www.wikidata.org/entity/Q30046,Vitis vinifera,http://www.wikidata.org/entity/Q21517397,Alexander Keller
+http://www.wikidata.org/entity/Q30046,Vitis vinifera,http://www.wikidata.org/entity/Q26714687,Maurizio Rossetto
 http://www.wikidata.org/entity/Q10719318,Warramaba,http://www.wikidata.org/entity/Q46983883,Michael Ray Kearney
 http://www.wikidata.org/entity/Q190510,Wollemia nobilis,http://www.wikidata.org/entity/Q26714687,Maurizio Rossetto
 http://www.wikidata.org/entity/Q654718,Xenopus laevis,http://www.wikidata.org/entity/Q20895785,Daniel Mietchen
