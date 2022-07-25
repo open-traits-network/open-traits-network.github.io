@@ -2,6 +2,7 @@ person,personLabel,taxonNames,scholiaURL
 http://www.wikidata.org/entity/Q91379318,Alana R O Chin,Picea sitchensis | Sequoia sempervirens,https://scholia.toolforge.org/author/Q91379318
 http://www.wikidata.org/entity/Q21517397,Alexander Keller,Apis mellifera | Arabidopsis thaliana | Bactrocera oleae | Hymenoptera | Lepidoptera | Osmia bicornis | Osmia cornifrons | Vitis vinifera,https://scholia.toolforge.org/author/Q21517397
 http://www.wikidata.org/entity/Q83487382,Alexandra J. R. Carthey,Acacia longifolia,https://scholia.toolforge.org/author/Q83487382
+http://www.wikidata.org/entity/Q47503085,Anne Thessen,Crassostrea virginica,https://scholia.toolforge.org/author/Q47503085
 http://www.wikidata.org/entity/Q59062025,Anton Potapov,Ablemma | Acerentomon,https://scholia.toolforge.org/author/Q59062025
 http://www.wikidata.org/entity/Q96096151,Aud H. Halbritter,Brachypodium sylvaticum,https://scholia.toolforge.org/author/Q96096151
 http://www.wikidata.org/entity/Q47172478,Brian J. Enquist,Arabidopsis thaliana | Bursera simaruba | Dinosauria | Embryophyta | Prokaryota | Spermatophytina,https://scholia.toolforge.org/author/Q47172478
@@ -12,15 +13,15 @@ http://www.wikidata.org/entity/Q89735684,Cyrille Violle,Arabidopsis thaliana | D
 http://www.wikidata.org/entity/Q56441522,Dalia A. Conde,Carnivora | Eukaryota | Psittaciformes,https://scholia.toolforge.org/author/Q56441522
 http://www.wikidata.org/entity/Q20895785,Daniel Mietchen,Araucaria | Atocetus | Belemnitella | Elephas maximus | Epiblema scudderiana | Eupolybothrus cavernicolus | Eurosta solidaginis | Gonioteuthis | Gonioteuthis quadrata | Hibolithes jaculoides | Hymenoptera | Insecta | Lubomirskia bakialensis | Neoclavibelus subclavatus | Pinnipedia | Severe acute respiratory syndrome coronavirus 2 | Xenopus laevis | Zika virus,https://scholia.toolforge.org/author/Q20895785
 http://www.wikidata.org/entity/Q56433461,Daniel S. Park,Embryophyta,https://scholia.toolforge.org/author/Q56433461
-http://www.wikidata.org/entity/Q55807645,David B. Roy,Argynnis adippe | Harmonia axyridis | Insecta,https://scholia.toolforge.org/author/Q55807645
-http://www.wikidata.org/entity/Q59691546,Diogo Borges Provete,Hypsiboas albopunctatus | Physalaemus barrioi | Physalaemus moreirae | Proceratophrys mantiqueira | Proceratophrys melanopogon,https://scholia.toolforge.org/author/Q59691546
+http://www.wikidata.org/entity/Q55807645,David B. Roy,Argynnis adippe | Harmonia axyridis | Insecta | Odonata,https://scholia.toolforge.org/author/Q55807645
+http://www.wikidata.org/entity/Q59691546,Diogo Borges Provete,Bokermannohyla ahenea | Coleodactylus meridionalis | Crossodactylus caramaschii | Hypsiboas albopunctatus | Physalaemus barrioi | Physalaemus moreirae | Proceratophrys mantiqueira | Proceratophrys melanopogon | Trachycephalus imitatrix,https://scholia.toolforge.org/author/Q59691546
 http://www.wikidata.org/entity/Q56335788,Dylan J. Craven,Acacia koa | Lumbricidae,https://scholia.toolforge.org/author/Q56335788
 http://www.wikidata.org/entity/Q88172687,Fatih Fazlioglu,Plantago lanceolata,https://scholia.toolforge.org/author/Q88172687
 http://www.wikidata.org/entity/Q51121153,Franziska Schrodt,Spermatophytina | Ulmus americana,https://scholia.toolforge.org/author/Q51121153
 http://www.wikidata.org/entity/Q53913686,Heloise Gibb,Formica aquilonia | Formicidae | Hymenoptera | Iridomyrmex purpureus | Myrmecobius fasciatus | Scotia,https://scholia.toolforge.org/author/Q53913686
 http://www.wikidata.org/entity/Q19001730,Hervé Sauquet,Angiospermae | Annona muricata | Magnoliidae | Proteoideae,https://scholia.toolforge.org/author/Q19001730
 http://www.wikidata.org/entity/Q22104523,Ian G. Brennan,Blaesodactylus | Dixonius | Gekkonidae | Squamata,https://scholia.toolforge.org/author/Q22104523
-http://www.wikidata.org/entity/Q36585112,Ian J. Wright,Angiospermae | Embryophyta | Eucalyptus camaldulensis | Spermatophytina,https://scholia.toolforge.org/author/Q36585112
+http://www.wikidata.org/entity/Q36585112,Ian J. Wright,Angiospermae | Austropuccinia psidii | Embryophyta | Eucalyptus camaldulensis | Spermatophytina,https://scholia.toolforge.org/author/Q36585112
 http://www.wikidata.org/entity/Q43148086,Ignasi Bartomeus,Acridotheres tristis | Apis mellifera | Bombus terrestris | Insecta | Oxalis pes-caprae | Syrphidae,https://scholia.toolforge.org/author/Q43148086
 http://www.wikidata.org/entity/Q39186568,Jacintha Ellers,Brassica oleracea | Drosophila | Folsomia candida | Insecta | Leptopilina clavipes | Lymnaea stagnalis | Orchesella cincta | Plantago lanceolata | Porcellio scaber | Ursus maritimus,https://scholia.toolforge.org/author/Q39186568
 http://www.wikidata.org/entity/Q28859986,Jennifer C. Girón,Arthropoda | Coleoptera | Curculionidae | Entiminae | Hydrophilidae | Scelianoma | Scelianoma elydimorpha,https://scholia.toolforge.org/author/Q28859986
@@ -38,8 +39,8 @@ http://www.wikidata.org/entity/Q29076435,Markus Ankenbrand,Apis mellifera,https:
 http://www.wikidata.org/entity/Q26714687,Maurizio Rossetto,Elaeocarpus williamsianus | Vitis vinifera | Wollemia nobilis,https://scholia.toolforge.org/author/Q26714687
 http://www.wikidata.org/entity/Q59763318,Meghan Balk,Carcharocles megalodon,https://scholia.toolforge.org/author/Q59763318
 http://www.wikidata.org/entity/Q28368079,Melissa Haendel,Danio rerio | Porifera,https://scholia.toolforge.org/author/Q28368079
-http://www.wikidata.org/entity/Q46983883,Michael Ray Kearney,Aedes aegypti | Biota | Dengue virus | Drosophila | Gekkonidae | Gloydius shedaoensis | Pseudemydura umbrina | Varanus varius | Warramaba,https://scholia.toolforge.org/author/Q46983883
-http://www.wikidata.org/entity/Q22103562,Nuno Simões,Arthropoda | Bollmannia boqueronensis | Cnidaria | Demospongiae | Eucarida | Hippocampus erectus | Litopenaeus vannamei | Lysmata amboinensis | Malacostraca | Neopomacentrus cyanomos | Panulirus argus | Peracarida | Polyplacophora | Porifera | Tunicata,https://scholia.toolforge.org/author/Q22103562
+http://www.wikidata.org/entity/Q46983883,Michael Ray Kearney,Aedes aegypti | Biota | Dengue virus | Drosophila | Gekkonidae | Gloydius shedaoensis | Lithobates sylvaticus | Pseudemydura umbrina | Varanus varius | Warramaba,https://scholia.toolforge.org/author/Q46983883
+http://www.wikidata.org/entity/Q22103562,Nuno Simões,Actiniaria | Anthozoa | Antromysis cenotensis | Arthropoda | Bollmannia boqueronensis | Ceriantharia | Cnidaria | Condylactis gigantea | Corallimorpharia | Demospongiae | Eucarida | Gammaridea | Hippocampus erectus | Leidya distorta | Litopenaeus vannamei | Lysmata amboinensis | Lysmata boggessi | Malacostraca | Neopomacentrus cyanomos | Panulirus argus | Peracarida | Polyplacophora | Porifera | Sparisoma viride | Tunicata | Uca spinicarpa,https://scholia.toolforge.org/author/Q22103562
 http://www.wikidata.org/entity/Q47297444,Paula M. Mabee,Betta | Betta splendens | Carpiodes cyprinus | Catostomus commersonii | Danio rerio | Percomorpha | Pisces | Polyodon spathula | Salvelinus alpinus | Teleostei,https://scholia.toolforge.org/author/Q47297444
 http://www.wikidata.org/entity/Q62558788,Rachael V. Gallagher,Chrysanthemoides monilifera | Themeda triandra,https://scholia.toolforge.org/author/Q62558788
 http://www.wikidata.org/entity/Q47817227,Ralf B. Schäfer,Biota,https://scholia.toolforge.org/author/Q47817227
