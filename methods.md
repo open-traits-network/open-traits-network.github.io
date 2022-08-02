@@ -12,5 +12,5 @@ Your methods are not listed? Please [open an issue](https://github.com/open-trai
 |method|OTN Members|related publications|
 |---|---|---|
 {%- for entry in site.data.method-to-author %}
-  | [{{ entry.methodLabel }}]({{ entry.method }}) | {{ entry.people }} | [{{ entry.scholiaURL }}]({{ entry.scholiaURL }}) |
+  | [{{ entry.methodLabel }}]({{ entry.method }}) | {{ entry.people | replace: "|", " &#124; " }} | [{{ entry.scholiaURL }}]({{ entry.scholiaURL }}) |
 {%- endfor %}
