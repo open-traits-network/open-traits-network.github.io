@@ -2,12 +2,14 @@
 layout: member
 id: markus-j-ankenbrand
 name: Markus J. Ankenbrand
-email: Ankenbrand_M@ukw.de
+email: markus.ankenbrand@uni-wuerzburg.de
 homepage: markus.ankenbrand.me
 lat: 49.809667
 long: 9.958606
 image: /images/members/markus-j-ankenbrand.jpg
-affiliation: University Hospital W&uuml;rzburg
+affiliation: University of W&uuml;rzburg
+orcid: https://orcid.org/0000-0002-6620-807X
+wikidata: https://www.wikidata.org/wiki/Q29076435
 info: PostDoc in the Comprehensive Heart Failure Center. Developer of <a href='//fennec.molecular.eco'>FENNEC</a>. Member of the <a href='//www.idiv.de/en/sdevtrait.html'>sDevTrait</a> working group.
 github: iimog
 ---
