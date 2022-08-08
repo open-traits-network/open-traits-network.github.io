@@ -14,7 +14,9 @@ attendees:
   - jennifer-hammock
   - jorrit-h-poelen
   - daniel-mietchen
-  - ...
+  - brian-s-maitner 
+  - caterina-penone
+  - jens-kattge
 ---
 
 
