@@ -2,7 +2,8 @@ person,personLabel,traitLabels,scholiaURL
 http://www.wikidata.org/entity/Q83487382,Alexandra J. R. Carthey,animal trait,https://scholia.toolforge.org/author/Q83487382
 http://www.wikidata.org/entity/Q96096151,Aud H. Halbritter,plant trait,https://scholia.toolforge.org/author/Q96096151
 http://www.wikidata.org/entity/Q56457776,Ben Sparrow,functional trait | plant trait,https://scholia.toolforge.org/author/Q56457776
-http://www.wikidata.org/entity/Q47172478,Brian J. Enquist,functional trait | plant trait,https://scholia.toolforge.org/author/Q47172478
+http://www.wikidata.org/entity/Q90744779,Brad Boyle,functional trait | plant trait,https://scholia.toolforge.org/author/Q90744779
+http://www.wikidata.org/entity/Q47172478,Brian J. Enquist,plant trait | functional trait,https://scholia.toolforge.org/author/Q47172478
 http://www.wikidata.org/entity/Q89748248,Brian S. Maitner,plant trait,https://scholia.toolforge.org/author/Q89748248
 http://www.wikidata.org/entity/Q56433897,Caterina Penone,life-history trait,https://scholia.toolforge.org/author/Q56433897
 http://www.wikidata.org/entity/Q56755531,Colleen M. Iversen,functional trait | plant trait,https://scholia.toolforge.org/author/Q56755531
@@ -16,21 +17,21 @@ http://www.wikidata.org/entity/Q113106520,Eveliina P. Kallioniemi,life-history t
 http://www.wikidata.org/entity/Q88172687,Fatih Fazlioglu,plant trait,https://scholia.toolforge.org/author/Q88172687
 http://www.wikidata.org/entity/Q51121153,Franziska Schrodt,functional trait | plant trait,https://scholia.toolforge.org/author/Q51121153
 http://www.wikidata.org/entity/Q53913686,Heloise Gibb,functional trait | morphological trait,https://scholia.toolforge.org/author/Q53913686
-http://www.wikidata.org/entity/Q19001730,Hervé Sauquet,plant trait,https://scholia.toolforge.org/author/Q19001730
+http://www.wikidata.org/entity/Q19001730,Hervé Sauquet,dispersal trait | plant trait,https://scholia.toolforge.org/author/Q19001730
 http://www.wikidata.org/entity/Q36585112,Ian J. Wright,animal trait | functional trait | plant trait,https://scholia.toolforge.org/author/Q36585112
 http://www.wikidata.org/entity/Q43148086,Ignasi Bartomeus,plant trait,https://scholia.toolforge.org/author/Q43148086
 http://www.wikidata.org/entity/Q57296572,J. Aaron Hogan,functional trait | plant trait,https://scholia.toolforge.org/author/Q57296572
-http://www.wikidata.org/entity/Q39186568,Jacintha Ellers,behavioral trait | functional trait | life-history trait | metabolic trait | sexual trait,https://scholia.toolforge.org/author/Q39186568
+http://www.wikidata.org/entity/Q39186568,Jacintha Ellers,sexual trait | behavioral trait | functional trait | life-history trait | metabolic trait,https://scholia.toolforge.org/author/Q39186568
 http://www.wikidata.org/entity/Q56556463,Jens Kattge,functional trait | invasive trait | morphological trait | plant trait,https://scholia.toolforge.org/author/Q56556463
 http://www.wikidata.org/entity/Q56373618,Jonas J. Lembrechts,functional trait | plant trait,https://scholia.toolforge.org/author/Q56373618
-http://www.wikidata.org/entity/Q56441617,Joseph A Tobias,functional trait | morphological trait | plant trait | sexual trait,https://scholia.toolforge.org/author/Q56441617
-http://www.wikidata.org/entity/Q51171519,Joshua S Madin,animal trait | life-history trait | morphological trait | plant trait,https://scholia.toolforge.org/author/Q51171519
+http://www.wikidata.org/entity/Q56441617,Joseph A Tobias,sexual trait | dispersal trait | functional trait | morphological trait | plant trait,https://scholia.toolforge.org/author/Q56441617
+http://www.wikidata.org/entity/Q51171519,Joshua S Madin,animal trait | dispersal trait | life-history trait | morphological trait | plant trait,https://scholia.toolforge.org/author/Q51171519
 http://www.wikidata.org/entity/Q88797887,Katherine C B Weiss,functional trait,https://scholia.toolforge.org/author/Q88797887
 http://www.wikidata.org/entity/Q62559145,Kim S. Ely,plant trait,https://scholia.toolforge.org/author/Q62559145
 http://www.wikidata.org/entity/Q113109213,Loïc Chalmandrier,functional trait,https://scholia.toolforge.org/author/Q113109213
 http://www.wikidata.org/entity/Q56576289,Luca Santini,functional trait | plant trait,https://scholia.toolforge.org/author/Q56576289
-http://www.wikidata.org/entity/Q43121038,Mark Westoby,animal trait | functional trait | plant trait | seed mass,https://scholia.toolforge.org/author/Q43121038
-http://www.wikidata.org/entity/Q89766675,Marko J. Spasojevic,functional trait | plant trait,https://scholia.toolforge.org/author/Q89766675
+http://www.wikidata.org/entity/Q43121038,Mark Westoby,plant trait | seed mass | animal trait | functional trait,https://scholia.toolforge.org/author/Q43121038
+http://www.wikidata.org/entity/Q89766675,Marko J. Spasojevic,dispersal trait | functional trait | plant trait,https://scholia.toolforge.org/author/Q89766675
 http://www.wikidata.org/entity/Q26714687,Maurizio Rossetto,plant trait,https://scholia.toolforge.org/author/Q26714687
 http://www.wikidata.org/entity/Q56456979,Michael J. McWilliam,functional trait,https://scholia.toolforge.org/author/Q56456979
 http://www.wikidata.org/entity/Q46983883,Michael Ray Kearney,functional trait,https://scholia.toolforge.org/author/Q46983883
@@ -47,8 +48,8 @@ http://www.wikidata.org/entity/Q58643826,Sean T. Michaletz,functional trait | pl
 http://www.wikidata.org/entity/Q42666979,Steven L. Chown,functional trait | invasive trait,https://scholia.toolforge.org/author/Q42666979
 http://www.wikidata.org/entity/Q92348774,Tanya Strydom,plant trait,https://scholia.toolforge.org/author/Q92348774
 http://www.wikidata.org/entity/Q93220897,Timothy M. Perez,functional trait,https://scholia.toolforge.org/author/Q93220897
-http://www.wikidata.org/entity/Q42561055,Vigdis Vandvik,functional trait | plant trait | seed mass,https://scholia.toolforge.org/author/Q42561055
-http://www.wikidata.org/entity/Q57158432,Wilco C.E.P. Verberk,functional trait | plant trait,https://scholia.toolforge.org/author/Q57158432
+http://www.wikidata.org/entity/Q42561055,Vigdis Vandvik,seed mass | functional trait | plant trait,https://scholia.toolforge.org/author/Q42561055
+http://www.wikidata.org/entity/Q57158432,Wilco C.E.P. Verberk,dispersal trait | functional trait | plant trait,https://scholia.toolforge.org/author/Q57158432
 http://www.wikidata.org/entity/Q57179980,William D. Pearse,functional trait,https://scholia.toolforge.org/author/Q57179980
 http://www.wikidata.org/entity/Q56423107,William Farfan-Rios,functional trait,https://scholia.toolforge.org/author/Q56423107
 http://www.wikidata.org/entity/Q91581208,Yaoqi Li,plant trait,https://scholia.toolforge.org/author/Q91581208
