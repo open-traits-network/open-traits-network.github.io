@@ -2,9 +2,9 @@
 layout: member
 id: alexander-keller
 name: Alexander Keller
-lat: 49.7849283
-long: 9.9722003
-affiliation: Department of Bioinformatics, Biocenter, University of Wuerzburg, Wuerzburg, Germany
+lat: 48.150499398 
+long: 11.574831034
+affiliation: LMU Munich, Großhaderner Str 2-4, 658534 Planegg Martinsried, Germany
 github: chiras
 ---
 
