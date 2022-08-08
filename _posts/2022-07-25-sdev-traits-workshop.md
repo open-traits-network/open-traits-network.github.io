@@ -17,6 +17,7 @@ attendees:
   - brian-s-maitner 
   - caterina-penone
   - jens-kattge
+  - stefanie-dekeyzer
 ---
 
 
