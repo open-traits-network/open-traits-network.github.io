@@ -9,7 +9,7 @@ long: 2.9306846560034656
 affiliation: Flanders Marine Institute (VLIZ)
 github: StefanieDekeyzer
 orcid: https://orcid.org/0000-0001-9525-2742
-wikidata: 
+wikidata: Q85683771
 ---
 
 Stefanie is a member of the data management team of the World Register of Marine Species (WoRMS).
