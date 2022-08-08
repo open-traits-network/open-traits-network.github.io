@@ -2,8 +2,9 @@
 layout: member
 id: jennifer-hammock
 name: Jennifer Hammock
-lat: 38.891266
-long: -77.026237
+orcid: https://orcid.org/0000-0003-3138-4118
+lat: 45.5053
+long: -73.8033
 affiliation: National Museum of Natural History, Smithsonian Institution, Washington DC, USA
 ---
 
