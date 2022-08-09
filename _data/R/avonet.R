@@ -2,7 +2,7 @@ library(reshape2)
 library(dplyr)
 
 # Downloaded from: https://figshare.com/s/b990722d72a26b5bfead
-curator <- "AK"
+curator <- "alexander-keller"
 dataset <- "avonet"
 
 setwd("~/Documents/Arbeit/Projects/Ecology/sDevTrait_Synthesis/GAPS/R")
