@@ -2,6 +2,7 @@
 layout: dataset
 id: dpheat
 name: Database of Plant Heat Tolerances
+contentURI: NA
 datasetDOI_URL: https://github.com/tmoreperez/DPHeaT
 contactName: Timothy M. Perez
 contactEmail: t.more.perez@gmail.com

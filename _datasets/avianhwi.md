@@ -2,6 +2,7 @@
 layout: dataset
 id: avianhwi
 name: Avian hand-wing index
+contentURI: NA
 Timestamp: 5/20/2020 1:33:00
 datasetDOI_URL: https://www.doi.org/10.5281/zenodo.3832215
 contactName: Catherine Sheard

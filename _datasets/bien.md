@@ -2,6 +2,7 @@
 layout: dataset
 id: bien
 name: BIEN
+contentURI: NA
 Timestamp: 8/28/2019 18:58:23
 datasetDOI_URL: https://cran.r-project.org/web/packages/BIEN/index.html
 contactName: Brian J. Enquist | Brad Boyle | Cory Merow | Xiao Feng | Dan Park |Brian S. Maitner | BIEN working group

@@ -2,6 +2,7 @@
 layout: dataset
 id: sharkipedia
 name: Sharkipedia
+contentURI: NA
 datasetDOI_URL: https://www.sharkipedia.org
 contactName: Christopher Mull
 contactEmail: creeas@gmail.com
