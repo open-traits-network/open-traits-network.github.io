@@ -10,10 +10,10 @@ Add datasets to the Open Traits registry [here](https://github.com/open-traits-n
 
 [datasets.json](/datasets.json)
 
-|name|contact|description|traits|taxa|
-|---|---|---|---|---|
+|name|contact|description|traits|taxa|traitDetails|taxaDetails
+|---|---|---|---|---|---|
 {%- for dataset in site.datasets %}
-| [{{ dataset.name }}]({{ dataset.id }})| {{ dataset.contactName | replace: "|","/" }} | {{ dataset.description }} | {{ dataset.traitList | replace: "|","/" }} | {{ dataset.taxaList | replace: "|","/"}} |  
+| [{{ dataset.name }}]({{ dataset.id }})| {{ dataset.contactName | replace: "|","/" }} | {{ dataset.description }} | {{ dataset.traitList | replace: "|","/" }} | {{ dataset.taxaList | replace: "|","/"}} | under construction | under construction 
 {%- endfor %}
 
 [<a href="https://github.com/open-traits-network/open-traits-network.github.io/tree/master/_datasets">dataset profiles</a>]
