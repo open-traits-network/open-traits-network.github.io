@@ -1,0 +1,46 @@
+#load libraries
+library(tidyverse)
+
+
+# create temporary directory
+
+  if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
+
+# create otuput directory
+
+  if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
+
+
+# Download file
+  download.file(url = "https://figshare.com/ndownloader/files/3417176",
+                destfile = "_data/R/temp/australian-birds.csv")
+
+# Read in file
+  ausbirds <-  read.table("_data/R/temp/australian-birds.csv",sep = ",",header = TRUE)
+  
+# Mutate into useful format
+  
+  ausbirds %>%
+    mutate("scientificNameVerbatim" = paste(X4_Genus_name_2," ",X5_Species_name_2,sep = ""))%>%
+    rename("family" = X10_Family_scientific_name_2) %>%
+    pivot_longer(cols = c(96:110,112:192), names_to = "trait", values_to = "traitvalues") -> ausbirds
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
