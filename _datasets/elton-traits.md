@@ -2,7 +2,7 @@
 layout: dataset
 id: elton-traits
 name: Elton Traits
-contentURI: NA
+contentURL: NA
 Timestamp: 8/29/2019 17:42:27
 datasetDOI_URL: http://www.esapubs.org/archive/ecol/E095/178/
 contactName: Walter Jetz

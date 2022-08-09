@@ -2,7 +2,7 @@
 layout: dataset
 id: bennett-2018
 name: GlobTherm
-contentURI: NA
+contentURL: NA
 Timestamp: 9/17/2019 5:44:30
 datasetDOI_URL: http://doi.org/10.5061/dryad.1cv08
 contactName: Joanne Bennett

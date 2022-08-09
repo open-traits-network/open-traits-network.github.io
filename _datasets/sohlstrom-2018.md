@@ -2,7 +2,7 @@
 layout: dataset
 id: sohlstrom-2018
 name: Tropical and temperate macroinvertebrate morphology
-contentURI: NA
+contentURL: NA
 Timestamp: 9/30/2019 15:42:02
 datasetDOI_URL: https://doi.org/10.5061/dryad.vk24fr1
 contactName: Esra H. Sohlström | Malte Jochum

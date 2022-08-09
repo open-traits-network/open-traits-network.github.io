@@ -2,7 +2,7 @@
 layout: dataset
 id: try
 name: TRY - Global Plant Trait Database
-contentURI: NA
+contentURL: NA
 Timestamp: 8/28/2019 10:33:07
 datasetDOI_URL: https://www.try-db.org
 contactName: Jens Kattge / Gerhard Boenisch / Sandra Díaz / Sandra Lavorel / Colin Prentice / Paul Leadley / Christian Wirth / the TRY Network

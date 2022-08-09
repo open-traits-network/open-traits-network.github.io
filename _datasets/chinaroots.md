@@ -2,7 +2,7 @@
 layout: dataset
 id: chinaroots
 name: ChinaRoots, Sapling leaf and root traits from 6.6 km Jianfengling transect
-contentURI: NA
+contentURL: NA
 Timestamp: 9/4/2019 6:01:22
 datasetDOI_URL: https://doi.org/10.6084/m9.figshare.7996328.v4 
 contactName: J. Aaron Hogan

@@ -2,7 +2,7 @@
 layout: dataset
 id: coral-traits
 name: The Coral Trait Database
-contentURI: NA
+contentURL: NA
 datasetDOI_URL: https://doi.org/10.6084/m9.figshare.2067414
 contactName: Joshua Madin
 contactEmail: jmadin@hawaii.edu

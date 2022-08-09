@@ -2,7 +2,7 @@
 layout: dataset
 id: schafer-2011
 name: Schäfer_2011
-contentURI: NA
+contentURL: NA
 Timestamp: 9/17/2019 6:04:17
 datasetDOI_URL: https://ars.els-cdn.com/content/image/1-s2.0-S0048969711001124-mmc1.pdf
 contactName: Ralf Schäfer

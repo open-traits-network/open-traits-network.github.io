@@ -2,7 +2,7 @@
 layout: dataset
 id: polytraits
 name: PolyTraits
-contentURI: NA
+contentURL: NA
 Timestamp: 9/4/2019 18:43:54
 datasetDOI_URL: http://polytraits.lifewatchgreece.eu/polytraits
 contactName: Sarah Faulwetter

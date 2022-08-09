@@ -2,7 +2,7 @@
 layout: dataset
 id: worms-marine-species-traits
 name: Marine Species Traits in the World Register of Marine Species (WoRMS)
-contentURI: NA
+contentURL: NA
 datasetDOI_URL: NA yet
 contactName: Stefanie Dekeyzer (WoRMS Data Management Team)
 contactEmail: info@marinespecies.org

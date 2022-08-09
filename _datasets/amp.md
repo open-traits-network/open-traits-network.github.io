@@ -2,7 +2,7 @@
 layout: dataset
 id: amp
 name: AmP
-contentURI: NA
+contentURL: NA
 datasetDOI_URL: https://www.bio.vu.nl/thb/deb/deblab/add_my_pet/
 contactName: Bas Kooijman
 contactEmail: salm.kooijman@gmail.com

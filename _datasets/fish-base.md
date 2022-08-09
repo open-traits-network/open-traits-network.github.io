@@ -2,7 +2,7 @@
 layout: dataset
 id: fish-base
 name: FishBase
-contentURI: NA
+contentURL: NA
 Timestamp: 9/17/2019 6:39:19
 datasetDOI_URL: http://www.fishbase.org/search.php
 contactName: Rainer Froese

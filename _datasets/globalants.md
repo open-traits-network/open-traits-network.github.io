@@ -2,7 +2,7 @@
 layout: dataset
 id: globalants
 name: GlobalAnts
-contentURI: NA
+contentURL: NA
 Timestamp: 9/5/2019 2:25:20
 datasetDOI_URL: http://globalants.org/
 contactName: Heloise Gibb

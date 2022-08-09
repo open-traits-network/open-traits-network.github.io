@@ -2,7 +2,7 @@
 layout: dataset
 id: galan-acedo-2019
 name: Ecological traits of the world’s primates
-contentURI: NA
+contentURL: NA
 Timestamp: 9/17/2019 7:41:16
 datasetDOI_URL: https://doi.org/10.5281/zenodo.2600338
 contactName: Carmen Galan-Acedo

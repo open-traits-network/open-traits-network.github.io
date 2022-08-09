@@ -2,7 +2,7 @@
 layout: dataset
 id: madin-2020
 name: Bacterial and archaeal phenotypic trait database
-contentURI: NA
+contentURL: NA
 Timestamp: 6/24/2020 15:42:02
 datasetDOI_URL: https://doi.org/10.6084/m9.figshare.c.4843290.v1
 contactName: Joshua Madin

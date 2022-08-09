@@ -2,7 +2,7 @@
 layout: dataset
 id: beukhof-2019
 name: Beukhof_2019
-contentURI: NA
+contentURL: NA
 datasetDOI_URL: https://doi.pangaea.de/10.1594/PANGAEA.900866
 contactName: Esther Beukhof | Aurore Maureaud
 contactEmail: esther.beukhof@wur.nl | auma@aqua.dtu.dk
