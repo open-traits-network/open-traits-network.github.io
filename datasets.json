@@ -10,7 +10,7 @@
     {
       "id": "{{ dataset.id }}",
       "url": "{{ dataset.id | prepend: site.baseurl | prepend: site.url }}",
-      "contentURI": "{{ dataset.contentURI }}",
+      "contentURL": "{{ dataset.contentURL }}",
       "datasetDOI_URL": "{{ dataset.datasetDOI_URL }}",
       "title": {{ dataset.name | jsonify }}
       }{% unless forloop.last %},{% endunless %}
