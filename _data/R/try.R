@@ -11,8 +11,8 @@
   if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
   
 # set variables
-  curator <- "brian-s-maitner"
-  dataset <- "try"
+  curator <- "https://opentraits.org/members/brian-s-maitner"
+  dataset <- "https://opentraits.org/datasets/try"
   
 
 # Unzip file
@@ -46,8 +46,8 @@
   
 #zip file
 
-  zip(files = "_data/R/temp/try.csv",
-      zipfile = "_data/R/summaries/try.zip")
+  R.utils::gzip(filename = "_data/R/temp/try.csv",
+                destname = "_data/R/summaries/try.csv.gz")
   
 #remove temp file
 
