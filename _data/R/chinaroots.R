@@ -1,6 +1,7 @@
 library(reshape2)
 library(dplyr)
 library(tidyverse)
+library(R.utils)
 
 # create output directory
 if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
@@ -52,6 +53,6 @@ traits_summary$accessDate <- Sys.Date()
 head(traits_summary)
 
 write.csv(traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
-zip(paste("../summaries/",dataset,".zip",sep=""), files=c(paste("../summaries/",dataset,".csv",sep="")) )
+gzip(paste("../summaries/",dataset,".csv",sep=""), destname=paste("../summaries/",dataset,".gz",sep=""))
 unlink(paste("../summaries/",dataset,".csv",sep=""))
 
