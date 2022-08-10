@@ -62,3 +62,5 @@ collections:
         output: true
     datasets:
         output: true
+    projects:
+      output: true
