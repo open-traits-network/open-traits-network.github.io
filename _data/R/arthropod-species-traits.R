@@ -2,7 +2,7 @@ library(reshape2)
 library(dplyr)
 
 # Downloaded from: https://doi.org/10.5061/dryad.53ds2
-curator <- "AK"
+curator <- "alexander-keller"
 dataset <- "arthropod-species-traits"
 
 setwd("~/Documents/Arbeit/Projects/Ecology/sDevTrait_Synthesis/GAPS/R")
