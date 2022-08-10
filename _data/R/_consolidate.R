@@ -19,7 +19,7 @@ for (i in 1:length(list.zip)){
 
 setwd(root.dir)
 
-headerTable = data.frame(matrix(vector(), 1, 21,
+headerTable = data.frame(matrix(vector(), 0, 21,
                         dimnames=list(c(), c("taxonIDVerbatim","scientificNameVerbatim","resolvedTaxonId","resolvedTaxonName","parentTaxonID","family","phylum","traitIdVerbatim","traitNameVerbatim","bucketId","bucketName","OTNdatasetID","NumberOfRecords","curator","accessDate","Comment","id","url","datasetDOI_URL","title"))),
                         stringsAsFactors=F)
 
@@ -30,4 +30,6 @@ for (z in 1:length(names(all.data))){
 }
   
 tail(headerTable)
-
+write.csv(file="_data/R/summaries/_all.csv",headerTable)
+zip("_data/R/_all.zip","_data/R/summaries/_all.csv")
+unlink("_data/R/summaries/_all.csv")
