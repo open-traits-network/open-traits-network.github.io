@@ -29,9 +29,10 @@ library(tidyverse)
     rename("family" = X10_Family_scientific_name_2) %>%
     pivot_longer(cols = c(96:110,112:192), names_to = "traitNameVerbatim", values_to = "traitvalues") -> ausbirds
 
-  # NA removal?
-  ausbirds$traitvalues
-  ausbirds$traitNameVerbatim
+  # NA removal
+  ausbirds %>%
+    filter(!is.na(traitvalues)) -> ausbirds
+  
 
   ausbirds %>%
     dplyr::select(scientificNameVerbatim, family, traitNameVerbatim, traitvalues)%>%
@@ -39,7 +40,7 @@ library(tidyverse)
     summarise(NumberOfRecords = n())%>%
     mutate(accessDate = Sys.Date(),
            OTNdatasetID = dataset,
-           accessDate = Sys.Date()) -> ausbirds
+           curator = curator) -> ausbirds
 
 #write output
   write.csv(x = ausbirds,file = "_data/R/temp/australian-birds.csv")
