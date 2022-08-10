@@ -23,6 +23,9 @@
       {%- if member.wikidata -%}
       "wikidata": {{ member.wikidata | jsonify }},
       {%- endif -%} 
+      {%- if member.scholia -%}
+      "wikidata": {{ member.scholia | jsonify }},
+      {%- endif -%} 
       "id": "{{ member.id }}" }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
