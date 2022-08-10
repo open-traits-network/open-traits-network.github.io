@@ -10,6 +10,7 @@ lat: 44.97997
 long: -93.26384
 affiliation: Independent Open Source/Open Data Developer, Minneapolis, Minnesota
 github: jhpoelen
+scholia: https://scholia.toolforge.org/author/Q58206618
 ---
 
 ## projects / publications
