@@ -7,7 +7,8 @@ if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}
 if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
-curator <- "alexander-keller"
+curator <- "https://opentraits.org/members/alexander-keller"
+dataset_url <- "https://opentraits.org/datasets/avonet"
 dataset <- "avonet"
 
 # Download file
@@ -38,18 +39,18 @@ dim(traits_long.filter)
 traits_summary <- traits_long.filter %>% count(Avibase.ID,Species1_BirdLife,variable, sort = TRUE)
 
 
-names(traits_summary)[1] <- "taxonIDVerbatim"
+names(traits_summary)[1] <- "taxonIdVerbatim"
 names(traits_summary)[2] <- "scientificNameVerbatim"
 names(traits_summary)[3] <- "traitNameVerbatim"
 names(traits_summary)[4] <- "NumberOfRecords"
 
-traits_summary$OTNdatasetID <- dataset
+traits_summary$OTNdatasetID <- dataset_url
 traits_summary$curator <- curator
 traits_summary$accessDate <- Sys.Date()
 
 head(traits_summary)
 
 write.csv(traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
-zip(paste("../summaries/",dataset,".zip",sep=""), files=c(paste("../summaries/",dataset,".csv",sep="")) )
+gzip(paste("../summaries/",dataset,".csv",sep=""), destname=paste("../summaries/",dataset,".csv.gz",sep=""))
 unlink(paste("../summaries/",dataset,".csv",sep=""))
 
