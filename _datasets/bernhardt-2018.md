@@ -2,6 +2,7 @@
 layout: dataset
 id: bernhardt-2018
 name: BryForTrait
+contentURL: NA
 Timestamp: 9/17/2019 5:21:45
 datasetDOI_URL: https://doi.org/10.1111/jvs.12646
 contactName: Markus Bernhardt-Römermann

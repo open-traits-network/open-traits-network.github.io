@@ -9,3 +9,5 @@ Gemfile.lock
 .Rproj.user
 open-traits-network.github.io.Rproj
 .Rhistory
+data/
+.nomer

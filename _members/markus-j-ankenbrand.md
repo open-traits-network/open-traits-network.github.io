@@ -12,6 +12,7 @@ orcid: https://orcid.org/0000-0002-6620-807X
 wikidata: https://www.wikidata.org/wiki/Q29076435
 info: PostDoc in the Comprehensive Heart Failure Center. Developer of <a href='//fennec.molecular.eco'>FENNEC</a>. Member of the <a href='//www.idiv.de/en/sdevtrait.html'>sDevTrait</a> working group.
 github: iimog
+scholia: https://scholia.toolforge.org/author/Q29076435
 ---
 
 Markus Ankenbrand did his PhD in the Molecular Biodiversity Group at the Center for Computational and Theoretical Biology at the University of Würzburg, Germany.

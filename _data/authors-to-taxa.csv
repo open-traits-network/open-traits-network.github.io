@@ -9,7 +9,7 @@ http://www.wikidata.org/entity/Q90744779,Brad Boyle,Embryophyta,https://scholia.
 http://www.wikidata.org/entity/Q47172478,Brian J. Enquist,Arabidopsis thaliana | Asteraceae | Bursera simaruba | Dinosauria | Embryophyta | Tracheophyta | Prokaryota | Spermatophytina,https://scholia.toolforge.org/author/Q47172478
 http://www.wikidata.org/entity/Q89748248,Brian S. Maitner,Aves | Embryophyta,https://scholia.toolforge.org/author/Q89748248
 http://www.wikidata.org/entity/Q104006568,Carlos Alberto Martínez-Muñoz,Coleoptera | Dasongius,https://scholia.toolforge.org/author/Q104006568
-http://www.wikidata.org/entity/Q56433897,Caterina Penone,Orthoptera | Senecio inaequidens,https://scholia.toolforge.org/author/Q56433897
+http://www.wikidata.org/entity/Q56433897,Caterina Penone,Arthropoda | Orthoptera | Senecio inaequidens,https://scholia.toolforge.org/author/Q56433897
 http://www.wikidata.org/entity/Q89735684,Cyrille Violle,Arabidopsis thaliana | Dactylis glomerata | Embryophyta,https://scholia.toolforge.org/author/Q89735684
 http://www.wikidata.org/entity/Q56441522,Dalia A. Conde,Carnivora | Eukaryota | Psittaciformes,https://scholia.toolforge.org/author/Q56441522
 http://www.wikidata.org/entity/Q20895785,Daniel Mietchen,Araucaria | Atocetus | Belemnitella | Chilopoda | Elephas maximus | Epiblema scudderiana | Eupolybothrus cavernicolus | Eurosta solidaginis | Gonioteuthis | Gonioteuthis quadrata | Hibolithes jaculoides | Hymenoptera | Insecta | Xenopus laevis | Zika virus | Lubomirskia bakialensis | Neoclavibelus subclavatus | Pinnipedia | Severe acute respiratory syndrome coronavirus 2,https://scholia.toolforge.org/author/Q20895785
@@ -32,6 +32,7 @@ http://www.wikidata.org/entity/Q56373618,Jonas J. Lembrechts,Asteraceae,https://
 http://www.wikidata.org/entity/Q56441617,Joseph A Tobias,Aves | Cnipodectes superrufus | Erithacus rubecula | Hypocnemis cantator | Teleopsis dalmanni | Vertebrata | Passeri | Primolius couloni | Psittaculidae | Psophia leucoptera,https://scholia.toolforge.org/author/Q56441617
 http://www.wikidata.org/entity/Q51171519,Joshua S Madin,Tracheophyta | Scleractinia,https://scholia.toolforge.org/author/Q51171519
 http://www.wikidata.org/entity/Q85886994,Jérôme Mathieu,Lumbricina | Macaca fascicularis,https://scholia.toolforge.org/author/Q85886994
+http://www.wikidata.org/entity/Q91413286,Katelin D. Pearson,Spermatophytina,https://scholia.toolforge.org/author/Q91413286
 http://www.wikidata.org/entity/Q6069153,Katja Seltmann,Braconidae | Doryctinae | Hemiptera | Hymenoptera | Insecta | Lepidoptera | Miridae | Roptrocerus xylophagorum,https://scholia.toolforge.org/author/Q6069153
 http://www.wikidata.org/entity/Q56576289,Luca Santini,Lemur catta,https://scholia.toolforge.org/author/Q56576289
 http://www.wikidata.org/entity/Q57010307,Malte Jochum,Lumbricidae,https://scholia.toolforge.org/author/Q57010307
@@ -51,7 +52,7 @@ http://www.wikidata.org/entity/Q63240627,Ramona L Walls,Fallopia japonica | Seve
 http://www.wikidata.org/entity/Q27720517,Renee A. Catullo,Anura | Bactrocera tryoni | Diptera | Drosophila melanogaster | Squamata,https://scholia.toolforge.org/author/Q27720517
 http://www.wikidata.org/entity/Q55100101,Richard J Telford,Melanoides tuberculata | Severe acute respiratory syndrome coronavirus 2,https://scholia.toolforge.org/author/Q55100101
 http://www.wikidata.org/entity/Q42407986,Roberto Salguero-Gómez,Angiospermae,https://scholia.toolforge.org/author/Q42407986
-http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan,Aedes | Aedes aegypti | Alouatta palliata | Bacillus anthracis | Bison bison | Chikungunya virus | Dengue virus | Sylvilagus transitionalis | Syncerus caffer | Ungulata | Vibrio cholerae | Zika virus | Panthera | Panthera onca | Papio anubis | Rickettsia montanensis | Ross River virus | Schistosoma mansoni | Sylvilagus floridanus,https://scholia.toolforge.org/author/Q41048832
+http://www.wikidata.org/entity/Q41048832,Sadie J. Ryan,Aedes | Aedes aegypti | Alouatta palliata | Bacillus anthracis | Bison bison | Chikungunya virus | Dengue virus | Sylvilagus floridanus | Sylvilagus transitionalis | Syncerus caffer | Ungulata | Vibrio cholerae | Zika virus | Panthera | Panthera onca | Papio anubis | Rickettsia montanensis | Ross River virus | Schistosoma mansoni,https://scholia.toolforge.org/author/Q41048832
 http://www.wikidata.org/entity/Q50669412,Samuel C. Andrew,Apis mellifera | Passer domesticus,https://scholia.toolforge.org/author/Q50669412
 http://www.wikidata.org/entity/Q91995549,Sandra M Durán,Chikungunya virus | Crambe crambe | Demospongiae | Dengue virus | Echinodermata | Fabaceae | Zika virus | Paracentrotus lividus | Porifera,https://scholia.toolforge.org/author/Q91995549
 http://www.wikidata.org/entity/Q58643826,Sean T. Michaletz,Prokaryota,https://scholia.toolforge.org/author/Q58643826

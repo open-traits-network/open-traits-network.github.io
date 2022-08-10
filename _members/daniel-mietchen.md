@@ -10,6 +10,8 @@ affiliation: (1) [Leibniz Institute of Freshwater Ecology and Inland Fisheries](
 github: Daniel-Mietchen
 orcid: https://orcid.org/0000-0001-9488-1870
 wikidata: https://www.wikidata.org/wiki/Q20895785
+scholia: https://scholia.toolforge.org/author/Q20895785
+role: editor
 ---
 
 I am a biophysicist-turned data scientist based in Jena, Germany, and a volunteer in the Wikimedia ecosystem, i.e. the set of open-knowledge platforms around Wikipedia, Wikimedia Commons and especially Wikidata.

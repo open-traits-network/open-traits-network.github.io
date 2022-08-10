@@ -2,6 +2,7 @@
 layout: dataset
 id: avonet
 name: AVONET
+contentURL: NA
 datasetDOI_URL: https://figshare.com/s/b990722d72a26b5bfead
 contactName: Joe Tobias
 contactEmail: j.tobias@imperial.ac.uk

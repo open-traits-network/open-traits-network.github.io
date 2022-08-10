@@ -13,7 +13,8 @@ Please fill out the template below and click "submit" to request a trait dataset
 layout: dataset
 id: try
 name: TRY
-datasetDOI_URL: https://www.try-db.org
+contentURL: https://example.org/data.zip # direct data download, NA when not available
+datasetDOI_URL: https://www.try-db.org # points to human readable landing page
 contactName: Jens Kattge
 contactEmail: jkattge@bgc-jena.mpg.de
 license: CC BY
