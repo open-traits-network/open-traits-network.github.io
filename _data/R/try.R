@@ -28,14 +28,14 @@
 # rename columns
   
   try %>%
-    rename(taxonIDVerbatim = AccSpeciesID,
+    rename(taxonIdVerbatim = AccSpeciesID,
            scientificNameVerbatim = AccSpeciesName,
            traitIdVerbatim = TraitID,
            traitNameVerbatim = TraitName,
-           NumberOfRecords = CountOfObsDataID,
+           numberOfRecords = CountOfObsDataID,
            family = Family) %>%
     mutate(accessDate = Sys.Date(),
-           OTNdatasetID = dataset,
+           datasetId = dataset,
            curator = curator
            )-> try
   
@@ -47,7 +47,8 @@
 #zip file
 
   R.utils::gzip(filename = "_data/R/temp/try.csv",
-                destname = "_data/R/summaries/try.csv.gz")
+                destname = "_data/R/summaries/try.csv.gz",
+                overwrite = TRUE)
   
 #remove temp file
 
