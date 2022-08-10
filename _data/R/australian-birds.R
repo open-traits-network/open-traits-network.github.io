@@ -11,6 +11,10 @@ library(tidyverse)
   if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
 
 
+# set variables
+  curator <- "brian-s-maitner"
+  dataset <- "australian-birds"
+
 # Download file
   download.file(url = "https://figshare.com/ndownloader/files/3417176",
                 destfile = "_data/R/temp/australian-birds.csv")
@@ -26,20 +30,26 @@ library(tidyverse)
     pivot_longer(cols = c(96:110,112:192), names_to = "traitNameVerbatim", values_to = "traitvalues") -> ausbirds
 
   # NA removal?
-  
+  ausbirds$traitvalues
+  ausbirds$traitNameVerbatim
+
   ausbirds %>%
     dplyr::select(scientificNameVerbatim, family, traitNameVerbatim, traitvalues)%>%
     group_by(scientificNameVerbatim,family,traitNameVerbatim) %>%
     summarise(NumberOfRecords = n())%>%
-    mutate(accessDate = Sys.Date()) -> ausbirds
+    mutate(accessDate = Sys.Date(),
+           OTNdatasetID = dataset,
+           accessDate = Sys.Date()) -> ausbirds
 
-  
 #write output
-  write.csv(x = ausbirds,file = "_data/R/summaries/australian-birds.csv")
+  write.csv(x = ausbirds,file = "_data/R/temp/australian-birds.csv")
   
 # zipping
-  
+  zip(zipfile = "_data/R/summaries/australian-birds.zip",
+      files = "_data/R/temp/australian-birds.csv")  
 
+# clean up
+  unlink(file.path("_data/R/temp/"))
   
   
   
