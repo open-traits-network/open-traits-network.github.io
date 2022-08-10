@@ -1,6 +1,6 @@
 The Open Traits Network maintains a member registry. This page aims to information to help OTN members and editors to do so.
 
-[`editorial guidelines`](#member-editorial-guidelines)[`process`](#member-registration-process) / [`creating member file`](#creating-a-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
+[`editorial guidelines`](#member-editorial-guidelines) / [`process`](#member-registration-process) / [`creating member file`](#creating-a-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
 
 # Member Editorial Guidelines
 
