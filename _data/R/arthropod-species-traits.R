@@ -1,12 +1,15 @@
 library(reshape2)
 library(dplyr)
+library(tidyverse)
+library(R.utils)
 
 # create output directory
 if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
 if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
-curator <- "alexander-keller"
+curator <- "https://opentraits.org/members/alexander-keller"
+dataset_url <- "https://opentraits.org/datasets/arthropod-species-traits"
 dataset <- "arthropod-species-traits"
 
 # Download file
@@ -34,7 +37,7 @@ arthropod.species.traits_summary <- arthropod.species.traits_long.filter %>% cou
 names(arthropod.species.traits_summary)[1] <- "scientificNameVerbatim"
 names(arthropod.species.traits_summary)[2] <- "traitNameVerbatim"
 names(arthropod.species.traits_summary)[3] <- "NumberOfRecords"
-arthropod.species.traits_summary$OTNdatasetID <- dataset
+arthropod.species.traits_summary$OTNdatasetID <- dataset_url
 arthropod.species.traits_summary$curator <- curator
 arthropod.species.traits_summary$accessDate <- Sys.Date()
 
@@ -42,5 +45,5 @@ arthropod.species.traits_summary$accessDate <- Sys.Date()
 head(arthropod.species.traits_summary)
 
 write.csv(arthropod.species.traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
-gzip(paste("../summaries/",dataset,".csv",sep=""), destname=paste("../summaries/",dataset,".gz",sep=""))
+gzip(paste("../summaries/",dataset,".csv",sep=""), destname=paste("../summaries/",dataset,".csv.gz",sep=""))
 unlink(paste("../summaries/",dataset,".csv",sep=""))

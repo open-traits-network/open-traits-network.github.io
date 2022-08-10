@@ -20,7 +20,7 @@ for (i in 1:length(list.zip)){
 setwd(root.dir)
 
 headerTable = data.frame(matrix(vector(), 0, 21,
-                        dimnames=list(c(), c("taxonIDVerbatim","scientificNameVerbatim","resolvedTaxonId","resolvedTaxonName","parentTaxonID","family","phylum","traitIdVerbatim","traitNameVerbatim","bucketId","bucketName","OTNdatasetID","NumberOfRecords","curator","accessDate","Comment","id","url","datasetDOI_URL","title"))),
+                        dimnames=list(c(), c("taxonIdVerbatim","scientificNameVerbatim","resolvedTaxonId","resolvedTaxonName","parentTaxonId","family","phylum","traitIdVerbatim","traitNameVerbatim","bucketId","bucketName","counts","datasetId","numberOfRecords","curator","accessDate"))),
                         stringsAsFactors=F)
 
 
