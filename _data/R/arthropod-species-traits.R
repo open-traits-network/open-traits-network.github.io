@@ -1,12 +1,25 @@
 library(reshape2)
 library(dplyr)
 
-# Downloaded from: https://doi.org/10.5061/dryad.53ds2
+# create output directory
+if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
+if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
+
+# set variables
 curator <- "alexander-keller"
 dataset <- "arthropod-species-traits"
 
-setwd("~/Documents/Arbeit/Projects/Ecology/sDevTrait_Synthesis/GAPS/R")
-arthropod.species.traits <- read.table(paste("../data/",dataset,".txt", sep=""), sep="\t", header=T, fill=T)
+# Download file
+download.file(url = "https://datadryad.org/stash/downloads/file_stream/41139",
+              destfile = paste("_data/R/temp/",dataset, sep=""))
+setwd("_data/R/temp")
+
+# unzipping if necessary
+#unzip(dataset)
+
+# setting location of table and read file
+path <- dataset
+arthropod.species.traits <- read.table(paste("./", path, sep=""), sep="\t", header=T, fill=T)
 cols.used <- c(4,6:16)
 
 ## reshape from wide to long 
@@ -28,4 +41,6 @@ arthropod.species.traits_summary$accessDate <- Sys.Date()
 
 head(arthropod.species.traits_summary)
 
-write.csv(arthropod.species.traits_summary, file="summaries/arthropod-species-traits.csv" )
+write.csv(arthropod.species.traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
+zip(paste("../summaries/",dataset,".zip",sep=""),paste("../summaries/",dataset,".csv",sep="") )
+unlink(paste("../summaries/",dataset,".csv",sep=""))
