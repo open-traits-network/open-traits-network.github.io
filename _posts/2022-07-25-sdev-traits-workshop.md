@@ -22,7 +22,12 @@ attendees:
 
 
 
-Information to be added.
+## Topics
 
+- structure of the Open Traits Network website
+- curation of metadata about trait-related datasets via the [Datasets registry](https://opentraits.org/datasets.html)
+- reusing existing datasets, e.g. for doing a gap analysis of trait data
+- exploring mechanisms to engage the broader trait community
+- integration with generic infrastructures relevant to traits, e.g. Wikidata
 
 
