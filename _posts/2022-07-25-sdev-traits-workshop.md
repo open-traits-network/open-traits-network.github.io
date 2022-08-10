@@ -31,3 +31,14 @@ attendees:
 - integration with generic infrastructures relevant to traits, e.g. [Wikidata](https://wikidata.org/)
 
 
+|Attendees|
+|---|
+{%- for att in page.attendees %}
+| [{{ att }}](/members/{{ att }})|
+{%- endfor %}
+
+|Organizers|
+|---|
+{%- for att in page.organizers %}
+| [{{ att }}](/members/{{ att }})|
+{%- endfor %}
