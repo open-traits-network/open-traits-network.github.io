@@ -1,6 +1,5 @@
 #load libraries
-library(tidyverse)
-
+  library(tidyverse)
 
 # create temporary directory
 
@@ -12,8 +11,8 @@ library(tidyverse)
 
 
 # set variables
-  curator <- "brian-s-maitner"
-  dataset <- "australian-birds"
+  curator <- "https://opentraits.org/members/brian-s-maitner"
+  dataset <- "https://opentraits.org/datasets/australian-birds"
 
 # Download file
   download.file(url = "https://figshare.com/ndownloader/files/3417176",
@@ -43,14 +42,17 @@ library(tidyverse)
            curator = curator) -> ausbirds
 
 #write output
-  write.csv(x = ausbirds,file = "_data/R/temp/australian-birds.csv")
+  write.csv(x = ausbirds,
+            file = "_data/R/temp/australian-birds.csv",
+            row.names = FALSE)
   
 # zipping
 
   R.utils::gzip(filename = "_data/R/temp/australian-birds.csv",
-       destname = "_data/R/summaries/australian-birds.gz")
+       destname = "_data/R/summaries/australian-birds.csv.gz")
   
 # clean up
+  
   unlink(file.path("_data/R/temp/"), recursive = TRUE)
   
   
