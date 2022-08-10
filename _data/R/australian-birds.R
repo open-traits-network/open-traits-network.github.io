@@ -46,9 +46,10 @@ library(tidyverse)
   write.csv(x = ausbirds,file = "_data/R/temp/australian-birds.csv")
   
 # zipping
-  zip(zipfile = "_data/R/summaries/australian-birds.zip",
-      files = "_data/R/temp/australian-birds.csv")  
 
+  R.utils::gzip(filename = "_data/R/temp/australian-birds.csv",
+       destname = "_data/R/summaries/australian-birds.gz")
+  
 # clean up
   unlink(file.path("_data/R/temp/"), recursive = TRUE)
   
