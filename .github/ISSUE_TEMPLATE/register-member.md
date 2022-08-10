@@ -21,6 +21,7 @@ affiliation: Department of Biological Sciences, Macquarie University, Sydney, NS
 github: rachaelgallagher
 orcid: https://orcid.org/0000-0002-4680-8115
 wikidata: https://www.wikidata.org/wiki/Q62558788
+scholia: https://scholia.toolforge.org/author/Q62558788 # for more information about scholia see https://scholia.toolforge.org . 
 ---
 
 Rachael is a plant ecologist based in Sydney Australia. 
