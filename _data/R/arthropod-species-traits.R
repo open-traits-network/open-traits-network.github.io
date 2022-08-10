@@ -42,5 +42,5 @@ arthropod.species.traits_summary$accessDate <- Sys.Date()
 head(arthropod.species.traits_summary)
 
 write.csv(arthropod.species.traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
-zip(paste("../summaries/",dataset,".zip",sep=""),paste("../summaries/",dataset,".csv",sep="") )
+gzip(paste("../summaries/",dataset,".csv",sep=""), destname=paste("../summaries/",dataset,".gz",sep=""))
 unlink(paste("../summaries/",dataset,".csv",sep=""))
