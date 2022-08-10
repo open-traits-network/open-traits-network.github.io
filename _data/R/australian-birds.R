@@ -50,7 +50,7 @@ library(tidyverse)
       files = "_data/R/temp/australian-birds.csv")  
 
 # clean up
-  unlink(file.path("_data/R/temp/"))
+  unlink(file.path("_data/R/temp/"), recursive = TRUE)
   
   
   
