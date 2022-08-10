@@ -25,6 +25,8 @@ library(tidyverse)
     rename("family" = X10_Family_scientific_name_2) %>%
     pivot_longer(cols = c(96:110,112:192), names_to = "traitNameVerbatim", values_to = "traitvalues") -> ausbirds
 
+  # NA removal?
+  
   ausbirds %>%
     dplyr::select(scientificNameVerbatim, family, traitNameVerbatim, traitvalues)%>%
     group_by(scientificNameVerbatim,family,traitNameVerbatim) %>%
@@ -35,7 +37,7 @@ library(tidyverse)
 #write output
   write.csv(x = ausbirds,file = "_data/R/summaries/australian-birds.csv")
   
-
+# zipping
   
 
   
