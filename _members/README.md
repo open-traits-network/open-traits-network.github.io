@@ -1,7 +1,12 @@
 The Open Traits Network maintains a member registry. This page aims to information to help OTN members and editors to do so.
 
-[`process`](#member-registration-process) / [`creating member file`](#creating-a-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
+[`editorial guidelines`](#member-editorial-guidelines)[`process`](#member-registration-process) / [`creating member file`](#creating-a-member-file) / [`member profile`](#profile) / [`member photo`](#photo) 
 
+# Member Editorial Guidelines
+
+1. Consent is required from member when personal information is added or changed. Minor corrections like malformed urls or truncating lat/lng coordinates do not need consent.
+
+2. A github issues should be opened whenever you'd like to add, remove, or change member property to a member template.  
 
 # Member Registration Process
 
