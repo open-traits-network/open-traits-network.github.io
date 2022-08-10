@@ -1,12 +1,25 @@
 library(reshape2)
 library(dplyr)
 
-# Downloaded from: https://figshare.com/s/b990722d72a26b5bfead
+# create output directory
+if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
+if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
+
+# set variables
 curator <- "alexander-keller"
 dataset <- "avonet"
 
-setwd("~/Documents/Arbeit/Projects/Ecology/sDevTrait_Synthesis/GAPS/R")
-traits <- read.table(paste("../data/avonet/ELECode/ELEData/TraitData/AVONET_Raw_Data.csv", sep=""), sep=",", header=T, fill=T)
+# Download file
+download.file(url = "https://figshare.com/ndownloader/files/34480865?private_link=b990722d72a26b5bfead",
+              destfile = paste("_data/R/temp/",dataset, sep=""))
+setwd("_data/R/temp")
+
+# unzipping if necessary
+unzip(dataset)
+
+# setting location of table and read file
+path <- "ELEData/TraitData/AVONET_Raw_Data.csv"
+traits <- read.table(paste("./", path, sep=""), sep=",", header=T, fill=T)
 
 tail(traits)
 cols.used <- c(1,2,14:23)
@@ -26,14 +39,16 @@ traits_summary <- traits_long.filter %>% count(Avibase.ID,Species1_BirdLife,vari
 
 names(traits_summary)[1] <- "taxonIDVerbatim"
 names(traits_summary)[2] <- "scientificNameVerbatim"
-
-
 names(traits_summary)[3] <- "traitNameVerbatim"
 names(traits_summary)[4] <- "NumberOfRecords"
+
 traits_summary$OTNdatasetID <- dataset
 traits_summary$curator <- curator
 traits_summary$accessDate <- Sys.Date()
 
 head(traits_summary)
 
-write.csv(traits_summary, file=paste("summaries/",dataset,".csv",sep="") )
+write.csv(traits_summary, file=paste("../summaries/",dataset,".csv",sep="") )
+zip(paste("../summaries/",dataset,".zip",sep=""), files=c(paste("../summaries/",dataset,".csv",sep="")) )
+unlink(paste("../summaries/",dataset,".csv",sep=""))
+
