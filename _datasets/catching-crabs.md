@@ -2,6 +2,7 @@
 layout: dataset
 id: catching-crabs
 name: Catching crabs, a case study in local-scale English conservation
+contentURL: NA
 Timestamp: 8/29/2019 22:16:50
 datasetDOI_URL: https://figshare.com/articles/Catching_crabs_a_case_study_in_local_scale_English_conservation/979288
 contactName: Will Pearse

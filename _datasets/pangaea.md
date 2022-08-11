@@ -2,6 +2,7 @@
 layout: dataset
 id: pangaea
 name: Pangaea
+contentURL: NA
 Timestamp: 9/5/2019 11:37:39
 datasetDOI_URL: https://doi.pangaea.de/10.1594/PANGAEA.862968
 contactName: Philipp Brun

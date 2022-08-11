@@ -2,6 +2,7 @@
 layout: dataset
 id: betydb
 name: BETYdb
+contentURL: NA
 datasetDOI_URL: https://betydb.org
 contactName: David LeBauer
 contactEmail: dlebauer@arizona.edu
