@@ -2,7 +2,7 @@
 layout: dataset
 id: try
 name: TRY - Global Plant Trait Database
-contentURL: https://github.com/open-traits-network/open-traits-network.github.io/blob/9d2abc8b02bda357708f6b5458013f56446fe539/_data/R/manual_downloads/SpeciesTraitsCombinations4OTN_Family.zip
+contentURL: https://raw.githubusercontent.com/open-traits-network/otn-taxon-trait-summary/a69427ac1f4ca392457e5cef8fb649232cf86fbb/_data/R/manual_downloads/SpeciesTraitsCombinations4OTN_Family.zip 
 Timestamp: 8/28/2019 10:33:07
 datasetDOI_URL: https://www.try-db.org
 contactName: Jens Kattge / Gerhard Boenisch / Sandra Díaz / Sandra Lavorel / Colin Prentice / Paul Leadley / Christian Wirth / the TRY Network
