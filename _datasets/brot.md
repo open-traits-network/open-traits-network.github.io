@@ -2,7 +2,7 @@
 layout: dataset
 id: brot
 name: BROT
-contentURL: NA
+contentURL: https://figshare.com/ndownloader/files/11194784
 datasetDOI_URL: https://dx.doi.org/10.6084/m9.figshare.c.3843841
 contactName: Juli Pausas
 contactEmail: juli.g.pausas@ext.uv.es
