@@ -18,6 +18,7 @@ attendees:
   - caterina-penone
   - jens-kattge
   - stefanie-dekeyzer
+  - katja-c-seltmann
 ---
 
 
