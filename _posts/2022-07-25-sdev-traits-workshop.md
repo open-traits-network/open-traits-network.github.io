@@ -10,7 +10,6 @@ organizers:
 attendees:
   - markus-j-ankenbrand
   - alexander-keller
-  - rachael-v-gallagher
   - jennifer-hammock
   - jorrit-h-poelen
   - daniel-mietchen
