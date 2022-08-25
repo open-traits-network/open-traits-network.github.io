@@ -21,7 +21,7 @@ attendees:
   - katja-c-seltmann
 ---
 
-Also see https://www.idiv.de/en/sdevtrait.html .
+Also see [https://www.idiv.de/en/sdevtrait.html](https://www.idiv.de/en/sdevtrait.html) for background.
 
 ## Topics
 
