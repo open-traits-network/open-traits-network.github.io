@@ -4,10 +4,11 @@ id: b-erfanian
 name: Mohammad Bagher Erfanian
 role: editor
 email: b.erfanian@um.ac.ir
+orcid: https://orcid.org/0000-0002-8671-9037
 homepage: https://www.researchgate.net/profile/Mohammad_Bagher_Erfanian
 lat: 36.312190
 long: 59.531861
-affiliation: Quantitative Plant Ecology and Biodiversity Research Lab., Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran 
+affiliation: Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran 
 github: BErfanian
 ---
 
