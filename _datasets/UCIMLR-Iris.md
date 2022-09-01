@@ -14,7 +14,7 @@ decimalLongitude: -65.75278
 taxon: Iris
 eventDate: about 1934
 paperDOIcitation: https://doi.org/10.1111/j.1469-1809.1936.tb02137.x
-description: Flower traits
+description: 50 datapoints each for four flower traits (sepal length in cm, sepal width in cm, petal length in cm and petal width in cm) in three Iris species (Iris setosa,  Iris versicolor, Iris virginica). This dataset is famous enough to have Wikipedia articles about it in 12 languages as well as a range of public versions and mirror copies, including via the default distributions of RStudio or the Python library pandas. The UCI-MLR version listed here corrects some of the statistical mistakes found in the original work by Fisher 1936, yet it introduces a spelling error in the name of Iris versicolor.
 taxaList: Iris setosa | Iris versicolor | Iris virginica
 usefulClasses: 
 dataStandard: 
