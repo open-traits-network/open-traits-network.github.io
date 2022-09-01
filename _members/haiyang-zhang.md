@@ -1,7 +1,7 @@
 ---
 layout: member
 id: haiyang-zhang
-name: Haiyang_Zhang
+name: Haiyang Zhang
 email: zhanghaiyang798@gmail.com
 lat: -33.77403
 long: 151.115978
