@@ -2,9 +2,9 @@
 layout: dataset
 id: elton-traits
 name: Elton Traits
-contentURL: NA
+contentURL: https://figshare.com/collections/EltonTraits_1_0_Species-level_foraging_attributes_of_the_world_s_birds_and_mammals/3306933
 Timestamp: 8/29/2019 17:42:27
-datasetDOI_URL: http://www.esapubs.org/archive/ecol/E095/178/
+datasetDOI_URL: https://doi.org/10.6084/m9.figshare.c.3306933.v1
 contactName: Walter Jetz
 contactEmail: 
 license: CC BY 4.0
