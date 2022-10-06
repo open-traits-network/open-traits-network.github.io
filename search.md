@@ -2,6 +2,7 @@
 layout: page
 title: Search
 id: search
+unlist: true
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
