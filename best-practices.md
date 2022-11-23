@@ -20,6 +20,7 @@ in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033]()
 
 ## Table of contents (in progress)
 
+[https://github.com/open-traits-network/open-traits-network.github.io/blob/best-practices/best-practices.md#motivation](Motivation)
 1. Select the right trait
 2. Consult existing data
 3. Rely on measurement protocols and know your units
