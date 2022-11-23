@@ -9,8 +9,8 @@ long: 43.9677° W
 affiliation: Department of Genetics, Ecology and Evolution, Federal University of Minas Gerais, Brazil
 github: faosilveira
 orcid: https://orcid.org/0000-0001-9700-7521
-wikidata: https://www.wikidata.org/wiki/Q62558788
-scholia: https://scholia.toolforge.org/author/Q62558788 # for more information about scholia see https://scholia.toolforge.org . 
+wikidata: 
+scholia: 
 ---
 
 Fernando is a plant ecologist based in Belo Horizonte, Brazil. 
