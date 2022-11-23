@@ -1,3 +1,9 @@
+---
+layout: page
+title: Select the right trait
+id: best-practices-select-the-right-trait
+---
+
 # Select the right trait
 (based on Rule 1 of the article [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033))
 
