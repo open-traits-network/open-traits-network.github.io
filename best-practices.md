@@ -9,7 +9,7 @@ Based on the the article, but open for public additions from the scientific comm
 
 **"Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences"**
 
-in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033)
+in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033]()
 
 
 ## Abstract
@@ -18,4 +18,15 @@ in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033](https://doi.o
 3. This article is particularly motivated by its last rule, i.e. to propagate the good practices, and has the intention of bringing awareness of the different facets of a trait's life cycle to the community. 
 4. When it comes to working with trait data, we gain particularly as an interdisciplinary community of field biologists, synthesis ecologists, computer scientists and database managers. We hope these basic guidelines can be useful as a starter for active communication in disseminating such integrative knowledge and how to make trait data future-proof.
 
-## Full Text (coming soon)
+## Table of contents (in progress)
+
+1. Select the right trait
+2. Consult existing data
+3. Rely on measurement protocols and know your units
+4. Context is crucial
+5. Structure trait data
+6. Check and process 
+7. Know the limitations 
+8. Publish trait data together with metadata 
+9. Review data and code like the research itself
+10. Propagate the good practices
