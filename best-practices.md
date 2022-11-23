@@ -4,7 +4,7 @@ title: Best Practices
 id: best-practices
 ---
 
-A community driven resource for best practices
+# A community driven resource for best practices
 Based on the the article, but open for public additions from the scientific community:
 
 **"Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences"**
