@@ -9,9 +9,7 @@ Based on the the article, but open for public additions from the scientific comm
 
 **"Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences"**
 
-in Methods in Ecology and Evolution.
-
-[doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033)
+in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033)
 
 
 1. Traits have become a crucial part of ecological and evolutionary sciences, helping researchers understand the function of an organism's morphology, physiology, growth and life-history, with effects on fitness, behaviour, interactions with the environment, and ecosystem processes. However, compiling and analysing trait data comes with data-scientific challenges due to the complex nature of trait data. 
