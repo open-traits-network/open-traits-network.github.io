@@ -31,6 +31,10 @@ in Methods in Ecology and Evolution. [doi:10.1111/2041-210X.14033]()
 9. Review data and code like the research itself
 10. Propagate the good practices
 
+Best practices and where they apply in the overall trait data life cycle. Each topic is primarily applied to a specific element or the whole span of the cycle (in bold) but can also be necessary to other elements (secondary application). 
+
+![Trait life Cycle](https://github.com/open-traits-network/open-traits-network.github.io/blob/best-practices/_best-practices/Trait_data_fig_new2.png)
+
 ## Motivation
 As early as 300 BC, Greek philosophers such as Theophrastus forged the first formal systems defining and classifying organisms by their combination of morphological, physiological, behavioural, and phenological characteristics, i.e., their traits (Weiher et al., 1999). Knowing an organism’s traits often allows deeper understanding of its life-history, behaviour, fitness, biotic interactions and potential responses to and effects on ecosystem processes (Violle et al., 2007). Traits can also allow a better understanding of the processes behind ecological and evolutionary patterns (Sutherland et al., 2013), and offer a bridge between different dimensions: from organismal biology, e.g. population abundance (Webb et al., 2010), species distribution (Sporbert et al., 2021), and phylogeny (Junker et al., 2015; Tucker et al., 2018) to ecosystem functioning (Lavorel & Garnier, 2002; Wright et al., 2016).
 
