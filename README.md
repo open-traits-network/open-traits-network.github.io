@@ -1,14 +1,11 @@
-## Open Traits Network Registry and Website
+## Best Practices to future-proof trait data in ecological and evolutionary sciences
 
 ### What is this?
 
-This is the registry and website for the Open Traits Network.
+Here is a community driven resource for best practices to future-proof trait data in ecological and evolutionary sciences.
 
-It uses GitHub pages and can be visited at: https://open-traits-network.github.io/
+The first idea come from the **"Ten (mostly) simple rules to future-proof trait data in ecological and evolutionary sciences"** in Methods in Ecology and Evolution  [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033). But this is a live document and is open for public additions from the scientific community. 
 
-We map https://opentraits.org to this address.
-
-This registry and website was inspired by http://github.com/OBOFoundry/OBOFoundry.github.io design (see also http://obofoundry.org) and borrows from it.
 
 ### How does it work?
 
