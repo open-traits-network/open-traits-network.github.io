@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Select the right trait
-id: best-practices-select-the-right-trait
+title: References for Best Practices
+id: best-practices-references
 ---
 
 # References
-(based on Rule 1 of the article [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033))
 
 * Ankenbrand, M. J., Hohlfeld, S. C. Y., Weber, L., Förster, F., & Keller, A. (2018). Functional exploration of natural networks and ecological communities. Methods in Ecology and Evolution, 9: 2028-2033. https://doi.org/10.1111/2041-210X.13060
 * Bongers, F. J., Schmid, B., Bruelheide, H., Bongers, F., Li, S., von Oheimb, G., Li, Y., Cheng, A., Ma, K., & Liu, X. (2021). Functional diversity effects on productivity increase with age in a forest biodiversity experiment. Nature Ecology & Evolution, 5(12), Article 12. https://doi.org/10.1038/s41559-021-01564-3
