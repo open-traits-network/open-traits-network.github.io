@@ -1,3 +1,9 @@
+---
+layout: page
+title: Consult existing data
+id: best-practices-consult-existing-data
+---
+
 # Consult existing data
 (based on Rule 2 of the article [doi:10.1111/2041-210X.14033](https://doi.org/10.1111/2041-210X.14033))
 
