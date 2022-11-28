@@ -22,9 +22,12 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 ## Multilingual Abstracts: 
 
+[French](best-practices/simple_abstract/french)
+
 [German](best-practices/simple_abstract/german)
 
 [Persian](best-practices/simple_abstract/persian)
+
 
 ## Table of contents (in progress)
 
