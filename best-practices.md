@@ -22,24 +22,24 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 ## Multilingual Abstracts: 
 
-[German](simple_abstract/german.html)
+[German](best-practices/simple_abstract/german.html)
 
 ## Table of contents (in progress)
 
-[Motivation](00_motivation.html)
+[Motivation](best-practices/00_motivation.html)
 
-1. [Select the right trait](01_select-the-right-trait.html)
-2. [Consult existing data](02_consult-existing-data.html)
-3. [Rely on measurement protocols and know your units](./_best-pracices/03_rely-on-measurement-protocols-and-know-your-units.html)
-4. [Context is crucial](04_context-is-crucial.html)
-5. [Structure trait data](05_structure-trait-data.html)
-6. [Check and process](06_check-and-process.html)
-7. [Know the limitations ](07_know-the-limitations.html)
-8. [Publish trait data together with metadata ](08_publish-trait-data-together-with-metadata.html)
-9. [Review data and code like the research itself](09_review-data-and-code-like-the-research-itself.html)
-10. [Propagate the good practices](10_propagate-the-good-practices)
+1. [Select the right trait](best-practices/01_select-the-right-trait.html)
+2. [Consult existing data](best-practices/02_consult-existing-data.html)
+3. [Rely on measurement protocols and know your units](best-practices/03_rely-on-measurement-protocols-and-know-your-units.html)
+4. [Context is crucial](best-practices/04_context-is-crucial.html)
+5. [Structure trait data](best-practices/05_structure-trait-data.html)
+6. [Check and process](best-practices/06_check-and-process.html)
+7. [Know the limitations ](best-practices/07_know-the-limitations.html)
+8. [Publish trait data together with metadata ](best-practices/08_publish-trait-data-together-with-metadata.html)
+9. [Review data and code like the research itself](best-practices/09_review-data-and-code-like-the-research-itself.html)
+10. [Propagate the good practices](best-practices/10_propagate-the-good-practices)
 
-[References](99_references)
+[References](best-practices/99_references)
 
-![Trait life Cycle](Trait_data_fig_new2.png)
+![Trait life Cycle](best-practices/Trait_data_fig_new2.png)
 *Best practices and where they apply in the overall trait data life cycle. Each topic is primarily applied to a specific element or the whole span of the cycle (in bold) but can also be necessary to other elements (secondary application).*
