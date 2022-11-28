@@ -1,3 +1,7 @@
+---
+unlist: true
+---
+
 ## Best Practices to future-proof trait data in ecological and evolutionary sciences
 
 ### What is this?
