@@ -1,0 +1,7 @@
+I tratti biologici sono diventati una parte cruciale delle scienze ecologiche ed evolutive. I tratti aiutano i ricercatori a capire le funzioni della morfologia, della fisiologia, della crescita e della storia di vita di un organismo, con effetti sulla fitness, sul comportamento, sulle interazioni con l'ambiente e sui processi ecosistemici. Tuttavia, la compilazione e l'analisi dei dati sui tratti delle specie comporta sfide scientifiche a causa della loro natura complessa. 
+
+Proponiamo qui le migliori prassi, con alcune estensioni dettagliate, come guida per prendere decisioni critiche che considerino l'intero ciclo di vita dei dati sui tratti. Questo documento è particolarmente motivato dalla diffusione stessa delle buone prassi, e ha l'intenzione di portare alla comunità la consapevolezza delle diverse sfaccettature del ciclo di vita dei dati sui tratti. 
+
+Quando si tratta di lavorare con i dati sui tratti, siamo particolarmente avvantaggiati in quanto comunità interdisciplinare di biologi di campo, ecologi di sintesi, informatici e gestori di database. Ci auguriamo che queste linee guida di base possano essere utili come punto di partenza per una comunicazione attiva nella diffusione di queste conoscenze integrative e per rendere i dati sui tratti a prova di futuro.
+
+Invitiamo la comunità scientifica a contribuire e ad espandere queste buone prassi (Edit/Feedback in testa ad ogni pagina) e ad aggiungerne altre (vedi README.md su Github) per rendere questa risorsa viva, in crescita e in evoluzione, guidata dalla comunità.
