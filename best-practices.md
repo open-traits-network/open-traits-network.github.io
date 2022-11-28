@@ -26,6 +26,8 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 [German](best-practices/simple_abstract/german)
 
+[Italian](best-practices/simple_abstract/italian)
+
 [Persian](best-practices/simple_abstract/persian)
 
 
