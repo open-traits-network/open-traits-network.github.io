@@ -2,6 +2,7 @@
 layout: page
 title: Publish trait data together with metadata
 id: best-practices-publish-trait-data-together-with-metadata
+unlist: true
 ---
 
 # Publish trait data together with metadata 

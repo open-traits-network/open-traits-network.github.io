@@ -2,6 +2,7 @@
 layout: page
 title: Propagate the good practices
 id: best-practices-propagate-the-good-practices
+unlist: true
 ---
 
 # Propagate the good practices

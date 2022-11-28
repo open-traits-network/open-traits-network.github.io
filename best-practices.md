@@ -41,5 +41,5 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 [References](./_best-pracices/99_references.html)
 
-![Trait life Cycle](https://github.com/open-traits-network/open-traits-network.github.io/blob/best-practices/_best-practices/Trait_data_fig_new2.png)
+![Trait life Cycle](Trait_data_fig_new2.png)
 *Best practices and where they apply in the overall trait data life cycle. Each topic is primarily applied to a specific element or the whole span of the cycle (in bold) but can also be necessary to other elements (secondary application).*

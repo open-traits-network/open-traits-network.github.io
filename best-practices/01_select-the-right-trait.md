@@ -2,6 +2,7 @@
 layout: page
 title: Select the right trait
 id: best-practices-select-the-right-trait
+unlist: true
 ---
 
 # Select the right trait

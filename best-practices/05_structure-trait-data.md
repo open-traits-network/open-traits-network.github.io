@@ -2,6 +2,7 @@
 layout: page
 title: Structure trait data
 id: best-practices-structure-trait-data
+unlist: true
 ---
 
 # Structure trait data
