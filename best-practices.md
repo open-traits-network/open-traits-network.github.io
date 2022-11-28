@@ -22,24 +22,24 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 ## Multilingual Abstracts: 
 
-[German](./_best-pracices/simple_abstract/german.html)
+[German](simple_abstract/german.html)
 
 ## Table of contents (in progress)
 
-[Motivation](./_best-pracices/00_motivation.html)
+[Motivation](00_motivation.html)
 
-1. [Select the right trait](./_best-pracices/01_select-the-right-trait.html)
-2. [Consult existing data](./_best-pracices/02_consult-existing-data.html)
+1. [Select the right trait](01_select-the-right-trait.html)
+2. [Consult existing data](02_consult-existing-data.html)
 3. [Rely on measurement protocols and know your units](./_best-pracices/03_rely-on-measurement-protocols-and-know-your-units.html)
-4. [Context is crucial](./_best-pracices/04_context-is-crucial.html)
-5. [Structure trait data](./_best-pracices/05_structure-trait-data.html)
-6. [Check and process](./_best-pracices/06_check-and-process.html)
-7. [Know the limitations ](./_best-pracices/07_know-the-limitations.html)
-8. [Publish trait data together with metadata ](./_best-pracices/08_publish-trait-data-together-with-metadata.html)
-9. [Review data and code like the research itself](./_best-pracices/09_review-data-and-code-like-the-research-itself.html)
-10. [Propagate the good practices](./_best-pracices/10_propagate-the-good-practices.html)
+4. [Context is crucial](04_context-is-crucial.html)
+5. [Structure trait data](05_structure-trait-data.html)
+6. [Check and process](06_check-and-process.html)
+7. [Know the limitations ](07_know-the-limitations.html)
+8. [Publish trait data together with metadata ](08_publish-trait-data-together-with-metadata.html)
+9. [Review data and code like the research itself](09_review-data-and-code-like-the-research-itself.html)
+10. [Propagate the good practices](10_propagate-the-good-practices)
 
-[References](./_best-pracices/99_references.html)
+[References](99_references)
 
 ![Trait life Cycle](Trait_data_fig_new2.png)
 *Best practices and where they apply in the overall trait data life cycle. Each topic is primarily applied to a specific element or the whole span of the cycle (in bold) but can also be necessary to other elements (secondary application).*
