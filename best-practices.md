@@ -45,3 +45,6 @@ When it comes to working with trait data, we gain particularly as an interdiscip
 
 ![Trait life Cycle](best-practices/Trait_data_fig_new2.png)
 *Best practices and where they apply in the overall trait data life cycle. Each topic is primarily applied to a specific element or the whole span of the cycle (in bold) but can also be necessary to other elements (secondary application).*
+
+# Contributors
+[Alexander Keller](members/alexander-keller), [Markus J. Ankenbrand](members/markus-j-ankenbrand), Helge Bruelheide, Stefanie Dekeyzer, Brian J. Enquist, Mohammad Bagher Erfanian, Daniel S. Falster, Rachael V. Gallagher, Jennifer Hammock, Jens Kattge, Sara D. Leonhardt, Joshua S. Madin, Brian Maitner, Margot Neyret, Renske E. Onstein, William D. Pearse, Jorrit H. Poelen, Roberto Salguero-Gomez, Florian D. Schneider, Anikó B. Tóth, Caterina Penone
