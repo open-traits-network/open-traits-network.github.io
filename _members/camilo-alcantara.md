@@ -10,7 +10,7 @@ affiliation: Departmento de Ingeniería Geomática e Hidráulica, Universidad de
 github: camiloalcantara
 orcid: 0000-0001-5820-5365
 wikidata: https://wikidata.org/wiki/Q60097087
-scholia:   
+scholia: https://scholia.toolforge.org/author/Q60097087
 ---
 
 Camilo is a landscape ecologist based in Guanajuato, Mexico. 
