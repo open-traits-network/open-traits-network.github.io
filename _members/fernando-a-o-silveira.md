@@ -4,8 +4,8 @@ id: fernando-a-o-silveira
 name: Fernando AO Silveira
 email: faosilveira@gmail.com
 homepage: leept.webnode.com
-lat: 19.8707° S
-long: 43.9677° W
+lat: -19.8707
+long: -43.9677
 affiliation: Department of Genetics, Ecology and Evolution, Federal University of Minas Gerais, Brazil
 github: faosilveira
 orcid: https://orcid.org/0000-0001-9700-7521
