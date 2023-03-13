@@ -5,7 +5,7 @@ name: M Natalia Umaña
 email: maumana@gmail.com
 homepage:
 lat: 42.28
-long: 83.74
+long: -83.74
 affiliation: Department of Ecology and Evolutionary Biology, University of Michigan
 github: MariaNatalia
 orcid: https://orcid.org/0000-0001-5876-7720
