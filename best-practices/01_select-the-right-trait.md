@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Select the right trait
-id: best-practices-select-the-right-trait
+id: best-practices/best-practices-select-the-right-trait
 unlist: true
 ---
 
