@@ -18,7 +18,7 @@ We offer best practices, with some detailed extensions, as a guide in making cri
 This article is particularly motivated by its last rule, i.e. to propagate the good practices, and has the intention of bringing awareness of the different facets of a trait's life cycle to the community. 
 When it comes to working with trait data, we gain particularly as an interdisciplinary community of field biologists, synthesis ecologists, computer scientists and database managers. We hope these basic guidelines can be useful as a starter for active communication in disseminating such integrative knowledge and how to make trait data future-proof.
 
-**We invite all fellow scientists to contribute and expand these seeds of Best Practices (Edit/Feedback on top of each page) and add additional ones (see README.md on Github) to make this a community-driven living, growing and evolving resource.** 
+**We invite all fellow scientists to contribute and expand these seeds of Best Practices (Edit/Feedback on top of each page) and add additional ones (see [README.md](best-practices/README.md) on Github) to make this a community-driven living, growing and evolving resource.** 
 
 ## Multilingual Abstracts: 
 
