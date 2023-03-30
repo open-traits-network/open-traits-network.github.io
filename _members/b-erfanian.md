@@ -12,9 +12,8 @@ affiliation: Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran
 github: BErfanian
 ---
 
-Bagher is a plant ecologist based in Mashhad Iran. 
+Bagher is a plant ecologist based in Mashhad, Iran. 
 
 ## Collaboration statement
-I enjoy working on applied Ecology. Especially, I am interested in disturbance ecology and evaluating how different human-mediated disturbances shape plant communities and change their features.
-
-I could offer my expertise in the biodiversity (SD, PD, and FD) calculation and contribute trait data from my area. As an early career researcher, I'm always looking for new challenges.
+I enjoy working on applied Ecology. I am interested in disturbance ecology and evaluating how different human-mediated disturbances affect plant communities and change their features.
+I could offer my expertise in the biodiversity (SD, PD, and FD) calculation and contribute trait data from my area. 
