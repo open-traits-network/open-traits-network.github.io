@@ -9,7 +9,7 @@ Rachael Gallagher and collaborators have published their perspective on how to u
 
 ## Citation
 
-Gallagher, R.V., Falster, D.S., Maitner, B.S. et al. Open Science principles for accelerating trait-based science across the Tree of Life. Nat Ecol Evol 4, 294–303 (2020). [https://doi.org/10.1038/s41559-020-1109-6](doi:10.1038/s41559-020-1109-6)
+Gallagher, R.V., Falster, D.S., Maitner, B.S. et al. Open Science principles for accelerating trait-based science across the Tree of Life. Nat Ecol Evol 4, 294–303 (2020). [doi:10.1038/s41559-020-1167-9](https://doi.org/10.1038/s41559-020-1167-9). 
 
 ## Abstract
 
