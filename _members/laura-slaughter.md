@@ -4,8 +4,8 @@ id: laura-slaughter
 name: Laura Slaughter
 email: laura.slaughter@dscience.uio.no
 homepage: https://www.mn.uio.no/ifi/english/people/aca/laurasla/
-lat: 59.9139° N
-long: 10.7522° E
+lat: 59.9139
+long: 10.7522
 affiliation: dScience, University of Oslo & SINTEF Digital 
 github: laura-slaughter
 orcid: https://orcid.org/0000-0002-6908-4906
