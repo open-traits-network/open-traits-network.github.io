@@ -15,7 +15,7 @@ taxon: Anthophila
 eventDate: 
 paperDOIcitation: in review
 description: A dataset of bee morphological traits.
-taxaList: >1200 bee species
+taxaList: '>1200 bee species'
 usefulClasses: 
 dataStandard: Standardization of traits according to https://hymao.org, standardization of taxonomy according to https://gbif.org
 standardizationScripts: NA
