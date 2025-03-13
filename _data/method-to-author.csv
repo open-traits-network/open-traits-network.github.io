@@ -5,8 +5,8 @@ http://www.wikidata.org/entity/Q733115,Amazon Mechanical Turk,Daniel S. Park,htt
 http://www.wikidata.org/entity/Q113391492,AmphiBIO,Brunno Freire Oliveira | Caterina Penone,https://scholia.toolforge.org/organization/Q112326635/use/Q113391492
 http://www.wikidata.org/entity/Q2844175,Amphibian Species of the World,Brunno Freire Oliveira | Caterina Penone,https://scholia.toolforge.org/organization/Q112326635/use/Q2844175
 http://www.wikidata.org/entity/Q513297,ArcGIS,Alexander Keller | Ben Sparrow | Brad Boyle | Brian J. Enquist | Cyrille Violle | Dalia A. Conde | David B. Roy | Diogo Borges Provete | Ignasi Bartomeus | Jonas J. Lembrechts | Katherine C B Weiss | Katja Seltmann | Loïc Chalmandrier | Luca Santini | Maurizio Rossetto | Michael Ray Kearney | Rachael V. Gallagher | Ralf B. Schäfer | Renee A. Catullo | Richard J Telford | Sadie J. Ryan | Steven L. Chown | Vanessa M. Adams | Vigdis Vandvik | Yaoqi Li,https://scholia.toolforge.org/organization/Q112326635/use/Q513297
-http://www.wikidata.org/entity/Q76693569,Author Disambiguator,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q76693569
-http://www.wikidata.org/entity/Q182505,Bayes' theorem,John Alroy,https://scholia.toolforge.org/organization/Q112326635/use/Q182505
+http://www.wikidata.org/entity/Q76693569,Author Disa,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q76693569
+http://www.wikidata.org/entity/Q182505,Bayes' theorem,Camilo Alcántara | John Alroy,https://scholia.toolforge.org/organization/Q112326635/use/Q182505
 http://www.wikidata.org/entity/Q25117580,Brassica rapa var. chinensis,Ignasi Bartomeus,https://scholia.toolforge.org/organization/Q112326635/use/Q25117580
 http://www.wikidata.org/entity/Q112352166,COVID-19 State and County Policy Orders,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112352166
 http://www.wikidata.org/entity/Q2383032,Chemistry Development Kit,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q2383032
@@ -15,6 +15,7 @@ http://www.wikidata.org/entity/Q112144946,ClassyFire,Daniel Mietchen,https://sch
 http://www.wikidata.org/entity/Q96777166,ClinWiki,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q96777166
 http://www.wikidata.org/entity/Q107068605,Clinical Trials Wiki Loader,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q107068605
 http://www.wikidata.org/entity/Q5133746,ClinicalTrials.gov,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q5133746
+http://www.wikidata.org/entity/Q22907431,Conda,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q22907431
 http://www.wikidata.org/entity/Q113297180,Croatian Biospeleological Society,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q113297180
 http://www.wikidata.org/entity/Q5188229,Crossref,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q5188229
 http://www.wikidata.org/entity/Q3699942,Cytoscape,Anne Thessen | Melissa Haendel,https://scholia.toolforge.org/organization/Q112326635/use/Q3699942
@@ -31,6 +32,7 @@ http://www.wikidata.org/entity/Q8038,GIMP,Daniel Mietchen,https://scholia.toolfo
 http://www.wikidata.org/entity/Q364,GitHub,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q364
 http://www.wikidata.org/entity/Q65691453,Global Names Architecture,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q65691453
 http://www.wikidata.org/entity/Q9340,Google Drive,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q9340
+http://www.wikidata.org/entity/Q494817,Google Scholar,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q494817
 http://www.wikidata.org/entity/Q46261310,Google Sheets,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q46261310
 http://www.wikidata.org/entity/Q112335268,Hi-Knowledge,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112335268
 http://www.wikidata.org/entity/Q1659584,ImageJ,Alexander Keller | Aud H. Halbritter | Brian J. Enquist | Brian S. Maitner | Cyrille Violle | Daniel Mietchen | Daniel S. Park | Ian J. Wright | Jacintha Ellers | Jens Kattge | Jonas J. Lembrechts | Joseph A Tobias | Joshua S Madin | Malte Jochum | Mark Westoby | Maurizio Rossetto | Michael Ray Kearney | Ralf B. Schäfer | Richard J Telford | Sean T. Michaletz | Vigdis Vandvik | Wilco C.E.P. Verberk,https://scholia.toolforge.org/organization/Q112326635/use/Q1659584
@@ -38,6 +40,7 @@ http://www.wikidata.org/entity/Q922063,International Plant Names Index,Brian J. 
 http://www.wikidata.org/entity/Q847675,JUnit,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q847675
 http://www.wikidata.org/entity/Q251,Java,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q251
 http://www.wikidata.org/entity/Q2005,JavaScript,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q2005
+http://www.wikidata.org/entity/Q105099901,Jupyter Notebook,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q105099901
 http://www.wikidata.org/entity/Q70357595,Jupyter notebook file,Anne Thessen | Daniel Mietchen | Markus Ankenbrand | Melissa Haendel,https://scholia.toolforge.org/organization/Q112326635/use/Q70357595
 http://www.wikidata.org/entity/Q1632589,Jurkat,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q1632589
 http://www.wikidata.org/entity/Q3816639,Kotlin,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q3816639
@@ -70,7 +73,7 @@ http://www.wikidata.org/entity/Q229883,PubMed Central,Daniel Mietchen,https://sc
 http://www.wikidata.org/entity/Q28865,Python,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q28865
 http://www.wikidata.org/entity/Q20084080,QuickStatements,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q20084080
 http://www.wikidata.org/entity/Q206904,R,Brian J. Enquist | Daniel Mietchen | Ian J. Wright | Jens Kattge | Mark Westoby | Pete Manning | Rachael V. Gallagher,https://scholia.toolforge.org/organization/Q112326635/use/Q206904
-http://www.wikidata.org/entity/Q73539779,R package,Brad Boyle | Brian J. Enquist | Brian S. Maitner | Cyrille Violle | Daniel Falster | Ignasi Bartomeus | John Alroy | Malte Jochum | Michael Ray Kearney | Ralf B. Schäfer | Roberto Salguero-Gómez | Sandra M Durán | William D. Pearse,https://scholia.toolforge.org/organization/Q112326635/use/Q73539779
+http://www.wikidata.org/entity/Q73539779,R package,Brad Boyle | Brian J. Enquist | Brian S. Maitner | Cyrille Violle | Daniel Falster | Ignasi Bartomeus | John Alroy | Malte Jochum | Michael Ray Kearney | Ralf B. Schäfer | Roberto Salguero-Gómez | Sandra M. Durán | William D. Pearse,https://scholia.toolforge.org/organization/Q112326635/use/Q73539779
 http://www.wikidata.org/entity/Q7455975,RDF4J,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q7455975
 http://www.wikidata.org/entity/Q54152347,RDKit,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q54152347
 http://www.wikidata.org/entity/Q113297189,RNAlater,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q113297189
@@ -79,20 +82,21 @@ http://www.wikidata.org/entity/Q25338539,Research Data Alliance,Daniel Mietchen,
 http://www.wikidata.org/entity/Q54872,Resource Description Framework,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q54872
 http://www.wikidata.org/entity/Q54871,SPARQL,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q54871
 http://www.wikidata.org/entity/Q32146616,SPARQL 1.1 Query Language,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q32146616
+http://www.wikidata.org/entity/Q181596,SPSS,Ian J. Wright | Mark Westoby,https://scholia.toolforge.org/organization/Q112326635/use/Q181596
 http://www.wikidata.org/entity/Q47607,SQL,Melissa Haendel,https://scholia.toolforge.org/organization/Q112326635/use/Q47607
 http://www.wikidata.org/entity/Q719725,Saccharomyces cerevisiae,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q719725
 http://www.wikidata.org/entity/Q45340488,Scholia,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q45340488
 http://www.wikidata.org/entity/Q197492,SciPy,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q197492
 http://www.wikidata.org/entity/Q28406945,SpaCy,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q28406945
 http://www.wikidata.org/entity/Q112335497,Standards for Reporting Qualitative Research,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112335497
-http://www.wikidata.org/entity/Q181596,Statistical Package for the Social Sciences,Ian J. Wright | Mark Westoby,https://scholia.toolforge.org/organization/Q112326635/use/Q181596
 http://www.wikidata.org/entity/Q111972233,SuperPattern Ontology,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q111972233
 http://www.wikidata.org/entity/Q26882268,TABernacle,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q26882268
-http://www.wikidata.org/entity/Q113391569,TRY,Ian J. Wright | Jens Kattge | Roberto Salguero-Gómez | Yaoqi Li,https://scholia.toolforge.org/organization/Q112326635/use/Q113391569
+http://www.wikidata.org/entity/Q113391569,TRY Plant Trait Database,Ian J. Wright | Jens Kattge | Roberto Salguero-Gómez | Yaoqi Li,https://scholia.toolforge.org/organization/Q112326635/use/Q113391569
 http://www.wikidata.org/entity/Q60755534,Tidyverse,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q60755534
 http://www.wikidata.org/entity/Q7839811,TriG,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q7839811
 http://www.wikidata.org/entity/Q112338883,UpSetR,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112338883
 http://www.wikidata.org/entity/Q107014192,VanderBot,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q107014192
+http://www.wikidata.org/entity/Q1201886,Web of Science,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q1201886
 http://www.wikidata.org/entity/Q2013,Wikidata,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q2013
 http://www.wikidata.org/entity/Q20950365,Wikidata Query Service,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q20950365
 http://www.wikidata.org/entity/Q52,Wikipedia,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q52
@@ -123,6 +127,8 @@ http://www.wikidata.org/entity/Q113203921,intertegular span,Ignasi Bartomeus,htt
 http://www.wikidata.org/entity/Q113187106,leaf mass per area,Ian J. Wright | Mark Westoby,https://scholia.toolforge.org/organization/Q112326635/use/Q113187106
 http://www.wikidata.org/entity/Q112236343,limma,Jacintha Ellers | Melissa Haendel,https://scholia.toolforge.org/organization/Q112326635/use/Q112236343
 http://www.wikidata.org/entity/Q10861030,linear regression,Daniel Falster | Ian J. Wright | Mark Westoby,https://scholia.toolforge.org/organization/Q112326635/use/Q10861030
+http://www.wikidata.org/entity/Q161238,magnetic resonance imaging,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q161238
+http://www.wikidata.org/entity/Q3333382,mesocosm,Jérôme Mathieu | Ralf B. Schäfer,https://scholia.toolforge.org/organization/Q112326635/use/Q3333382
 http://www.wikidata.org/entity/Q1066633,optical tweezers,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q1066633
 http://www.wikidata.org/entity/Q15967387,pandas,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q15967387
 http://www.wikidata.org/entity/Q106407822,phyloseq,Alexander Keller | Caterina Penone | Markus Ankenbrand | Steven L. Chown,https://scholia.toolforge.org/organization/Q112326635/use/Q106407822
@@ -131,8 +137,10 @@ http://www.wikidata.org/entity/Q2873,principal component analysis,Ian J. Wright 
 http://www.wikidata.org/entity/Q113206456,proboscis length,Ignasi Bartomeus,https://scholia.toolforge.org/organization/Q112326635/use/Q113206456
 http://www.wikidata.org/entity/Q747810,questionnaire,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q747810
 http://www.wikidata.org/entity/Q208042,regression analysis,Ian J. Wright | Mark Westoby,https://scholia.toolforge.org/organization/Q112326635/use/Q208042
+http://www.wikidata.org/entity/Q199687,remote sensing,Jens Kattge | Jonas J. Lembrechts,https://scholia.toolforge.org/organization/Q112326635/use/Q199687
 http://www.wikidata.org/entity/Q112338817,rentrez,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112338817
 http://www.wikidata.org/entity/Q112338595,rotl,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112338595
 http://www.wikidata.org/entity/Q112335435,sdcMicro,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112335435
+http://www.wikidata.org/entity/Q878130,stable isotope,Anton Potapov | Colleen M. Iversen,https://scholia.toolforge.org/organization/Q112326635/use/Q878130
 http://www.wikidata.org/entity/Q112338859,treeio,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112338859
 http://www.wikidata.org/entity/Q112338902,webchem,Daniel Mietchen,https://scholia.toolforge.org/organization/Q112326635/use/Q112338902
