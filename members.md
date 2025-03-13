@@ -7,6 +7,8 @@ id: members
 <link rel="stylesheet" type="text/css" href="css/leaflet.css">
 <link rel="stylesheet" type="text/css" href="css/MarkerCluster.Default.css">
 
+The Open Traits Network has members participating in [events](events), contributing to [publications](publications) and studying specific [taxa](taxa). 
+
 Would you like to become a member? Watch [Aud Halbritter](http://opentraits.org/members/aud-h-halbritter)'s [how-to-join video](https://youtu.be/bgVd-OHdZH4) and introduce yourself [here](https://github.com/open-traits-network/open-traits-network.github.io/issues/new?assignees=open-traits-network%2Feditors&labels=new+member&template=register-member.md&title=I%27d+like+to+join+the+Open+Traits+Network). Don't have a github account? Send an  {% include register-member-email.html -%} instead.
 
 {% include editorial_status.html %}
