@@ -6,7 +6,7 @@ email: potapov.msu@gmail.com
 homepage: http://ecotaxonomy.org
 lat: 51.5379
 long: 9.9373
-affiliation: Department of Animal Ecology, Institute of Zoology and Anthropology, Univerisyt of Goettingen, Goettingen, Germany
+affiliation: Department of Animal Ecology, Institute of Zoology and Anthropology, University of Goettingen, Goettingen, Germany
 github: AntonCollembola
 ---
 
