@@ -15,7 +15,7 @@ The member registration process is as follows:
 1. prospective member opens a "register member" github issue via https://github.com/open-traits-network/open-traits-network.github.io/issues/new/choose
 2. prospective member fills out the member registration form provided in the member registration issue template. This template is managed at [.github/ISSUE_TEMPLATES/register-member.md](../../../tree/master/.github/ISSUE_TEMPLATE/register-member.md) 
 3. prospective member submits the issue
-4. OTN editor [self-assigns](https://help.github.com/en/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users) the issue to indicate to others the they are working on it.
+4. OTN editor [self-assigns](https://help.github.com/en/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users) the issue to indicate to others that they are working on it.
 5. OTN editor reviews the registration request, asking for information if needed via issue.
 6. on approval, OTN editor creates a new member file, and commits/pushes the changes to the OTN registry repository.
 7. OTN editor verifies that the new addition is available via https://opentraits.org
