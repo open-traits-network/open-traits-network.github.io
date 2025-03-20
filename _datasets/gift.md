@@ -13,7 +13,7 @@ decimalLatitude:
 decimalLongitude:
 taxon: Tracheophyta
 eventDate: NA
-paperDOIcitation: 10.1111/2041-210X.14213
+paperDOIcitation: https://doi.org/10.1111/2041-210X.14213
 description: A database of plant checklists and functional traits.
 taxaList: 354,848 plant taxa, standardized mainly based on The World Checklist of Vascular Plants
 usefulClasses: Mostly traits coming from floras/checklists
