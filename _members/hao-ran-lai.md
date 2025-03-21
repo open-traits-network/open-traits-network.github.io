@@ -1,6 +1,6 @@
 ---
 layout: member
-id: hrlai
+id: hao-ran-lai
 name: Hao Ran Lai
 email: hrlai.ecology@gmail.com
 homepage: https://hrlai.netlify.app/
