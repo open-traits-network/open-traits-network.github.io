@@ -7,7 +7,7 @@ datasetDOI_URL: https://doi.org/10.6084/m9.figshare.26342614.v2
 contactName: Luca Santini
 contactEmail: luca.santini@uniroma1.it
 license: CC BY
-traitList: >54,300 georeferenced and dated population density estimates in terrestrial vertebrates
+traitList: ">54,300 georeferenced and dated population density estimates in terrestrial vertebrates"
 higherGeography: Global
 taxon: Tetrapodes (Amphibians, Reptiles, Birds, Mammals)
 eventDate: 1926 to 2024
