@@ -11,7 +11,7 @@ traitList: ">54,300 georeferenced and dated population density estimates in terr
 higherGeography: Global
 taxon: Tetrapodes (Amphibians, Reptiles, Birds, Mammals)
 eventDate: 1926 to 2024
-paperDOIcitation: 10.1111/geb.13929
+paperDOIcitation: https://doi.org/10.1111/geb.13929
 description: A database of population density estimates
 taxaList: 3,717 tetrapod species (3% amphibians, 9% reptiles, 59% birds, 28% mammals)
 ---
