@@ -1,12 +1,12 @@
 ---
 layout: member
-id: [Dongboli](https://github.com/Dongboli)
+id: dongboli
 name: Dongbo Li
 email: d.b.li@leeds.ac.uk
 homepage: https://biologicalsciences.leeds.ac.uk/biological-sciences/staff/2776/dr-dongbo-li
-lat: 53.8008° N
-long: 1.5491° W
-affiliation: School of Biology, University of Leeds, Leeds, United Kingdom
+lat: 53.8008
+long: -1.5491
+affiliation: "School of Biology, University of Leeds, Leeds, United Kingdom"
 github: Dongboli
 orcid: https://orcid.org/0000-0003-0471-7917
 wikidata: 
