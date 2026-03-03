@@ -14,7 +14,6 @@ decimalLongitude:
 taxon: 
 eventDate: 
 paperDOIcitation: https://doi.org/10.1111/1365-2435.70147 
-description: 
 dataStandard: 
 webpage: https://sharetrait.org/
 ---
